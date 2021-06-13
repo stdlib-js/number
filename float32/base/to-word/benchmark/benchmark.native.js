@@ -24,7 +24,7 @@ var resolve = require( 'path' ).resolve;
 var bench = require( '@stdlib/bench' );
 var randu = require( '@stdlib/random/base/randu' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
 var tryRequire = require( '@stdlib/utils/try-require' );
 var pkg = require( './../package.json' ).name;
 

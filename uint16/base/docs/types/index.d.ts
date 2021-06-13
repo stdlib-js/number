@@ -21,8 +21,8 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import fromBinaryStringUint16 = require( '@stdlib/number/uint16/base/from-binary-string' );
-import toBinaryStringUint16 = require( '@stdlib/number/uint16/base/to-binary-string' );
+import fromBinaryStringUint16 = require( './../../../../uint16/base/from-binary-string' );
+import toBinaryStringUint16 = require( './../../../../uint16/base/to-binary-string' );
 
 /**
 * Interface describing the `base` namespace.

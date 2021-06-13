@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/exponent}
 */
-setReadOnly( ns, 'exponent', require( '@stdlib/number/float64/base/exponent' ) );
+setReadOnly( ns, 'exponent', require( './../../../float64/base/exponent' ) );
 
 /**
 * @name fromBinaryString
@@ -52,7 +52,7 @@ setReadOnly( ns, 'exponent', require( '@stdlib/number/float64/base/exponent' ) )
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/from-binary-string}
 */
-setReadOnly( ns, 'fromBinaryString', require( '@stdlib/number/float64/base/from-binary-string' ) );
+setReadOnly( ns, 'fromBinaryString', require( './../../../float64/base/from-binary-string' ) );
 
 /**
 * @name fromInt64Bytes
@@ -61,7 +61,7 @@ setReadOnly( ns, 'fromBinaryString', require( '@stdlib/number/float64/base/from-
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/from-int64-bytes}
 */
-setReadOnly( ns, 'fromInt64Bytes', require( '@stdlib/number/float64/base/from-int64-bytes' ) );
+setReadOnly( ns, 'fromInt64Bytes', require( './../../../float64/base/from-int64-bytes' ) );
 
 /**
 * @name fromWords
@@ -70,7 +70,7 @@ setReadOnly( ns, 'fromInt64Bytes', require( '@stdlib/number/float64/base/from-in
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/from-words}
 */
-setReadOnly( ns, 'fromWords', require( '@stdlib/number/float64/base/from-words' ) );
+setReadOnly( ns, 'fromWords', require( './../../../float64/base/from-words' ) );
 
 /**
 * @name getHighWord
@@ -79,7 +79,7 @@ setReadOnly( ns, 'fromWords', require( '@stdlib/number/float64/base/from-words' 
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/get-high-word}
 */
-setReadOnly( ns, 'getHighWord', require( '@stdlib/number/float64/base/get-high-word' ) );
+setReadOnly( ns, 'getHighWord', require( './../../../float64/base/get-high-word' ) );
 
 /**
 * @name getLowWord
@@ -88,7 +88,7 @@ setReadOnly( ns, 'getHighWord', require( '@stdlib/number/float64/base/get-high-w
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/get-low-word}
 */
-setReadOnly( ns, 'getLowWord', require( '@stdlib/number/float64/base/get-low-word' ) );
+setReadOnly( ns, 'getLowWord', require( './../../../float64/base/get-low-word' ) );
 
 /**
 * @name normalize
@@ -97,7 +97,7 @@ setReadOnly( ns, 'getLowWord', require( '@stdlib/number/float64/base/get-low-wor
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/normalize}
 */
-setReadOnly( ns, 'normalize', require( '@stdlib/number/float64/base/normalize' ) );
+setReadOnly( ns, 'normalize', require( './../../../float64/base/normalize' ) );
 
 /**
 * @name setHighWord
@@ -106,7 +106,7 @@ setReadOnly( ns, 'normalize', require( '@stdlib/number/float64/base/normalize' )
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/set-high-word}
 */
-setReadOnly( ns, 'setHighWord', require( '@stdlib/number/float64/base/set-high-word' ) );
+setReadOnly( ns, 'setHighWord', require( './../../../float64/base/set-high-word' ) );
 
 /**
 * @name setLowWord
@@ -115,7 +115,7 @@ setReadOnly( ns, 'setHighWord', require( '@stdlib/number/float64/base/set-high-w
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/set-low-word}
 */
-setReadOnly( ns, 'setLowWord', require( '@stdlib/number/float64/base/set-low-word' ) );
+setReadOnly( ns, 'setLowWord', require( './../../../float64/base/set-low-word' ) );
 
 /**
 * @name signbit
@@ -124,7 +124,7 @@ setReadOnly( ns, 'setLowWord', require( '@stdlib/number/float64/base/set-low-wor
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/signbit}
 */
-setReadOnly( ns, 'signbit', require( '@stdlib/number/float64/base/signbit' ) );
+setReadOnly( ns, 'signbit', require( './../../../float64/base/signbit' ) );
 
 /**
 * @name toBinaryString
@@ -133,7 +133,7 @@ setReadOnly( ns, 'signbit', require( '@stdlib/number/float64/base/signbit' ) );
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-binary-string}
 */
-setReadOnly( ns, 'toBinaryString', require( '@stdlib/number/float64/base/to-binary-string' ) );
+setReadOnly( ns, 'toBinaryString', require( './../../../float64/base/to-binary-string' ) );
 
 /**
 * @name float64ToFloat32
@@ -142,7 +142,7 @@ setReadOnly( ns, 'toBinaryString', require( '@stdlib/number/float64/base/to-bina
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-float32}
 */
-setReadOnly( ns, 'float64ToFloat32', require( '@stdlib/number/float64/base/to-float32' ) );
+setReadOnly( ns, 'float64ToFloat32', require( './../../../float64/base/to-float32' ) );
 
 /**
 * @name float64ToInt32
@@ -151,7 +151,7 @@ setReadOnly( ns, 'float64ToFloat32', require( '@stdlib/number/float64/base/to-fl
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-int32}
 */
-setReadOnly( ns, 'float64ToInt32', require( '@stdlib/number/float64/base/to-int32' ) );
+setReadOnly( ns, 'float64ToInt32', require( './../../../float64/base/to-int32' ) );
 
 /**
 * @name float64ToInt64Bytes
@@ -160,7 +160,7 @@ setReadOnly( ns, 'float64ToInt32', require( '@stdlib/number/float64/base/to-int3
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-int64-bytes}
 */
-setReadOnly( ns, 'float64ToInt64Bytes', require( '@stdlib/number/float64/base/to-int64-bytes' ) );
+setReadOnly( ns, 'float64ToInt64Bytes', require( './../../../float64/base/to-int64-bytes' ) );
 
 /**
 * @name float64ToUint32
@@ -169,7 +169,7 @@ setReadOnly( ns, 'float64ToInt64Bytes', require( '@stdlib/number/float64/base/to
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-uint32}
 */
-setReadOnly( ns, 'float64ToUint32', require( '@stdlib/number/float64/base/to-uint32' ) );
+setReadOnly( ns, 'float64ToUint32', require( './../../../float64/base/to-uint32' ) );
 
 /**
 * @name toWords
@@ -178,7 +178,7 @@ setReadOnly( ns, 'float64ToUint32', require( '@stdlib/number/float64/base/to-uin
 * @type {Function}
 * @see {@link module:@stdlib/number/float64/base/to-words}
 */
-setReadOnly( ns, 'toWords', require( '@stdlib/number/float64/base/to-words' ) );
+setReadOnly( ns, 'toWords', require( './../../../float64/base/to-words' ) );
 
 
 // EXPORTS //

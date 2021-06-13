@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import int32ToUint32 = require( '@stdlib/number/int32/base/to-uint32' );
+import int32ToUint32 = require( './../../../../int32/base/to-uint32' );
 
 /**
 * Interface describing the `base` namespace.

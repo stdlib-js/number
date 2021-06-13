@@ -24,7 +24,7 @@ var FLOAT32_SMALLEST_NORMAL = require( '@stdlib/constants/float32/smallest-norma
 var PINF = require( '@stdlib/constants/float32/pinf' );
 var NINF = require( '@stdlib/constants/float32/ninf' );
 var abs = require( '@stdlib/math/base/special/abs' );
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
 
 
 // VARIABLES //

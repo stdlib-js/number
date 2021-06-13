@@ -18,7 +18,7 @@
 
 'use strict';
 
-var toBinaryStringUint32 = require( '@stdlib/number/uint32/base/to-binary-string' );
+var toBinaryStringUint32 = require( './../../../../uint32/base/to-binary-string' );
 var MAX_INT = require( '@stdlib/constants/uint32/max' );
 var rotr32 = require( './../lib' );
 

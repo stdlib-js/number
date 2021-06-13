@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var toWord = require( '@stdlib/number/float32/base/to-word' );
+var toWord = require( './../../../../float32/base/to-word' );
 
 
 // MAIN //

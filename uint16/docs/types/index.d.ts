@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import base = require( '@stdlib/number/uint16/base' );
+import base = require( './../../../uint16/base' );
 
 /**
 * Interface describing the `uint16` namespace.

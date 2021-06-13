@@ -27,7 +27,7 @@ var NINF = require( '@stdlib/constants/float64/ninf' );
 var lpad = require( '@stdlib/string/left-pad' );
 var repeat = require( '@stdlib/string/repeat' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toBinaryString = require( '@stdlib/number/float64/base/to-binary-string' );
+var toBinaryString = require( './../../../../float64/base/to-binary-string' );
 var tryRequire = require( '@stdlib/utils/try-require' );
 
 

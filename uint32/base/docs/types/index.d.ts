@@ -21,11 +21,11 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import fromBinaryStringUint32 = require( '@stdlib/number/uint32/base/from-binary-string' );
-import rotl32 = require( '@stdlib/number/uint32/base/rotl' );
-import rotr32 = require( '@stdlib/number/uint32/base/rotr' );
-import toBinaryStringUint32 = require( '@stdlib/number/uint32/base/to-binary-string' );
-import uint32ToInt32 = require( '@stdlib/number/uint32/base/to-int32' );
+import fromBinaryStringUint32 = require( './../../../../uint32/base/from-binary-string' );
+import rotl32 = require( './../../../../uint32/base/rotl' );
+import rotr32 = require( './../../../../uint32/base/rotr' );
+import toBinaryStringUint32 = require( './../../../../uint32/base/to-binary-string' );
+import uint32ToInt32 = require( './../../../../uint32/base/to-int32' );
 
 /**
 * Interface describing the `base` namespace.

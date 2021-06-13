@@ -26,7 +26,7 @@ var NINF = require( '@stdlib/constants/float32/ninf' );
 var isNegativeZero = require( '@stdlib/math/base/assert/is-negative-zero' );
 var isPositiveZero = require( '@stdlib/math/base/assert/is-positive-zero' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
-var toBinaryStringf = require( '@stdlib/number/float32/base/to-binary-string' );
+var toBinaryStringf = require( './../../../../float32/base/to-binary-string' );
 var fromBinaryStringf = require( './../lib' );
 
 

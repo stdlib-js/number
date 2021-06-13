@@ -21,21 +21,21 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import exponent = require( '@stdlib/number/float64/base/exponent' );
-import fromBinaryString = require( '@stdlib/number/float64/base/from-binary-string' );
-import fromWords = require( '@stdlib/number/float64/base/from-words' );
-import getHighWord = require( '@stdlib/number/float64/base/get-high-word' );
-import getLowWord = require( '@stdlib/number/float64/base/get-low-word' );
-import normalize = require( '@stdlib/number/float64/base/normalize' );
-import setHighWord = require( '@stdlib/number/float64/base/set-high-word' );
-import setLowWord = require( '@stdlib/number/float64/base/set-low-word' );
-import signbit = require( '@stdlib/number/float64/base/signbit' );
-import toBinaryString = require( '@stdlib/number/float64/base/to-binary-string' );
-import float64ToFloat32 = require( '@stdlib/number/float64/base/to-float32' );
-import float64ToInt32 = require( '@stdlib/number/float64/base/to-int32' );
-import float64ToInt64Bytes = require( '@stdlib/number/float64/base/to-int64-bytes' );
-import float64ToUint32 = require( '@stdlib/number/float64/base/to-uint32' );
-import toWords = require( '@stdlib/number/float64/base/to-words' );
+import exponent = require( './../../../../float64/base/exponent' );
+import fromBinaryString = require( './../../../../float64/base/from-binary-string' );
+import fromWords = require( './../../../../float64/base/from-words' );
+import getHighWord = require( './../../../../float64/base/get-high-word' );
+import getLowWord = require( './../../../../float64/base/get-low-word' );
+import normalize = require( './../../../../float64/base/normalize' );
+import setHighWord = require( './../../../../float64/base/set-high-word' );
+import setLowWord = require( './../../../../float64/base/set-low-word' );
+import signbit = require( './../../../../float64/base/signbit' );
+import toBinaryString = require( './../../../../float64/base/to-binary-string' );
+import float64ToFloat32 = require( './../../../../float64/base/to-float32' );
+import float64ToInt32 = require( './../../../../float64/base/to-int32' );
+import float64ToInt64Bytes = require( './../../../../float64/base/to-int64-bytes' );
+import float64ToUint32 = require( './../../../../float64/base/to-uint32' );
+import toWords = require( './../../../../float64/base/to-words' );
 
 /**
 * Interface describing the `base` namespace.

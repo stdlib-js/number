@@ -43,7 +43,7 @@ var ns = {};
 * @type {Namespace}
 * @see {@link module:@stdlib/number/uint8/base}
 */
-setReadOnly( ns, 'base', require( '@stdlib/number/uint8/base' ) );
+setReadOnly( ns, 'base', require( './../../uint8/base' ) );
 
 
 // EXPORTS //

@@ -43,7 +43,7 @@ var ns = {};
 * @type {Namespace}
 * @see {@link module:@stdlib/number/float32/base}
 */
-setReadOnly( ns, 'base', require( '@stdlib/number/float32/base' ) );
+setReadOnly( ns, 'base', require( './../../float32/base' ) );
 
 
 // EXPORTS //

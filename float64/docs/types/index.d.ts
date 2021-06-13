@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import base = require( '@stdlib/number/float64/base' );
+import base = require( './../../../float64/base' );
 
 /**
 * Interface describing the `float64` namespace.

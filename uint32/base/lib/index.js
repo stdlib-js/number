@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/uint32/base/from-binary-string}
 */
-setReadOnly( ns, 'fromBinaryStringUint32', require( '@stdlib/number/uint32/base/from-binary-string' ) );
+setReadOnly( ns, 'fromBinaryStringUint32', require( './../../../uint32/base/from-binary-string' ) );
 
 /**
 * @name rotl32
@@ -52,7 +52,7 @@ setReadOnly( ns, 'fromBinaryStringUint32', require( '@stdlib/number/uint32/base/
 * @type {Function}
 * @see {@link module:@stdlib/number/uint32/base/rotl}
 */
-setReadOnly( ns, 'rotl32', require( '@stdlib/number/uint32/base/rotl' ) );
+setReadOnly( ns, 'rotl32', require( './../../../uint32/base/rotl' ) );
 
 /**
 * @name rotr32
@@ -61,7 +61,7 @@ setReadOnly( ns, 'rotl32', require( '@stdlib/number/uint32/base/rotl' ) );
 * @type {Function}
 * @see {@link module:@stdlib/number/uint32/base/rotr}
 */
-setReadOnly( ns, 'rotr32', require( '@stdlib/number/uint32/base/rotr' ) );
+setReadOnly( ns, 'rotr32', require( './../../../uint32/base/rotr' ) );
 
 /**
 * @name toBinaryStringUint32
@@ -70,7 +70,7 @@ setReadOnly( ns, 'rotr32', require( '@stdlib/number/uint32/base/rotr' ) );
 * @type {Function}
 * @see {@link module:@stdlib/number/uint32/base/to-binary-string}
 */
-setReadOnly( ns, 'toBinaryStringUint32', require( '@stdlib/number/uint32/base/to-binary-string' ) );
+setReadOnly( ns, 'toBinaryStringUint32', require( './../../../uint32/base/to-binary-string' ) );
 
 /**
 * @name uint32ToInt32
@@ -79,7 +79,7 @@ setReadOnly( ns, 'toBinaryStringUint32', require( '@stdlib/number/uint32/base/to
 * @type {Function}
 * @see {@link module:@stdlib/number/uint32/base/to-int32}
 */
-setReadOnly( ns, 'uint32ToInt32', require( '@stdlib/number/uint32/base/to-int32' ) );
+setReadOnly( ns, 'uint32ToInt32', require( './../../../uint32/base/to-int32' ) );
 
 
 // EXPORTS //

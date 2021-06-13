@@ -20,7 +20,7 @@
 
 var randu = require( '@stdlib/random/base/randu' );
 var MAX_INT32 = require( '@stdlib/constants/int32/max' );
-var float64ToInt32 = require( '@stdlib/number/float64/base/to-int32' );
+var float64ToInt32 = require( './../../../../float64/base/to-int32' );
 var int32ToUint32 = require( './../lib' );
 
 var uint32;

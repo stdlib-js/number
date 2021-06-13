@@ -23,7 +23,7 @@
 var bench = require( '@stdlib/bench' );
 var randu = require( '@stdlib/random/base/randu' );
 var isBoolean = require( '@stdlib/assert/is-boolean' ).isPrimitive;
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
 var pkg = require( './../package.json' ).name;
 var signbitf = require( './../lib' );
 

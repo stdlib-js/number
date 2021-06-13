@@ -18,7 +18,7 @@
 
 'use strict';
 
-var toBinaryStringUint8 = require( '@stdlib/number/uint8/base/to-binary-string' );
+var toBinaryStringUint8 = require( './../../../../uint8/base/to-binary-string' );
 var fromBinaryStringUint8 = require( './../lib' );
 
 var b;

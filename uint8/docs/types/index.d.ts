@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import base = require( '@stdlib/number/uint8/base' );
+import base = require( './../../../uint8/base' );
 
 /**
 * Interface describing the `uint8` namespace.

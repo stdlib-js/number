@@ -25,7 +25,7 @@ var PINF = require( '@stdlib/constants/float64/pinf' );
 var NINF = require( '@stdlib/constants/float64/ninf' );
 var lpad = require( '@stdlib/string/left-pad' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var bits = require( '@stdlib/number/float64/base/to-binary-string' );
+var bits = require( './../../../../float64/base/to-binary-string' );
 var getLowWord = require( './../lib' );
 
 

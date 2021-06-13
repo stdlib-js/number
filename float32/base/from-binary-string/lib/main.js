@@ -24,7 +24,7 @@ var PINF = require( '@stdlib/constants/float32/pinf' );
 var NINF = require( '@stdlib/constants/float32/ninf' );
 var BIAS = require( '@stdlib/constants/float32/exponent-bias' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
 var toFrac = require( './tofrac.js' );
 
 

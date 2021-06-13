@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var toUint32 = require( '@stdlib/number/int32/base/to-uint32' );
+var toUint32 = require( './../../../../int32/base/to-uint32' );
 
 
 // VARIABLES //

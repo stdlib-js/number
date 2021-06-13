@@ -21,7 +21,7 @@
 var randu = require( '@stdlib/random/base/randu' );
 var round = require( '@stdlib/math/base/special/round' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toBinaryString = require( '@stdlib/number/float64/base/to-binary-string' );
+var toBinaryString = require( './../../../../float64/base/to-binary-string' );
 var fromBinaryString = require( './../lib' );
 
 var frac;

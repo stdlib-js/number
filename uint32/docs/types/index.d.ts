@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import base = require( '@stdlib/number/uint32/base' );
+import base = require( './../../../uint32/base' );
 
 /**
 * Interface describing the `uint32` namespace.

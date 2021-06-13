@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var toBinaryStringUint32 = require( '@stdlib/number/uint32/base/to-binary-string' );
+var toBinaryStringUint32 = require( './../../../../uint32/base/to-binary-string' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var rotl32 = require( './../lib' );
 

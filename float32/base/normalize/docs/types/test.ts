@@ -17,7 +17,7 @@
 */
 
 import normalizef = require( './index' );
-import toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+import toFloat32 = require( './../../../../../float64/base/to-float32' );
 
 
 // TESTS //

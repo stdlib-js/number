@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var getHighWord = require( '@stdlib/number/float64/base/get-high-word' );
+var getHighWord = require( './../../../../float64/base/get-high-word' );
 
 
 // MAIN //

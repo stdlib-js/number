@@ -24,7 +24,7 @@ var tape = require( 'tape' );
 var randu = require( '@stdlib/random/base/randu' );
 var round = require( '@stdlib/math/base/special/round' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
 var signbitf = require( './../lib' );
 
 

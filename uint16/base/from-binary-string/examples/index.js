@@ -21,7 +21,7 @@
 var randu = require( '@stdlib/random/base/randu' );
 var round = require( '@stdlib/math/base/special/round' );
 var MAX_UINT = require( '@stdlib/constants/uint16/max' );
-var toBinaryStringUint16 = require( '@stdlib/number/uint16/base/to-binary-string' );
+var toBinaryStringUint16 = require( './../../../../uint16/base/to-binary-string' );
 var fromBinaryStringUint16 = require( './../lib' );
 
 var b;

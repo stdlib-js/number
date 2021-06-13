@@ -25,7 +25,7 @@ var PINF = require( '@stdlib/constants/float64/pinf' );
 var NINF = require( '@stdlib/constants/float64/ninf' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toWords = require( '@stdlib/number/float64/base/to-words' );
+var toWords = require( './../../../../float64/base/to-words' );
 var fromWords = require( './../lib' );
 
 

@@ -21,16 +21,16 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import exponentf = require( '@stdlib/number/float32/base/exponent' );
-import fromBinaryStringf = require( '@stdlib/number/float32/base/from-binary-string' );
-import fromWordf = require( '@stdlib/number/float32/base/from-word' );
-import normalizef = require( '@stdlib/number/float32/base/normalize' );
-import signbitf = require( '@stdlib/number/float32/base/signbit' );
-import significandf = require( '@stdlib/number/float32/base/significand' );
-import toBinaryStringf = require( '@stdlib/number/float32/base/to-binary-string' );
-import float32ToInt32 = require( '@stdlib/number/float32/base/to-int32' );
-import float32ToUint32 = require( '@stdlib/number/float32/base/to-uint32' );
-import toWordf = require( '@stdlib/number/float32/base/to-word' );
+import exponentf = require( './../../../../float32/base/exponent' );
+import fromBinaryStringf = require( './../../../../float32/base/from-binary-string' );
+import fromWordf = require( './../../../../float32/base/from-word' );
+import normalizef = require( './../../../../float32/base/normalize' );
+import signbitf = require( './../../../../float32/base/signbit' );
+import significandf = require( './../../../../float32/base/significand' );
+import toBinaryStringf = require( './../../../../float32/base/to-binary-string' );
+import float32ToInt32 = require( './../../../../float32/base/to-int32' );
+import float32ToUint32 = require( './../../../../float32/base/to-uint32' );
+import toWordf = require( './../../../../float32/base/to-word' );
 
 /**
 * Interface describing the `base` namespace.

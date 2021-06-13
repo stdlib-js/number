@@ -18,7 +18,7 @@
 
 'use strict';
 
-var float64ToFloat32 = require( '@stdlib/number/float64/base/to-float32' );
+var float64ToFloat32 = require( './../../../../float64/base/to-float32' );
 var randu = require( '@stdlib/random/base/randu' );
 var toWordf = require( './../lib' );
 

@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/exponent}
 */
-setReadOnly( ns, 'exponentf', require( '@stdlib/number/float32/base/exponent' ) );
+setReadOnly( ns, 'exponentf', require( './../../../float32/base/exponent' ) );
 
 /**
 * @name fromBinaryStringf
@@ -52,7 +52,7 @@ setReadOnly( ns, 'exponentf', require( '@stdlib/number/float32/base/exponent' ) 
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/from-binary-string}
 */
-setReadOnly( ns, 'fromBinaryStringf', require( '@stdlib/number/float32/base/from-binary-string' ) );
+setReadOnly( ns, 'fromBinaryStringf', require( './../../../float32/base/from-binary-string' ) );
 
 /**
 * @name fromWordf
@@ -61,7 +61,7 @@ setReadOnly( ns, 'fromBinaryStringf', require( '@stdlib/number/float32/base/from
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/from-word}
 */
-setReadOnly( ns, 'fromWordf', require( '@stdlib/number/float32/base/from-word' ) );
+setReadOnly( ns, 'fromWordf', require( './../../../float32/base/from-word' ) );
 
 /**
 * @name normalizef
@@ -70,7 +70,7 @@ setReadOnly( ns, 'fromWordf', require( '@stdlib/number/float32/base/from-word' )
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/normalize}
 */
-setReadOnly( ns, 'normalizef', require( '@stdlib/number/float32/base/normalize' ) );
+setReadOnly( ns, 'normalizef', require( './../../../float32/base/normalize' ) );
 
 /**
 * @name signbitf
@@ -79,7 +79,7 @@ setReadOnly( ns, 'normalizef', require( '@stdlib/number/float32/base/normalize' 
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/signbit}
 */
-setReadOnly( ns, 'signbitf', require( '@stdlib/number/float32/base/signbit' ) );
+setReadOnly( ns, 'signbitf', require( './../../../float32/base/signbit' ) );
 
 /**
 * @name significandf
@@ -88,7 +88,7 @@ setReadOnly( ns, 'signbitf', require( '@stdlib/number/float32/base/signbit' ) );
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/significand}
 */
-setReadOnly( ns, 'significandf', require( '@stdlib/number/float32/base/significand' ) );
+setReadOnly( ns, 'significandf', require( './../../../float32/base/significand' ) );
 
 /**
 * @name toBinaryStringf
@@ -97,7 +97,7 @@ setReadOnly( ns, 'significandf', require( '@stdlib/number/float32/base/significa
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/to-binary-string}
 */
-setReadOnly( ns, 'toBinaryStringf', require( '@stdlib/number/float32/base/to-binary-string' ) );
+setReadOnly( ns, 'toBinaryStringf', require( './../../../float32/base/to-binary-string' ) );
 
 /**
 * @name float32ToInt32
@@ -106,7 +106,7 @@ setReadOnly( ns, 'toBinaryStringf', require( '@stdlib/number/float32/base/to-bin
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/to-int32}
 */
-setReadOnly( ns, 'float32ToInt32', require( '@stdlib/number/float32/base/to-int32' ) );
+setReadOnly( ns, 'float32ToInt32', require( './../../../float32/base/to-int32' ) );
 
 /**
 * @name float32ToUint32
@@ -115,7 +115,7 @@ setReadOnly( ns, 'float32ToInt32', require( '@stdlib/number/float32/base/to-int3
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/to-uint32}
 */
-setReadOnly( ns, 'float32ToUint32', require( '@stdlib/number/float32/base/to-uint32' ) );
+setReadOnly( ns, 'float32ToUint32', require( './../../../float32/base/to-uint32' ) );
 
 /**
 * @name toWordf
@@ -124,7 +124,7 @@ setReadOnly( ns, 'float32ToUint32', require( '@stdlib/number/float32/base/to-uin
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/to-word}
 */
-setReadOnly( ns, 'toWordf', require( '@stdlib/number/float32/base/to-word' ) );
+setReadOnly( ns, 'toWordf', require( './../../../float32/base/to-word' ) );
 
 
 // EXPORTS //

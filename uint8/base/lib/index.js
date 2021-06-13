@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/uint8/base/from-binary-string}
 */
-setReadOnly( ns, 'fromBinaryStringUint8', require( '@stdlib/number/uint8/base/from-binary-string' ) );
+setReadOnly( ns, 'fromBinaryStringUint8', require( './../../../uint8/base/from-binary-string' ) );
 
 /**
 * @name toBinaryStringUint8
@@ -52,7 +52,7 @@ setReadOnly( ns, 'fromBinaryStringUint8', require( '@stdlib/number/uint8/base/fr
 * @type {Function}
 * @see {@link module:@stdlib/number/uint8/base/to-binary-string}
 */
-setReadOnly( ns, 'toBinaryStringUint8', require( '@stdlib/number/uint8/base/to-binary-string' ) );
+setReadOnly( ns, 'toBinaryStringUint8', require( './../../../uint8/base/to-binary-string' ) );
 
 
 // EXPORTS //

@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/int32/base/to-uint32}
 */
-setReadOnly( ns, 'int32ToUint32', require( '@stdlib/number/int32/base/to-uint32' ) );
+setReadOnly( ns, 'int32ToUint32', require( './../../../int32/base/to-uint32' ) );
 
 
 // EXPORTS //

@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var getHighWord = require( '@stdlib/number/float64/base/get-high-word' );
+var getHighWord = require( './../../../../float64/base/get-high-word' );
 var EXP_MASK = require( '@stdlib/constants/float64/high-word-exponent-mask' );
 var BIAS = require( '@stdlib/constants/float64/exponent-bias' );
 

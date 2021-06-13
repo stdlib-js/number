@@ -21,13 +21,13 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import Number = require( '@stdlib/number/ctor' );
-import float32 = require( '@stdlib/number/float32' );
-import float64 = require( '@stdlib/number/float64' );
-import int32 = require( '@stdlib/number/int32' );
-import uint8 = require( '@stdlib/number/uint8' );
-import uint16 = require( '@stdlib/number/uint16' );
-import uint32 = require( '@stdlib/number/uint32' );
+import Number = require( './../../ctor' );
+import float32 = require( './../../float32' );
+import float64 = require( './../../float64' );
+import int32 = require( './../../int32' );
+import uint8 = require( './../../uint8' );
+import uint16 = require( './../../uint16' );
+import uint32 = require( './../../uint32' );
 
 /**
 * Interface describing the `number` namespace.

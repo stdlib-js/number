@@ -27,8 +27,8 @@ var BIAS = require( '@stdlib/constants/float32/exponent-bias' );
 var randu = require( '@stdlib/random/base/randu' );
 var round = require( '@stdlib/math/base/special/round' );
 var pow = require( '@stdlib/math/base/special/pow' );
-var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
-var bits = require( '@stdlib/number/float32/base/to-binary-string' );
+var toFloat32 = require( './../../../../float64/base/to-float32' );
+var bits = require( './../../../../float32/base/to-binary-string' );
 var exponentf = require( './../lib' );
 
 

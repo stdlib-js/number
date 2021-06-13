@@ -43,7 +43,7 @@ var ns = {};
 * @type {Function}
 * @see {@link module:@stdlib/number/uint16/base/from-binary-string}
 */
-setReadOnly( ns, 'fromBinaryStringUint16', require( '@stdlib/number/uint16/base/from-binary-string' ) );
+setReadOnly( ns, 'fromBinaryStringUint16', require( './../../../uint16/base/from-binary-string' ) );
 
 /**
 * @name toBinaryStringUint16
@@ -52,7 +52,7 @@ setReadOnly( ns, 'fromBinaryStringUint16', require( '@stdlib/number/uint16/base/
 * @type {Function}
 * @see {@link module:@stdlib/number/uint16/base/to-binary-string}
 */
-setReadOnly( ns, 'toBinaryStringUint16', require( '@stdlib/number/uint16/base/to-binary-string' ) );
+setReadOnly( ns, 'toBinaryStringUint16', require( './../../../uint16/base/to-binary-string' ) );
 
 
 // EXPORTS //

@@ -21,7 +21,7 @@
 // MODULES //
 
 var pow = require( '@stdlib/math/base/special/pow' );
-var toUint32 = require( '@stdlib/number/float64/base/to-uint32' );
+var toUint32 = require( './../../../../float64/base/to-uint32' );
 
 
 // VARIABLES //

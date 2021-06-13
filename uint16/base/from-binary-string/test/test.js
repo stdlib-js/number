@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var toBinaryStringUint16 = require( '@stdlib/number/uint16/base/to-binary-string' );
+var toBinaryStringUint16 = require( './../../../../uint16/base/to-binary-string' );
 var fromBinaryStringUint16 = require( './../lib' );
 
 

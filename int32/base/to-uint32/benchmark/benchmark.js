@@ -24,7 +24,7 @@ var bench = require( '@stdlib/bench' );
 var randu = require( '@stdlib/random/base/randu' );
 var round = require( '@stdlib/math/base/special/round' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
-var float64ToInt32 = require( '@stdlib/number/float64/base/to-int32' );
+var float64ToInt32 = require( './../../../../float64/base/to-int32' );
 var pkg = require( './../package.json' ).name;
 var int32ToUint32 = require( './../lib' );
 
