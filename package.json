@@ -47,6 +47,7 @@
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench",
+    "@stdlib/boolean": "github:stdlib-js/boolean",
     "@stdlib/process": "github:stdlib-js/process",
     "@stdlib/random": "github:stdlib-js/random",
     "proxyquire": "^2.0.0",
