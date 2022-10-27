@@ -45,6 +45,24 @@ var ns = {};
 */
 setReadOnly( ns, 'base', require( './../../float64/base' ) );
 
+/**
+* @name reviver
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float64/reviver}
+*/
+setReadOnly( ns, 'reviver', require( './../../float64/reviver' ) );
+
+/**
+* @name toJSON
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float64/to-json}
+*/
+setReadOnly( ns, 'toJSON', require( './../../float64/to-json' ) );
+
 
 // EXPORTS //
 
