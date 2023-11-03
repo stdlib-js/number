@@ -18,8 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/* tslint:disable:max-line-length */
-/* tslint:disable:max-file-line-count */
+/* eslint-disable max-lines */
 
 import exponent = require( './../../../../float64/base/exponent' );
 import fromBinaryString = require( './../../../../float64/base/from-binary-string' );
