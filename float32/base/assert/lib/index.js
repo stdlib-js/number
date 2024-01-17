@@ -37,13 +37,22 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 var ns = {};
 
 /**
-* @name isSameValue
+* @name isSameValuef
 * @memberof ns
 * @readonly
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/assert/is-same-value}
 */
-setReadOnly( ns, 'isSameValue', require( './../../../../float32/base/assert/is-same-value' ) );
+setReadOnly( ns, 'isSameValuef', require( './../../../../float32/base/assert/is-same-value' ) );
+
+/**
+* @name isSameValueZerof
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/assert/is-same-value-zero}
+*/
+setReadOnly( ns, 'isSameValueZerof', require( './../../../../float32/base/assert/is-same-value-zero' ) );
 
 
 // EXPORTS //
