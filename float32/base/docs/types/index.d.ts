@@ -20,6 +20,7 @@
 
 /* eslint-disable max-lines */
 
+import assert = require( './../../../../float32/base/assert' );
 import exponentf = require( './../../../../float32/base/exponent' );
 import fromBinaryStringf = require( './../../../../float32/base/from-binary-string' );
 import fromWordf = require( './../../../../float32/base/from-word' );
@@ -35,6 +36,11 @@ import toWordf = require( './../../../../float32/base/to-word' );
 * Interface describing the `base` namespace.
 */
 interface Namespace {
+	/**
+	* Base double-precision floating-point number assert functions.
+	*/
+	assert: typeof assert;
+
 	/**
 	* Returns an integer corresponding to the unbiased exponent of a single-precision floating-point number.
 	*
