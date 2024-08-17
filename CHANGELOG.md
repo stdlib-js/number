@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2024-08-03)
+## 0.3.0 (2024-08-17)
 
 <section class="packages">
 
@@ -163,69 +163,23 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.release -->
 
+<section class="release" id="v0.2.1">
+
 ## 0.2.1 (2024-02-05)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.2.0">
 
 ## 0.2.0 (2024-02-05)
 
 <section class="packages">
 
 ### Packages
-
-<section class="package" id="number-v0.2.0">
-
-#### [@stdlib/number](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-ctor-v0.2.0">
-
-#### [@stdlib/number/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/ctor)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-v0.2.0">
-
-#### [@stdlib/number/float32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
 
 <section class="package" id="number-float32-base-v0.2.0">
 
@@ -313,138 +267,6 @@ No changes reported for this release.</details>
 <!-- /.features -->
 
 </details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-exponent-v0.2.0">
-
-#### [@stdlib/number/float32/base/exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/exponent)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-from--v0.2.0">
-
-#### [@stdlib/number/float32/base/from-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/from-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-from-word-v0.2.0">
-
-#### [@stdlib/number/float32/base/from-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/from-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-normalize-v0.2.0">
-
-#### [@stdlib/number/float32/base/normalize](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/normalize)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-signbit-v0.2.0">
-
-#### [@stdlib/number/float32/base/signbit](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/signbit)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-significand-v0.2.0">
-
-#### [@stdlib/number/float32/base/significand](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/significand)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-to--v0.2.0">
-
-#### [@stdlib/number/float32/base/to-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/to-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-to-int32-v0.2.0">
-
-#### [@stdlib/number/float32/base/to-int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/to-int32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-to-uint32-v0.2.0">
-
-#### [@stdlib/number/float32/base/to-uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/to-uint32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float32-base-to-word-v0.2.0">
-
-#### [@stdlib/number/float32/base/to-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/to-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-v0.2.0">
-
-#### [@stdlib/number/float64](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64)
-
-<details>
-
-No changes reported for this release.</details>
 
 </section>
 
@@ -563,402 +385,6 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="number-float64-base-from--v0.2.0">
-
-#### [@stdlib/number/float64/base/from-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/from-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-from-int64-bytes-v0.2.0">
-
-#### [@stdlib/number/float64/base/from-int64-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/from-int64-bytes)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-from-words-v0.2.0">
-
-#### [@stdlib/number/float64/base/from-words](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/from-words)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-get-high-word-v0.2.0">
-
-#### [@stdlib/number/float64/base/get-high-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/get-high-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-get-low-word-v0.2.0">
-
-#### [@stdlib/number/float64/base/get-low-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/get-low-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-normalize-v0.2.0">
-
-#### [@stdlib/number/float64/base/normalize](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/normalize)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-set-high-word-v0.2.0">
-
-#### [@stdlib/number/float64/base/set-high-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/set-high-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-set-low-word-v0.2.0">
-
-#### [@stdlib/number/float64/base/set-low-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/set-low-word)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-signbit-v0.2.0">
-
-#### [@stdlib/number/float64/base/signbit](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/signbit)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to--v0.2.0">
-
-#### [@stdlib/number/float64/base/to-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to-float32-v0.2.0">
-
-#### [@stdlib/number/float64/base/to-float32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-float32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to-int32-v0.2.0">
-
-#### [@stdlib/number/float64/base/to-int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-int32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to-int64-bytes-v0.2.0">
-
-#### [@stdlib/number/float64/base/to-int64-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-int64-bytes)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to-uint32-v0.2.0">
-
-#### [@stdlib/number/float64/base/to-uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-uint32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-to-words-v0.2.0">
-
-#### [@stdlib/number/float64/base/to-words](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-words)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-reviver-v0.2.0">
-
-#### [@stdlib/number/float64/reviver](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/reviver)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-int32-v0.2.0">
-
-#### [@stdlib/number/int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-int32-base-v0.2.0">
-
-#### [@stdlib/number/int32/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-int32-base-to-uint32-v0.2.0">
-
-#### [@stdlib/number/int32/base/to-uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/to-uint32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint16-v0.2.0">
-
-#### [@stdlib/number/uint16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint16)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint16-base-v0.2.0">
-
-#### [@stdlib/number/uint16/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint16/base)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint16-base-to--v0.2.0">
-
-#### [@stdlib/number/uint16/base/to-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint16/base/to-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-v0.2.0">
-
-#### [@stdlib/number/uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-v0.2.0">
-
-#### [@stdlib/number/uint32/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-from--v0.2.0">
-
-#### [@stdlib/number/uint32/base/from-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/from-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-rotl-v0.2.0">
-
-#### [@stdlib/number/uint32/base/rotl](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/rotl)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-rotr-v0.2.0">
-
-#### [@stdlib/number/uint32/base/rotr](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/rotr)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-to--v0.2.0">
-
-#### [@stdlib/number/uint32/base/to-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/to-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint32-base-to-int32-v0.2.0">
-
-#### [@stdlib/number/uint32/base/to-int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/to-int32)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint8-v0.2.0">
-
-#### [@stdlib/number/uint8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint8)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint8-base-v0.2.0">
-
-#### [@stdlib/number/uint8/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint8/base)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint8-base-from--v0.2.0">
-
-#### [@stdlib/number/uint8/base/from-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint8/base/from-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-uint8-base-to--v0.2.0">
-
-#### [@stdlib/number/uint8/base/to-](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint8/base/to-)
-
-<details>
-
-No changes reported for this release.</details>
-
-</section>
-
-<!-- /.package -->
-
 </section>
 
 <!-- /.packages -->
@@ -967,10 +393,9 @@ No changes reported for this release.</details>
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Philipp Burckhardt
 -   Philipp Burckhardt
 
 </section>
@@ -1034,27 +459,21 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
 ## 0.1.1 (2023-11-08)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.1.0">
 
 ## 0.1.0 (2023-11-08)
 
@@ -1082,8 +501,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1117,8 +535,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1152,8 +569,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1187,8 +603,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1222,8 +637,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1257,8 +671,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1292,8 +705,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1369,8 +781,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1404,8 +815,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1439,8 +849,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1474,8 +883,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1509,8 +917,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1544,8 +951,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1579,8 +985,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1614,8 +1019,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1649,8 +1053,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1684,8 +1087,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1719,8 +1121,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1754,8 +1155,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1789,8 +1189,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1824,8 +1223,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1901,8 +1299,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1936,8 +1333,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -1971,8 +1367,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2006,8 +1401,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2041,8 +1435,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2076,8 +1469,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2153,8 +1545,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2230,8 +1621,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2265,8 +1655,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2300,8 +1689,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2335,8 +1723,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2370,8 +1757,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2405,8 +1791,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2440,8 +1825,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2475,8 +1859,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2510,8 +1893,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2545,8 +1927,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2580,8 +1961,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2615,8 +1995,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2650,8 +2029,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2685,8 +2063,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2720,8 +2097,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2755,8 +2131,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2790,8 +2165,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2825,8 +2199,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2860,8 +2233,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2895,8 +2267,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ##### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2918,8 +2289,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 ### BREAKING CHANGES
 
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
@@ -2968,223 +2338,107 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.10">
+
 ## 0.0.10 (2021-08-23)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.9">
 
 ## 0.0.9 (2021-07-07)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.8">
 
 ## 0.0.8 (2021-06-27)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.7">
 
 ## 0.0.7 (2021-06-16)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.6">
 
 ## 0.0.6 (2021-06-15)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.5">
 
 ## 0.0.5 (2021-06-13)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.4">
 
 ## 0.0.4 (2021-06-12)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.3">
 
 ## 0.0.3 (2021-06-12)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.2">
 
 ## 0.0.2 (2021-06-10)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.0.1">
 
 ## 0.0.1 (2021-06-10)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<!-- /.release -->
 
