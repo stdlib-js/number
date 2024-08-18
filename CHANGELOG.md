@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.1">
+
+## 0.3.1 (2024-08-18)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-08-17)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="number-float32-base-exponent-unreleased">
+<section class="package" id="number-float32-base-exponent-v0.3.0">
 
 #### [@stdlib/number/float32/base/exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/exponent)
 
@@ -32,7 +42,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="number-float32-base-normalize-unreleased">
+<section class="package" id="number-float32-base-normalize-v0.3.0">
 
 #### [@stdlib/number/float32/base/normalize](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/normalize)
 
@@ -54,7 +64,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="number-float32-base-significand-unreleased">
+<section class="package" id="number-float32-base-significand-v0.3.0">
 
 #### [@stdlib/number/float32/base/significand](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/significand)
 
@@ -76,7 +86,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="number-float64-base-normalize-unreleased">
+<section class="package" id="number-float64-base-normalize-v0.3.0">
 
 #### [@stdlib/number/float64/base/normalize](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/normalize)
 
@@ -98,7 +108,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="number-float64-base-signbit-unreleased">
+<section class="package" id="number-float64-base-signbit-v0.3.0">
 
 #### [@stdlib/number/float64/base/signbit](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/signbit)
 
