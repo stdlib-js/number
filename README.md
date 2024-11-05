@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@v0.3.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Number, float32, float64, int32, uint16, uint32, uint8 } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@deno/mod.js';
+import { Number, float32, float64, int32, uint16, uint32, uint8 } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@v0.3.2-deno/mod.js';
 ```
 
 #### ns
@@ -92,7 +92,7 @@ The namespace contains the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number@v0.3.2-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
