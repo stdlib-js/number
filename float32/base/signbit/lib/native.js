@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -20,7 +20,8 @@
 
 // MODULES //
 
-var toWord = require( './../../../../float32/base/to-word' );
+var Boolean = require( '@stdlib/boolean/ctor' );
+var addon = require( './../src/addon.node' );
 
 
 // MAIN //
@@ -28,8 +29,9 @@ var toWord = require( './../../../../float32/base/to-word' );
 /**
 * Returns a boolean indicating if the sign bit is on (true) or off (false).
 *
-* @param {number} x - single-precision floating-point number
-* @returns {boolean} boolean indicating if sign bit is on or off
+* @private
+* @param {number} x - input value
+* @returns {boolean} - boolean indicating if sign bit is on or off
 *
 * @example
 * var toFloat32 = require( '@stdlib/number/float64/base/to-float32' );
@@ -52,11 +54,7 @@ var toWord = require( './../../../../float32/base/to-word' );
 * // returns true
 */
 function signbitf( x ) {
-	// Convert `x` to an unsigned 32-bit integer corresponding to the value's IEEE 754 binary representation:
-	var w = toWord( x );
-
-	// Shift off all bits which are not the sign bit and check if the sign bit is on:
-	return ( w >>> 31 ) ? true : false; // eslint-disable-line no-unneeded-ternary
+	return Boolean( addon( x ) );
 }
 
 
