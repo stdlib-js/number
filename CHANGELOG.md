@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-01-15)
 
 <section class="packages">
 
@@ -56,6 +56,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`6028758`](https://github.com/stdlib-js/stdlib/commit/6028758df442105f1ac0d4240450c96cf3ad4032) - **docs:** update namespace TypeScript declaration comments [(#4758)](https://github.com/stdlib-js/stdlib/pull/4758) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`9aaeaaa`](https://github.com/stdlib-js/stdlib/commit/9aaeaaadf0c59b4d42e2ba7e1a6ea42a1ae2b09d) - **feat:** add C implementation for `number/float32/base/signbit` [(#3399)](https://github.com/stdlib-js/stdlib/pull/3399) _(by Neeraj Pathak, Athan Reines, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`a72a67a`](https://github.com/stdlib-js/stdlib/commit/a72a67a667bcf694e5f8f2bc3c8e62714e5832bc) - **chore:** minor clean-up _(by Philipp Burckhardt)_
