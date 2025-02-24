@@ -18,9 +18,9 @@ limitations under the License.
 
 -->
 
-# addf
+# mulf
 
-> Compute the sum of two single-precision floating-point numbers.
+> Multiply two single-precision floating-point numbers.
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
 
@@ -37,27 +37,27 @@ limitations under the License.
 ## Usage
 
 ```javascript
-var addf = require( '@stdlib/number/float32/base/add' );
+var mulf = require( '@stdlib/number/float32/base/mul' );
 ```
 
-#### addf( x, y )
+#### mulf( x, y )
 
-Computes the sum of two single-precision floating-point numbers.
+Multiplies two single-precision floating-point numbers.
 
 ```javascript
-var v = addf( -1.0, 5.0 );
-// returns 4.0
+var v = mulf( -1.0, 5.0 );
+// returns -5.0
 
-v = addf( 2.0, 5.0 );
-// returns 7.0
+v = mulf( 2.0, 5.0 );
+// returns 10.0
 
-v = addf( 0.0, 5.0 );
-// returns 5.0
-
-v = addf( -0.0, 0.0 );
+v = mulf( 0.0, 5.0 );
 // returns 0.0
 
-v = addf( NaN, NaN );
+v = mulf( -0.0, 0.0 );
+// returns -0.0
+
+v = mulf( NaN, NaN );
 // returns NaN
 ```
 
@@ -83,7 +83,7 @@ v = addf( NaN, NaN );
 
 ```javascript
 var rand = require( '@stdlib/random/base/discrete-uniform' );
-var addf = require( '@stdlib/number/float32/base/add' );
+var mulf = require( '@stdlib/number/float32/base/mul' );
 
 var x;
 var y;
@@ -92,7 +92,7 @@ var i;
 for ( i = 0; i < 100; i++ ) {
     x = rand( -50, 50 );
     y = rand( -50, 50 );
-    console.log( '%d + %d = %d', x, y, addf( x, y ) );
+    console.log( '%d x %d = %d', x, y, mulf( x, y ) );
 }
 ```
 
@@ -123,16 +123,16 @@ for ( i = 0; i < 100; i++ ) {
 ### Usage
 
 ```c
-#include "stdlib/number/float32/base/add.h"
+#include "stdlib/number/float32/base/mul.h"
 ```
 
-#### stdlib_base_float32_add( x, y )
+#### stdlib_base_float32_mul( x, y )
 
-Computes the sum of two single-precision floating-point numbers.
+Multiplies two single-precision floating-point numbers.
 
 ```c
-float v = stdlib_base_float32_add( -5.0f, 2.0f );
-// returns -3.0f
+float v = stdlib_base_float32_mul( -5.0f, 2.0f );
+// returns -10.0f
 ```
 
 The function accepts the following arguments:
@@ -141,7 +141,7 @@ The function accepts the following arguments:
 -   **y**: `[in] float` second input value.
 
 ```c
-float stdlib_base_float32_add( const float x, const float y );
+float stdlib_base_float32_mul( const float x, const float y );
 ```
 
 </section>
@@ -163,7 +163,7 @@ float stdlib_base_float32_add( const float x, const float y );
 ### Examples
 
 ```c
-#include "stdlib/number/float32/base/add.h"
+#include "stdlib/number/float32/base/mul.h"
 #include <stdio.h>
 
 int main( void ) {
@@ -173,8 +173,8 @@ int main( void ) {
     float z;
     int i;
     for ( i = 0; i < 4; i++ ) {
-        z = stdlib_base_float32_add( x[ i ], y[ i ] );
-        printf( "%f + %f = %f\n", x[ i ], y[ i ], z );
+        z = stdlib_base_float32_mul( x[ i ], y[ i ] );
+        printf( "%f x %f = %f\n", x[ i ], y[ i ], z );
     }
 }
 ```
@@ -195,9 +195,9 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/number/float64/base/add`][@stdlib/number/float64/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two double-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number/float32/base/add`][@stdlib/number/float32/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two single-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/number/float32/base/div`][@stdlib/number/float32/base/div]</span><span class="delimiter">: </span><span class="description">divide two single-precision floating-point numbers.</span>
--   <span class="package-name">[`@stdlib/number/float32/base/mul`][@stdlib/number/float32/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two single-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number/float64/base/mul`][@stdlib/number/float64/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math/base/ops/subf`][@stdlib/math/base/ops/subf]</span><span class="delimiter">: </span><span class="description">subtract two single-precision floating-point numbers.</span>
 
 </section>
@@ -210,11 +210,11 @@ int main( void ) {
 
 <!-- <related-links> -->
 
-[@stdlib/number/float64/base/add]: https://github.com/stdlib-js/number/tree/main/float64/base/add
+[@stdlib/number/float32/base/add]: https://github.com/stdlib-js/number/tree/main/float32/base/add
 
 [@stdlib/number/float32/base/div]: https://github.com/stdlib-js/number/tree/main/float32/base/div
 
-[@stdlib/number/float32/base/mul]: https://github.com/stdlib-js/number/tree/main/float32/base/mul
+[@stdlib/number/float64/base/mul]: https://github.com/stdlib-js/number/tree/main/float64/base/mul
 
 [@stdlib/math/base/ops/subf]: https://github.com/stdlib-js/math-base-ops-subf
 

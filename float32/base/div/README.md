@@ -2,7 +2,7 @@
 
 @license Apache-2.0
 
-Copyright (c) 2021 The Stdlib Authors.
+Copyright (c) 2023 The Stdlib Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -18,9 +18,9 @@ limitations under the License.
 
 -->
 
-# addf
+# divf
 
-> Compute the sum of two single-precision floating-point numbers.
+> Divide two single-precision floating-point numbers.
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
 
@@ -37,27 +37,27 @@ limitations under the License.
 ## Usage
 
 ```javascript
-var addf = require( '@stdlib/number/float32/base/add' );
+var divf = require( '@stdlib/number/float32/base/div' );
 ```
 
-#### addf( x, y )
+#### divf( x, y )
 
-Computes the sum of two single-precision floating-point numbers.
+Divides two single-precision floating-point numbers.
 
 ```javascript
-var v = addf( -1.0, 5.0 );
-// returns 4.0
+var v = divf( -1.0, 5.0 );
+// returns ~-0.2
 
-v = addf( 2.0, 5.0 );
-// returns 7.0
+v = divf( 2.0, 5.0 );
+// returns ~0.4
 
-v = addf( 0.0, 5.0 );
-// returns 5.0
-
-v = addf( -0.0, 0.0 );
+v = divf( 0.0, 5.0 );
 // returns 0.0
 
-v = addf( NaN, NaN );
+v = divf( -0.0, 5.0 );
+// returns -0.0
+
+v = divf( NaN, NaN );
 // returns NaN
 ```
 
@@ -83,7 +83,7 @@ v = addf( NaN, NaN );
 
 ```javascript
 var rand = require( '@stdlib/random/base/discrete-uniform' );
-var addf = require( '@stdlib/number/float32/base/add' );
+var divf = require( '@stdlib/number/float32/base/div' );
 
 var x;
 var y;
@@ -92,7 +92,7 @@ var i;
 for ( i = 0; i < 100; i++ ) {
     x = rand( -50, 50 );
     y = rand( -50, 50 );
-    console.log( '%d + %d = %d', x, y, addf( x, y ) );
+    console.log( '%d / %d = %d', x, y, divf( x, y ) );
 }
 ```
 
@@ -123,25 +123,25 @@ for ( i = 0; i < 100; i++ ) {
 ### Usage
 
 ```c
-#include "stdlib/number/float32/base/add.h"
+#include "stdlib/number/float32/base/div.h"
 ```
 
-#### stdlib_base_float32_add( x, y )
+#### stdlib_base_float32_div( x, y )
 
-Computes the sum of two single-precision floating-point numbers.
+Divides two single-precision floating-point numbers.
 
 ```c
-float v = stdlib_base_float32_add( -5.0f, 2.0f );
-// returns -3.0f
+float v = stdlib_base_float32_div( -5.0f, 2.0f );
+// returns -2.5f
 ```
 
 The function accepts the following arguments:
 
--   **x**: `[in] float` first input value.
--   **y**: `[in] float` second input value.
+-   **x**: `[in] float` first input value (dividend).
+-   **y**: `[in] float` second input value (divisor).
 
 ```c
-float stdlib_base_float32_add( const float x, const float y );
+float stdlib_base_float32_div( const float x, const float y );
 ```
 
 </section>
@@ -163,18 +163,18 @@ float stdlib_base_float32_add( const float x, const float y );
 ### Examples
 
 ```c
-#include "stdlib/number/float32/base/add.h"
+#include "stdlib/number/float32/base/div.h"
 #include <stdio.h>
 
 int main( void ) {
     const float x[] = { 3.14f, -3.14f, 0.0f, 0.0f/0.0f };
-    const float y[] = { 3.14f, -3.14f, -0.0f, 0.0f/0.0f };
+    const float y[] = { 3.14f, -3.14f, -5.0f, 0.0f/0.0f };
 
     float z;
     int i;
     for ( i = 0; i < 4; i++ ) {
-        z = stdlib_base_float32_add( x[ i ], y[ i ] );
-        printf( "%f + %f = %f\n", x[ i ], y[ i ], z );
+        z = stdlib_base_float32_div( x[ i ], y[ i ] );
+        printf( "%f / %f = %f\n", x[ i ], y[ i ], z );
     }
 }
 ```
@@ -195,8 +195,8 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/number/float64/base/add`][@stdlib/number/float64/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two double-precision floating-point numbers.</span>
--   <span class="package-name">[`@stdlib/number/float32/base/div`][@stdlib/number/float32/base/div]</span><span class="delimiter">: </span><span class="description">divide two single-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number/float32/base/add`][@stdlib/number/float32/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two single-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number/float64/base/div`][@stdlib/number/float64/base/div]</span><span class="delimiter">: </span><span class="description">divide two double-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/number/float32/base/mul`][@stdlib/number/float32/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two single-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math/base/ops/subf`][@stdlib/math/base/ops/subf]</span><span class="delimiter">: </span><span class="description">subtract two single-precision floating-point numbers.</span>
 
@@ -210,9 +210,9 @@ int main( void ) {
 
 <!-- <related-links> -->
 
-[@stdlib/number/float64/base/add]: https://github.com/stdlib-js/number/tree/main/float64/base/add
+[@stdlib/number/float32/base/add]: https://github.com/stdlib-js/number/tree/main/float32/base/add
 
-[@stdlib/number/float32/base/div]: https://github.com/stdlib-js/number/tree/main/float32/base/div
+[@stdlib/number/float64/base/div]: https://github.com/stdlib-js/number/tree/main/float64/base/div
 
 [@stdlib/number/float32/base/mul]: https://github.com/stdlib-js/number/tree/main/float32/base/mul
 

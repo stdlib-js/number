@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-22)
+## Unreleased (2025-02-24)
 
 <section class="packages">
 
@@ -21,6 +21,50 @@
 ##### Features
 
 -   [`6f5ff44`](https://github.com/stdlib-js/stdlib/commit/6f5ff446d16255dec7a70319ed2f71b2f546e72c) - add `number/float32/base/add`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-div-unreleased">
+
+#### [@stdlib/number/float32/base/div](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/div)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5928127`](https://github.com/stdlib-js/stdlib/commit/5928127d8f24750ec68278e6c5cd5adf1c7e95c3) - add `number/float32/base/div`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-mul-unreleased">
+
+#### [@stdlib/number/float32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/mul)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - add `number/float32/base/mul`
 
 </section>
 
@@ -270,6 +314,10 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1eac550`](https://github.com/stdlib-js/stdlib/commit/1eac550d7e113582faa355fe13dfbb24e02d9238) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - **feat:** add `number/float32/base/mul` _(by Gururaj Gurram)_
+-   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`5928127`](https://github.com/stdlib-js/stdlib/commit/5928127d8f24750ec68278e6c5cd5adf1c7e95c3) - **feat:** add `number/float32/base/div` _(by Gururaj Gurram)_
 -   [`35df6a5`](https://github.com/stdlib-js/stdlib/commit/35df6a54d1f8f054205b51e5f4e6700cb7fb2ed5) - **chore:** fix C lint errors [(#5354)](https://github.com/stdlib-js/stdlib/pull/5354) _(by GK Bishnoi)_
 -   [`92761ec`](https://github.com/stdlib-js/stdlib/commit/92761ec746d55b5cd6d48a06276b5e1bffe2cfb0) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`2dc9e44`](https://github.com/stdlib-js/stdlib/commit/2dc9e440be9f5037024598969521418dcbba8ee0) - **feat:** add `number/float64/base/sub` _(by Gururaj Gurram)_
