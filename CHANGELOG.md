@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-02-27)
 
 <section class="packages">
 
@@ -314,6 +314,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a4d7692`](https://github.com/stdlib-js/stdlib/commit/a4d7692d31b5f0d46415e9df7b1f6b3a3936086c) - **refactor:** rename file in `number/float32/base/mul` [(#5463)](https://github.com/stdlib-js/stdlib/pull/5463) _(by Gururaj Gurram)_
 -   [`1eac550`](https://github.com/stdlib-js/stdlib/commit/1eac550d7e113582faa355fe13dfbb24e02d9238) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - **feat:** add `number/float32/base/mul` _(by Gururaj Gurram)_
 -   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
