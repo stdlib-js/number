@@ -298,6 +298,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="number-uint32-base-mul-unreleased">
+
+#### [@stdlib/number/uint32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/mul)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - add `number/uint32/base/mul`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -336,6 +358,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
 -   [`a4d7692`](https://github.com/stdlib-js/stdlib/commit/a4d7692d31b5f0d46415e9df7b1f6b3a3936086c) - **refactor:** rename file in `number/float32/base/mul` [(#5463)](https://github.com/stdlib-js/stdlib/pull/5463) _(by Gururaj Gurram)_
 -   [`5081120`](https://github.com/stdlib-js/stdlib/commit/50811206a32132606851c5b5505c6a1e9b145319) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - **feat:** add `number/float32/base/sub` _(by Gururaj Gurram)_
