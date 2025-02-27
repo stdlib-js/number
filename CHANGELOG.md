@@ -98,6 +98,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="number-float32-base-sub-unreleased">
+
+#### [@stdlib/number/float32/base/sub](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/sub)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - add `number/float32/base/sub`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="number-float64-base-add-unreleased">
 
 #### [@stdlib/number/float64/base/add](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/add)
@@ -315,6 +337,8 @@ A total of 5 people contributed to this release. Thank you to the following cont
 <details>
 
 -   [`a4d7692`](https://github.com/stdlib-js/stdlib/commit/a4d7692d31b5f0d46415e9df7b1f6b3a3936086c) - **refactor:** rename file in `number/float32/base/mul` [(#5463)](https://github.com/stdlib-js/stdlib/pull/5463) _(by Gururaj Gurram)_
+-   [`5081120`](https://github.com/stdlib-js/stdlib/commit/50811206a32132606851c5b5505c6a1e9b145319) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`e8c4318`](https://github.com/stdlib-js/stdlib/commit/e8c4318e592586ca53fd53f5ddebd9be16ac9208) - **feat:** add `number/float32/base/sub` _(by Gururaj Gurram)_
 -   [`1eac550`](https://github.com/stdlib-js/stdlib/commit/1eac550d7e113582faa355fe13dfbb24e02d9238) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - **feat:** add `number/float32/base/mul` _(by Gururaj Gurram)_
 -   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
