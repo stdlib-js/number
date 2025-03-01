@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-27)
+## Unreleased (2025-03-01)
 
 <section class="packages">
 
@@ -298,6 +298,30 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="number-float64-base-to-words-unreleased">
+
+#### [@stdlib/number/float64/base/to-words](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/to-words)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5501](https://github.com/stdlib-js/stdlib/issues/5501)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="number-uint32-base-mul-unreleased">
 
 #### [@stdlib/number/uint32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/mul)
@@ -328,9 +352,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501)
 
 </section>
 
@@ -340,11 +364,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   Gururaj Gurram
+-   Justyn Shelby
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
@@ -358,6 +383,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`4fdea8f`](https://github.com/stdlib-js/stdlib/commit/4fdea8f772529eba17f6045c4188b1674d97b432) - **chore:** fix EditorConfig lint errors [(#5514)](https://github.com/stdlib-js/stdlib/pull/5514) _(by Justyn Shelby)_
 -   [`635e38f`](https://github.com/stdlib-js/stdlib/commit/635e38f2c94c01bf24593efce94d1b71811cad4f) - **refactor:** rename file in `number/float32/base/add` [(#5498)](https://github.com/stdlib-js/stdlib/pull/5498) _(by Gururaj Gurram)_
 -   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
 -   [`a4d7692`](https://github.com/stdlib-js/stdlib/commit/a4d7692d31b5f0d46415e9df7b1f6b3a3936086c) - **refactor:** rename file in `number/float32/base/mul` [(#5463)](https://github.com/stdlib-js/stdlib/pull/5463) _(by Gururaj Gurram)_
