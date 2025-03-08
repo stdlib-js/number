@@ -18,9 +18,9 @@ limitations under the License.
 
 -->
 
-# umul
+# imul
 
-> Perform C-like multiplication of two unsigned 32-bit integers.
+> Perform C-like multiplication of two signed 32-bit integers.
 
 <section class="intro">
 
@@ -33,19 +33,19 @@ limitations under the License.
 ## Usage
 
 ```javascript
-var umul = require( '@stdlib/number/uint32/base/mul' );
+var imul = require( '@stdlib/number/int32/base/mul' );
 ```
 
-#### umul( a, b )
+#### imul( a, b )
 
-Performs C-like multiplication of two unsigned 32-bit integers.
+Performs C-like multiplication of two signed 32-bit integers.
 
 ```javascript
-var v = umul( 10>>>0, 4>>>0 );
-// returns 40
+var v = imul( -10|0, 4|0 );
+// returns -40
 
-v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer overflow
-// returns 2147483648
+v = imul( 1073741824|0, -5|0 ); // 2^30 * -5 = -5368709120 => 32-bit integer overflow
+// returns -1073741824
 ```
 
 </section>
@@ -58,7 +58,7 @@ v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer o
 
 ## Notes
 
--   The function emulates C-like multiplication of two unsigned 32-bit integers.
+-   The function emulates C-like multiplication of two signed 32-bit integers.
 
 </section>
 
@@ -72,8 +72,9 @@ v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer o
 
 ```javascript
 var discreteUniform = require( '@stdlib/random/base/discrete-uniform' ).factory;
-var UINT32_MAX = require( '@stdlib/constants/uint32/max' );
-var umul = require( '@stdlib/number/uint32/base/mul' );
+var INT32_MIN = require( '@stdlib/constants/int32/min' );
+var INT32_MAX = require( '@stdlib/constants/int32/max' );
+var imul = require( '@stdlib/number/int32/base/mul' );
 
 var randi;
 var a;
@@ -81,12 +82,12 @@ var b;
 var y;
 var i;
 
-randi = discreteUniform( 0, UINT32_MAX );
+randi = discreteUniform( INT32_MIN, INT32_MAX );
 
 for ( i = 0; i < 100; i++ ) {
-    a = randi()>>>0;
-    b = randi()>>>0;
-    y = umul( a, b );
+    a = randi()|0;
+    b = randi()|0;
+    y = imul( a, b );
     console.log( '%d x %d = %d', a, b, y );
 }
 ```
@@ -103,7 +104,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/number/int32/base/mul`][@stdlib/number/int32/base/mul]</span><span class="delimiter">: </span><span class="description">perform C-like multiplication of two signed 32-bit integers.</span>
+-   <span class="package-name">[`@stdlib/math/base/ops/imuldw`][@stdlib/math/base/ops/imuldw]</span><span class="delimiter">: </span><span class="description">compute the double word product of two signed 32-bit integers.</span>
 
 </section>
 
@@ -115,7 +116,7 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- <related-links> -->
 
-[@stdlib/number/int32/base/mul]: https://github.com/stdlib-js/number/tree/main/int32/base/mul
+[@stdlib/math/base/ops/imuldw]: https://github.com/stdlib-js/math-base-ops-imuldw
 
 <!-- </related-links> -->
 

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-01)
+## Unreleased (2025-03-08)
 
 <section class="packages">
 
@@ -322,6 +322,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="number-int32-base-mul-unreleased">
+
+#### [@stdlib/number/int32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/mul)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - add `number/int32/base/mul`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="number-uint32-base-mul-unreleased">
 
 #### [@stdlib/number/uint32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/mul)
@@ -383,6 +405,8 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - **feat:** add `number/int32/base/mul` _(by Gururaj Gurram)_
 -   [`4fdea8f`](https://github.com/stdlib-js/stdlib/commit/4fdea8f772529eba17f6045c4188b1674d97b432) - **chore:** fix EditorConfig lint errors [(#5514)](https://github.com/stdlib-js/stdlib/pull/5514) _(by Justyn Shelby)_
 -   [`635e38f`](https://github.com/stdlib-js/stdlib/commit/635e38f2c94c01bf24593efce94d1b71811cad4f) - **refactor:** rename file in `number/float32/base/add` [(#5498)](https://github.com/stdlib-js/stdlib/pull/5498) _(by Gururaj Gurram)_
 -   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
