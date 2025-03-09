@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-08)
+## Unreleased (2025-03-09)
 
 <section class="packages">
 
@@ -344,6 +344,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="number-int32-base-muldw-unreleased">
+
+#### [@stdlib/number/int32/base/muldw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/muldw)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - add `number/int32/base/muldw`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="number-uint32-base-mul-unreleased">
 
 #### [@stdlib/number/uint32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/mul)
@@ -405,6 +427,8 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9a6831e`](https://github.com/stdlib-js/stdlib/commit/9a6831eb31d985baec5ca19f5286e5756bacad8f) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - **feat:** add `number/int32/base/muldw` _(by Gururaj Gurram)_
 -   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - **feat:** add `number/int32/base/mul` _(by Gururaj Gurram)_
 -   [`4fdea8f`](https://github.com/stdlib-js/stdlib/commit/4fdea8f772529eba17f6045c4188b1674d97b432) - **chore:** fix EditorConfig lint errors [(#5514)](https://github.com/stdlib-js/stdlib/pull/5514) _(by Justyn Shelby)_
