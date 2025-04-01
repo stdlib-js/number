@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-18)
+## Unreleased (2025-04-01)
 
 <section class="packages">
 
@@ -474,12 +474,13 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   Gururaj Gurram
 -   Justyn Shelby
+-   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
@@ -493,6 +494,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`8f4f7b9`](https://github.com/stdlib-js/stdlib/commit/8f4f7b90e5411e921fc7eca8c365873e8db639e3) - **refactor:** rename file [(#6128)](https://github.com/stdlib-js/stdlib/pull/6128) _(by Gururaj Gurram)_
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - **feat:** add `number/float32/base/identity` _(by Gururaj Gurram)_
 -   [`5bad5d8`](https://github.com/stdlib-js/stdlib/commit/5bad5d87849f385886e7f8f4a8f254bf58328b47) - **feat:** add `number/float64/base/identity` _(by Gururaj Gurram)_
