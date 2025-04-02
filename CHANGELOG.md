@@ -474,13 +474,14 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   Gururaj Gurram
 -   Justyn Shelby
 -   Karan Anand
+-   MANI
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
@@ -494,6 +495,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ecc74c7`](https://github.com/stdlib-js/stdlib/commit/ecc74c726d322ec0845e023ab448494005572bff) - **chore:** fix EditorConfig lint errors [(#6181)](https://github.com/stdlib-js/stdlib/pull/6181) _(by MANI, Athan Reines)_
 -   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`8f4f7b9`](https://github.com/stdlib-js/stdlib/commit/8f4f7b90e5411e921fc7eca8c365873e8db639e3) - **refactor:** rename file [(#6128)](https://github.com/stdlib-js/stdlib/pull/6128) _(by Gururaj Gurram)_
