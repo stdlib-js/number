@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-04-02)
 
 <section class="packages">
 
@@ -494,6 +494,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`8f4f7b9`](https://github.com/stdlib-js/stdlib/commit/8f4f7b90e5411e921fc7eca8c365873e8db639e3) - **refactor:** rename file [(#6128)](https://github.com/stdlib-js/stdlib/pull/6128) _(by Gururaj Gurram)_
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - **feat:** add `number/float32/base/identity` _(by Gururaj Gurram)_
