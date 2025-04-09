@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-02)
+## Unreleased (2025-04-09)
 
 <section class="packages">
 
@@ -366,6 +366,30 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="number-float64-reviver-unreleased">
+
+#### [@stdlib/number/float64/reviver](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/reviver)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6588](https://github.com/stdlib-js/stdlib/issues/6588)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="number-int32-base-mul-unreleased">
 
 #### [@stdlib/number/int32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/mul)
@@ -462,9 +486,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6588](https://github.com/stdlib-js/stdlib/issues/6588)
 
 </section>
 
@@ -474,7 +498,7 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
@@ -482,6 +506,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 -   Justyn Shelby
 -   Karan Anand
 -   MANI
+-   Mahfuza Humayra Mohona
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
@@ -495,6 +520,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7f1101e`](https://github.com/stdlib-js/stdlib/commit/7f1101e1867786057cb6ccf8c664abefaae03013) - **chore:** fix EditorConfig lint errors [(#6596)](https://github.com/stdlib-js/stdlib/pull/6596) _(by Mahfuza Humayra Mohona, Athan Reines)_
 -   [`ecc74c7`](https://github.com/stdlib-js/stdlib/commit/ecc74c726d322ec0845e023ab448494005572bff) - **chore:** fix EditorConfig lint errors [(#6181)](https://github.com/stdlib-js/stdlib/pull/6181) _(by MANI, Athan Reines)_
 -   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
