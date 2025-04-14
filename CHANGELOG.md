@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-09)
+## Unreleased (2025-04-14)
 
 <section class="packages">
 
@@ -135,6 +135,30 @@
 </section>
 
 <!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-float32-base-to-word-unreleased">
+
+#### [@stdlib/number/float32/base/to-word](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float32/base/to-word)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6616](https://github.com/stdlib-js/stdlib/issues/6616)
+
+</section>
+
+<!-- /.issues -->
 
 </details>
 
@@ -486,9 +510,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6588](https://github.com/stdlib-js/stdlib/issues/6588)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616)
 
 </section>
 
@@ -498,10 +522,11 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
+-   GURU PRASAD SHARMA
 -   Gururaj Gurram
 -   Justyn Shelby
 -   Karan Anand
@@ -520,6 +545,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`57953ed`](https://github.com/stdlib-js/stdlib/commit/57953ed6de1a9a8a992aa0aa884ac23259073c55) - **chore:** fix JavaScript lint errors (issue #6616) [(#6626)](https://github.com/stdlib-js/stdlib/pull/6626) _(by GURU PRASAD SHARMA, Athan Reines)_
 -   [`7f1101e`](https://github.com/stdlib-js/stdlib/commit/7f1101e1867786057cb6ccf8c664abefaae03013) - **chore:** fix EditorConfig lint errors [(#6596)](https://github.com/stdlib-js/stdlib/pull/6596) _(by Mahfuza Humayra Mohona, Athan Reines)_
 -   [`ecc74c7`](https://github.com/stdlib-js/stdlib/commit/ecc74c726d322ec0845e023ab448494005572bff) - **chore:** fix EditorConfig lint errors [(#6181)](https://github.com/stdlib-js/stdlib/pull/6181) _(by MANI, Athan Reines)_
 -   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
