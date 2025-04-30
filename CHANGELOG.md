@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-29)
+## Unreleased (2025-04-30)
 
 <section class="features">
 
@@ -37,9 +37,9 @@
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703)
 
 </section>
 
@@ -51,6 +51,7 @@ A total of 5 issues were closed in this release:
 
 <details>
 
+-   [`66f68cf`](https://github.com/stdlib-js/stdlib/commit/66f68cf6493c41ccfe4107e76d04a6bc43769b63) - **chore:** fix EditorConfig lint errors [(#6871)](https://github.com/stdlib-js/stdlib/pull/6871) _(by zhanggy)_
 -   [`f3cfeab`](https://github.com/stdlib-js/stdlib/commit/f3cfeaba512914fe482fc3ec96f4293e104a6baf) - **chore:** fix EditorConfig lint errors [(#6861)](https://github.com/stdlib-js/stdlib/pull/6861) _(by zhanggy)_
 -   [`57953ed`](https://github.com/stdlib-js/stdlib/commit/57953ed6de1a9a8a992aa0aa884ac23259073c55) - **chore:** fix JavaScript lint errors (issue #6616) [(#6626)](https://github.com/stdlib-js/stdlib/pull/6626) _(by GURU PRASAD SHARMA, Athan Reines)_
 -   [`7f1101e`](https://github.com/stdlib-js/stdlib/commit/7f1101e1867786057cb6ccf8c664abefaae03013) - **chore:** fix EditorConfig lint errors [(#6596)](https://github.com/stdlib-js/stdlib/pull/6596) _(by Mahfuza Humayra Mohona, Athan Reines)_
