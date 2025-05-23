@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-21)
+## Unreleased (2025-05-23)
 
 <section class="features">
 
@@ -37,9 +37,9 @@
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 8 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#7003](https://github.com/stdlib-js/stdlib/issues/7003)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003)
 
 </section>
 
@@ -51,6 +51,7 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`ccff6bb`](https://github.com/stdlib-js/stdlib/commit/ccff6bb23b8189890d32db75ce84ea464403a30d) - **chore:** fix JavaScript lint errors [(#7066)](https://github.com/stdlib-js/stdlib/pull/7066) _(by Uday Kakade)_
 -   [`7513cfe`](https://github.com/stdlib-js/stdlib/commit/7513cfee4cc2404b62615c9c9be7c882396e0b39) - **chore:** fix JavaScript lint errors [(#7047)](https://github.com/stdlib-js/stdlib/pull/7047) _(by Uday Kakade, Athan Reines)_
 -   [`66f68cf`](https://github.com/stdlib-js/stdlib/commit/66f68cf6493c41ccfe4107e76d04a6bc43769b63) - **chore:** fix EditorConfig lint errors [(#6871)](https://github.com/stdlib-js/stdlib/pull/6871) _(by zhanggy)_
 -   [`f3cfeab`](https://github.com/stdlib-js/stdlib/commit/f3cfeaba512914fe482fc3ec96f4293e104a6baf) - **chore:** fix EditorConfig lint errors [(#6861)](https://github.com/stdlib-js/stdlib/pull/6861) _(by zhanggy)_
