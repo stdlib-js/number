@@ -2,6 +2,9 @@
 {{alias}}( x, y )
     Subtracts two unsigned 16-bit integers `x` and `y`.
 
+    The function performs C-like subtraction of two unsigned 16-bit integers,
+    including wraparound semantics.
+
     Parameters
     ----------
     x: integer

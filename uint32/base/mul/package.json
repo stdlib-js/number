@@ -1,7 +1,7 @@
 {
   "name": "@stdlib/number/uint32/base/mul",
   "version": "0.0.0",
-  "description": "Perform C-like multiplication of two unsigned 32-bit integers.",
+  "description": "Multiply two unsigned 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",

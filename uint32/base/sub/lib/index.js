@@ -26,13 +26,13 @@
 * @example
 * var sub = require( '@stdlib/number/uint32/base/sub' );
 *
-* var v = sub( 5, 1 );
+* var v = sub( 5>>>0, 1>>>0 );
 * // returns 4
 *
-* v = sub( 5, 2 );
+* v = sub( 5>>>0, 2>>>0 );
 * // returns 3
 *
-* v = sub( 5, 0 );
+* v = sub( 5>>>0, 0>>>0 );
 * // returns 5
 */
 

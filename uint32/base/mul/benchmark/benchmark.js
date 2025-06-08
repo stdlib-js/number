@@ -24,7 +24,7 @@ var bench = require( '@stdlib/bench' );
 var minstd = require( '@stdlib/random/base/minstd' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
 var pkg = require( './../package.json' ).name;
-var umul = require( './../lib' );
+var mul = require( './../lib' );
 
 
 // MAIN //
@@ -37,7 +37,7 @@ bench( pkg, function benchmark( b ) {
 	b.tic();
 	for ( i = 0; i < b.iterations; i++ ) {
 		x = minstd();
-		y = umul( x>>>0, x>>>0 );
+		y = mul( x>>>0, x>>>0 );
 		if ( isnan( y ) ) {
 			b.fail( 'should not return NaN' );
 		}

@@ -21,20 +21,24 @@
 /**
 * Subtracts two unsigned 32-bit integers `x` and `y`.
 *
+* ## Notes
+*
+* -   The function performs C-like subtraction of two unsigned 32-bit integers, including wraparound semantics.
+*
 * @param x - first input value
 * @param y - second input value
 * @returns result
 *
 * @example
-* var v = sub( 5, 1 );
+* var v = sub( 5>>>0, 1>>>0 );
 * // returns 4
 *
 * @example
-* var v = sub( 5, 2 );
+* var v = sub( 5>>>0, 2>>>0 );
 * // returns 3
 *
 * @example
-* var v = sub( 5, 0 );
+* var v = sub( 5>>>0, 0>>>0 );
 * // returns 5
 */
 declare function sub( x: number, y: number ): number;

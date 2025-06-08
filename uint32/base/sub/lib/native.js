@@ -34,15 +34,15 @@ var addon = require( './../src/addon.node' );
 * @returns {integer} result
 *
 * @example
-* var v = sub( 5, 1 );
+* var v = sub( 5>>>0, 1>>>0 );
 * // returns 4
 *
 * @example
-* var v = sub( 5, 2 );
+* var v = sub( 5>>>0, 2>>>0 );
 * // returns 3
 *
 * @example
-* var v = sub( 5, 0 );
+* var v = sub( 5>>>0, 0>>>0 );
 * // returns 5
 */
 function sub( x, y ) {

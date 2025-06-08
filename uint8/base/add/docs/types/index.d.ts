@@ -21,6 +21,10 @@
 /**
 * Computes the sum of two unsigned 8-bit integers `x` and `y`.
 *
+* ## Notes
+*
+* -   The function performs C-like addition of two unsigned 8-bit integers, including wraparound semantics.
+*
 * @param x - first input value
 * @param y - second input value
 * @returns sum

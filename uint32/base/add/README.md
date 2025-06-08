@@ -45,13 +45,13 @@ var add = require( '@stdlib/number/uint32/base/add' );
 Computes the sum of two unsigned 32-bit integers.
 
 ```javascript
-var v = add( 1, 5 );
+var v = add( 1>>>0, 5>>>0 );
 // returns 6
 
-v = add( 2, 5 );
+v = add( 2>>>0, 5>>>0 );
 // returns 7
 
-v = add( 0, 5 );
+v = add( 0>>>0, 5>>>0 );
 // returns 5
 ```
 

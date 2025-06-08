@@ -21,6 +21,10 @@
 /**
 * Subtracts two unsigned 16-bit integers `x` and `y`.
 *
+* ## Notes
+*
+* -   The function performs C-like subtraction of two unsigned 16-bit integers, including wraparound semantics.
+*
 * @param x - first input value
 * @param y - second input value
 * @returns result

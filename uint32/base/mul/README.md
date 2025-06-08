@@ -18,9 +18,9 @@ limitations under the License.
 
 -->
 
-# umul
+# mul
 
-> Perform C-like multiplication of two unsigned 32-bit integers.
+> Multiply two unsigned 32-bit integers.
 
 <section class="intro">
 
@@ -33,18 +33,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
-var umul = require( '@stdlib/number/uint32/base/mul' );
+var mul = require( '@stdlib/number/uint32/base/mul' );
 ```
 
-#### umul( a, b )
+#### mul( x, y )
 
-Performs C-like multiplication of two unsigned 32-bit integers.
+Multiplies two unsigned 32-bit integers.
 
 ```javascript
-var v = umul( 10>>>0, 4>>>0 );
+var v = mul( 10>>>0, 4>>>0 );
 // returns 40
 
-v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer overflow
+v = mul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer overflow
 // returns 2147483648
 ```
 
@@ -58,7 +58,7 @@ v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer o
 
 ## Notes
 
--   The function emulates C-like multiplication of two unsigned 32-bit integers.
+-   The function performs C-like multiplication of two unsigned 32-bit integers, including wraparound semantics.
 
 </section>
 
@@ -73,7 +73,7 @@ v = umul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer o
 ```javascript
 var discreteUniform = require( '@stdlib/random/base/discrete-uniform' ).factory;
 var UINT32_MAX = require( '@stdlib/constants/uint32/max' );
-var umul = require( '@stdlib/number/uint32/base/mul' );
+var mul = require( '@stdlib/number/uint32/base/mul' );
 
 var randi;
 var a;
@@ -86,7 +86,7 @@ randi = discreteUniform( 0, UINT32_MAX );
 for ( i = 0; i < 100; i++ ) {
     a = randi()>>>0;
     b = randi()>>>0;
-    y = umul( a, b );
+    y = mul( a, b );
     console.log( '%d x %d = %d', a, b, y );
 }
 ```

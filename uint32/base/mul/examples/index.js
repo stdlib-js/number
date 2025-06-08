@@ -20,7 +20,7 @@
 
 var discreteUniform = require( '@stdlib/random/base/discrete-uniform' ).factory;
 var UINT32_MAX = require( '@stdlib/constants/uint32/max' );
-var umul = require( './../lib' );
+var mul = require( './../lib' );
 
 var randi;
 var a;
@@ -33,6 +33,6 @@ randi = discreteUniform( 0, UINT32_MAX );
 for ( i = 0; i < 100; i++ ) {
 	a = randi()>>>0;
 	b = randi()>>>0;
-	y = umul( a, b );
+	y = mul( a, b );
 	console.log( '%d x %d = %d', a, b, y );
 }

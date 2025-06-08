@@ -21,20 +21,24 @@
 /**
 * Computes the sum of two unsigned 32-bit integers `x` and `y`.
 *
+* ## Notes
+*
+* -   The function performs C-like addition of two unsigned 32-bit integers, including wraparound semantics.
+*
 * @param x - first input value
 * @param y - second input value
 * @returns sum
 *
 * @example
-* var v = add( 1, 5 );
+* var v = add( 1>>>0, 5>>>0 );
 * // returns 6
 *
 * @example
-* var v = add( 2, 5 );
+* var v = add( 2>>>0, 5>>>0 );
 * // returns 7
 *
 * @example
-* var v = add( 0, 5 );
+* var v = add( 0>>>0, 5>>>0 );
 * // returns 5
 */
 declare function add( x: number, y: number ): number;
