@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - add `add` to namespace
+-   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - add `number/uint8/base/add`
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - add `number/float32/base/identity`
 -   [`5bad5d8`](https://github.com/stdlib-js/stdlib/commit/5bad5d87849f385886e7f8f4a8f254bf58328b47) - add `number/float64/base/identity`
 -   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - add `number/uint32/base/muldw`
@@ -51,6 +53,8 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - **feat:** add `add` to namespace _(by Athan Reines)_
+-   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - **feat:** add `number/uint8/base/add` _(by Athan Reines)_
 -   [`2a27875`](https://github.com/stdlib-js/stdlib/commit/2a278751234674b90251810a6e9236e917df5567) - **chore:** clean-up _(by Athan Reines)_
 -   [`ccff6bb`](https://github.com/stdlib-js/stdlib/commit/ccff6bb23b8189890d32db75ce84ea464403a30d) - **chore:** fix JavaScript lint errors [(#7066)](https://github.com/stdlib-js/stdlib/pull/7066) _(by Uday Kakade)_
 -   [`7513cfe`](https://github.com/stdlib-js/stdlib/commit/7513cfee4cc2404b62615c9c9be7c882396e0b39) - **chore:** fix JavaScript lint errors [(#7047)](https://github.com/stdlib-js/stdlib/pull/7047) _(by Uday Kakade, Athan Reines)_
