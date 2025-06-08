@@ -63,6 +63,10 @@ v = sub( 5, 0 );
 
 <section class="notes">
 
+## Notes
+
+-   The function performs C-like subtraction of two unsigned 16-bit integers, including wraparound semantics.
+
 </section>
 
 <!-- /.notes -->

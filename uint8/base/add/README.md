@@ -63,6 +63,10 @@ v = add( 0, 5 );
 
 <section class="notes">
 
+## Notes
+
+-   The function performs C-like addition of two unsigned 8-bit integers, including wraparound semantics.
+
 </section>
 
 <!-- /.notes -->

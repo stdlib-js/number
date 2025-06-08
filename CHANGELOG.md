@@ -63,6 +63,8 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`348cca4`](https://github.com/stdlib-js/stdlib/commit/348cca418f8031d4a5d456b015fa39dfbd084972) - **docs:** add notes _(by Athan Reines)_
+-   [`6e5459a`](https://github.com/stdlib-js/stdlib/commit/6e5459aee946a8682857ffbdbe2938beec81ac08) - **docs:** add notes _(by Athan Reines)_
 -   [`9cecbb4`](https://github.com/stdlib-js/stdlib/commit/9cecbb4e75d330f6c95718da41dc9f9764768e53) - **feat:** add `mul` to namespace _(by Athan Reines)_
 -   [`09203ae`](https://github.com/stdlib-js/stdlib/commit/09203ae63f56eefad6a0cc85462ba9337d778725) - **feat:** add `number/uint16/base/mul` _(by Athan Reines)_
 -   [`9d1b309`](https://github.com/stdlib-js/stdlib/commit/9d1b3090d6e0a5e8efa1aafcad51ed59b836c833) - **feat:** add `sub` to namespace _(by Athan Reines)_
