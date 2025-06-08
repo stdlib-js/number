@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -20,15 +20,24 @@
 
 // MODULES //
 
+var resolve = require( 'path' ).resolve;
 var bench = require( '@stdlib/bench' );
 var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
+var tryRequire = require( '@stdlib/utils/try-require' );
 var pkg = require( './../package.json' ).name;
-var mul = require( './../lib' );
+
+
+// VARIABLES //
+
+var mul = tryRequire( resolve( __dirname, './../lib/native.js' ) );
+var opts = {
+	'skip': ( mul instanceof Error )
+};
 
 
 // MAIN //
 
-bench( pkg, function benchmark( b ) {
+bench( pkg+'::native', opts, function benchmark( b ) {
 	var x;
 	var y;
 	var i;
@@ -40,30 +49,6 @@ bench( pkg, function benchmark( b ) {
 	b.tic();
 	for ( i = 0; i < b.iterations; i++ ) {
 		y = mul( x[ i%x.length ], 10 );
-		if ( y > 100 ) {
-			b.fail( 'unexpected result' );
-		}
-	}
-	b.toc();
-	if ( y > 100 ) {
-		b.fail( 'unexpected result' );
-	}
-	b.pass( 'benchmark finished' );
-	b.end();
-});
-
-bench( pkg+'::inline', function benchmark( b ) {
-	var x;
-	var y;
-	var i;
-
-	x = discreteUniform( 100, 0, 10, {
-		'dtype': 'uint32'
-	});
-
-	b.tic();
-	for ( i = 0; i < b.iterations; i++ ) {
-		y = ( x[ i%x.length ]>>>0 ) * 5;
 		if ( y > 100 ) {
 			b.fail( 'unexpected result' );
 		}

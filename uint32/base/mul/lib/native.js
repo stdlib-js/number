@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -18,17 +18,38 @@
 
 'use strict';
 
-var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
-var logEachMap = require( '@stdlib/console/log-each-map' );
-var mul = require( './../lib' );
+// MODULES //
 
-var opts = {
-	'dtype': 'uint32'
-};
+var addon = require( './../src/addon.node' );
 
-// Create arrays of random values:
-var x = discreteUniform( 100, 0, 50, opts );
-var y = discreteUniform( 100, 0, 50, opts );
 
-// Perform element-wise multiplication:
-logEachMap( '%d * %d = %d', x, y, mul );
+// MAIN //
+
+/**
+* Multiplies two unsigned 32-bit integers `x` and `y`.
+*
+* @private
+* @param {uinteger32} x - first input value
+* @param {uinteger32} y - second input value
+* @returns {uinteger32} product
+*
+* @example
+* var v = mul( 1>>>0, 5>>>0 );
+* // returns 5
+*
+* @example
+* var v = mul( 2>>>0, 5>>>0 );
+* // returns 10
+*
+* @example
+* var v = mul( 0>>>0, 5>>>0 );
+* // returns 0
+*/
+function mul( x, y ) {
+	return addon( x, y );
+}
+
+
+// EXPORTS //
+
+module.exports = mul;

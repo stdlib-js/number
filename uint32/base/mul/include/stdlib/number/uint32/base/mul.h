@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,19 +16,25 @@
 * limitations under the License.
 */
 
-'use strict';
+#ifndef STDLIB_NUMBER_UINT32_BASE_MUL_H
+#define STDLIB_NUMBER_UINT32_BASE_MUL_H
 
-var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
-var logEachMap = require( '@stdlib/console/log-each-map' );
-var mul = require( './../lib' );
+#include <stdint.h>
 
-var opts = {
-	'dtype': 'uint32'
-};
+/*
+* If C++, prevent name mangling so that the compiler emits a binary file having undecorated names, thus mirroring the behavior of a C compiler.
+*/
+#ifdef __cplusplus
+extern "C" {
+#endif
 
-// Create arrays of random values:
-var x = discreteUniform( 100, 0, 50, opts );
-var y = discreteUniform( 100, 0, 50, opts );
+/**
+* Multiplies two unsigned 32-bit integers.
+*/
+uint32_t stdlib_base_uint32_mul( const uint32_t x, const uint32_t y );
 
-// Perform element-wise multiplication:
-logEachMap( '%d * %d = %d', x, y, mul );
+#ifdef __cplusplus
+}
+#endif
+
+#endif // !STDLIB_NUMBER_UINT32_BASE_MUL_H

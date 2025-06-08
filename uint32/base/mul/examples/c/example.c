@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,19 +16,18 @@
 * limitations under the License.
 */
 
-'use strict';
+#include "stdlib/number/uint32/base/mul.h"
+#include <stdint.h>
+#include <stdio.h>
 
-var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
-var logEachMap = require( '@stdlib/console/log-each-map' );
-var mul = require( './../lib' );
+int main( void ) {
+	const uint32_t x[] = { 3, 5, 10, 12 };
+	const uint32_t y[] = { 6, 2, 11, 24 };
 
-var opts = {
-	'dtype': 'uint32'
-};
-
-// Create arrays of random values:
-var x = discreteUniform( 100, 0, 50, opts );
-var y = discreteUniform( 100, 0, 50, opts );
-
-// Perform element-wise multiplication:
-logEachMap( '%d * %d = %d', x, y, mul );
+	uint32_t z;
+	int i;
+	for ( i = 0; i < 4; i++ ) {
+		z = stdlib_base_uint32_mul( x[ i ], y[ i ] );
+		printf( "%u * %u = %u\n", x[ i ], y[ i ], z );
+	}
+}

@@ -71,29 +71,115 @@ v = mul( 2147483648>>>0, 5>>>0 ); // 2^31 * 5 = 10737418240 => 32-bit integer ov
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var discreteUniform = require( '@stdlib/random/base/discrete-uniform' ).factory;
-var UINT32_MAX = require( '@stdlib/constants/uint32/max' );
+var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
+var logEachMap = require( '@stdlib/console/log-each-map' );
 var mul = require( '@stdlib/number/uint32/base/mul' );
 
-var randi;
-var a;
-var b;
-var y;
-var i;
+var opts = {
+    'dtype': 'uint32'
+};
 
-randi = discreteUniform( 0, UINT32_MAX );
+// Create arrays of random values:
+var x = discreteUniform( 100, 0, 50, opts );
+var y = discreteUniform( 100, 0, 50, opts );
 
-for ( i = 0; i < 100; i++ ) {
-    a = randi()>>>0;
-    b = randi()>>>0;
-    y = mul( a, b );
-    console.log( '%d x %d = %d', a, b, y );
+// Perform element-wise multiplication:
+logEachMap( '%d * %d = %d', x, y, mul );
+```
+
+</section>
+
+<!-- /.examples -->
+
+<!-- C interface documentation. -->
+
+* * *
+
+<section class="c">
+
+## C APIs
+
+<!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
+
+<section class="intro">
+
+</section>
+
+<!-- /.intro -->
+
+<!-- C usage documentation. -->
+
+<section class="usage">
+
+### Usage
+
+```c
+#include "stdlib/number/uint32/base/mul.h"
+```
+
+#### stdlib_base_uint32_mul( x, y )
+
+Multiplies two unsigned 32-bit integers.
+
+```c
+#include <stdint.h>
+
+uint32_t v = stdlib_base_uint32_mul( 5, 2 );
+// returns 10
+```
+
+The function accepts the following arguments:
+
+-   **x**: `[in] uint32_t` first input value.
+-   **y**: `[in] uint32_t` second input value.
+
+```c
+uint32_t stdlib_base_uint32_mul( const uint32_t x, const uint32_t y );
+```
+
+</section>
+
+<!-- /.usage -->
+
+<!-- C API usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="notes">
+
+</section>
+
+<!-- /.notes -->
+
+<!-- C API usage examples. -->
+
+<section class="examples">
+
+### Examples
+
+```c
+#include "stdlib/number/uint32/base/mul.h"
+#include <stdint.h>
+#include <stdio.h>
+
+int main( void ) {
+    const uint32_t x[] = { 3, 5, 10, 12 };
+    const uint32_t y[] = { 6, 2, 11, 24 };
+
+    uint32_t z;
+    int i;
+    for ( i = 0; i < 4; i++ ) {
+        z = stdlib_base_uint32_mul( x[ i ], y[ i ] );
+        printf( "%u * %u = %u\n", x[ i ], y[ i ], z );
+    }
 }
 ```
 
 </section>
 
 <!-- /.examples -->
+
+</section>
+
+<!-- /.c -->
 
 <!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
 

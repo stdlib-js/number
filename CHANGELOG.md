@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - add C API and clean-up
 -   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - add `sub` to namespace
 -   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - add `number/uint32/base/sub`
 -   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - add `muldw` to namespace
@@ -69,6 +70,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - **feat:** add C API and clean-up _(by Athan Reines)_
 -   [`b299663`](https://github.com/stdlib-js/stdlib/commit/b299663090e95dc9c1ea27c35da67ede34c0b3a2) - **chore:** add notes _(by Athan Reines)_
 -   [`5cb475e`](https://github.com/stdlib-js/stdlib/commit/5cb475e48803e73ef8f2f60a83bb7ee94e54ffd9) - **docs:** add notes _(by Athan Reines)_
 -   [`5572fe5`](https://github.com/stdlib-js/stdlib/commit/5572fe564738f6def14cb6e1d8c0c39358f805a5) - **chore:** add notes and clean-up _(by Athan Reines)_
