@@ -70,6 +70,8 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
+-   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
 -   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - **feat:** add C API and clean-up _(by Athan Reines)_
 -   [`b299663`](https://github.com/stdlib-js/stdlib/commit/b299663090e95dc9c1ea27c35da67ede34c0b3a2) - **chore:** add notes _(by Athan Reines)_
 -   [`5cb475e`](https://github.com/stdlib-js/stdlib/commit/5cb475e48803e73ef8f2f60a83bb7ee94e54ffd9) - **docs:** add notes _(by Athan Reines)_
