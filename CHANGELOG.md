@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`465c484`](https://github.com/stdlib-js/stdlib/commit/465c484235dbfba4c323c9913c4091e6d628374a) - add `sub` to namespace
+-   [`c310956`](https://github.com/stdlib-js/stdlib/commit/c3109561991e395abc5a2724d09c25028425e5a2) - add `number/uint8/base/sub`
 -   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - add `add` to namespace
 -   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - add `number/uint8/base/add`
 -   [`0572aac`](https://github.com/stdlib-js/stdlib/commit/0572aac77e209513ff935c75f33801451e4a5e33) - add `number/float32/base/identity`
@@ -53,6 +55,9 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`465c484`](https://github.com/stdlib-js/stdlib/commit/465c484235dbfba4c323c9913c4091e6d628374a) - **feat:** add `sub` to namespace _(by Athan Reines)_
+-   [`c310956`](https://github.com/stdlib-js/stdlib/commit/c3109561991e395abc5a2724d09c25028425e5a2) - **feat:** add `number/uint8/base/sub` _(by Athan Reines)_
+-   [`e21f523`](https://github.com/stdlib-js/stdlib/commit/e21f5234efd9048dbd9a8de6ecf6f72a33d758d2) - **docs:** fix return value _(by Athan Reines)_
 -   [`3223642`](https://github.com/stdlib-js/stdlib/commit/3223642f722c9df1e0abac4d1619378e425a9cd7) - **bench:** fix assertion _(by Athan Reines)_
 -   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - **feat:** add `add` to namespace _(by Athan Reines)_
 -   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - **feat:** add `number/uint8/base/add` _(by Athan Reines)_

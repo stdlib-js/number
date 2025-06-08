@@ -18,9 +18,9 @@ limitations under the License.
 
 -->
 
-# add
+# sub
 
-> Compute the sum of two unsigned 8-bit integers.
+> Subtract two unsigned 8-bit integers.
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
 
@@ -37,21 +37,21 @@ limitations under the License.
 ## Usage
 
 ```javascript
-var add = require( '@stdlib/number/uint8/base/add' );
+var sub = require( '@stdlib/number/uint8/base/sub' );
 ```
 
-#### add( x, y )
+#### sub( x, y )
 
-Computes the sum of two unsigned 8-bit integers.
+Subtracts two unsigned 8-bit integers.
 
 ```javascript
-var v = add( 1, 5 );
-// returns 6
+var v = sub( 5, 1 );
+// returns 4
 
-v = add( 2, 5 );
-// returns 7
+v = sub( 5, 2 );
+// returns 3
 
-v = add( 0, 5 );
+v = sub( 5, 0 );
 // returns 5
 ```
 
@@ -78,7 +78,7 @@ v = add( 0, 5 );
 ```javascript
 var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
 var logEachMap = require( '@stdlib/console/log-each-map' );
-var add = require( '@stdlib/number/uint8/base/add' );
+var sub = require( '@stdlib/number/uint8/base/sub' );
 
 var opts = {
     'dtype': 'uint8'
@@ -88,8 +88,8 @@ var opts = {
 var x = discreteUniform( 100, 0, 50, opts );
 var y = discreteUniform( 100, 0, 50, opts );
 
-// Perform element-wise addition:
-logEachMap( '%d + %d = %d', x, y, add );
+// Perform element-wise subtraction:
+logEachMap( '%d - %d = %d', x, y, sub );
 ```
 
 </section>
@@ -119,18 +119,18 @@ logEachMap( '%d + %d = %d', x, y, add );
 ### Usage
 
 ```c
-#include "stdlib/number/uint8/base/add.h"
+#include "stdlib/number/uint8/base/sub.h"
 ```
 
-#### stdlib_base_uint8_add( x, y )
+#### stdlib_base_uint8_sub( x, y )
 
-Computes the sum of two unsigned 8-bit integers.
+Subtracts two unsigned 8-bit integers.
 
 ```c
 #include <stdint.h>
 
-uint8_t v = stdlib_base_uint8_add( 5, 2 );
-// returns 7
+uint8_t v = stdlib_base_uint8_sub( 5, 2 );
+// returns 3
 ```
 
 The function accepts the following arguments:
@@ -139,7 +139,7 @@ The function accepts the following arguments:
 -   **y**: `[in] uint8_t` second input value.
 
 ```c
-uint8_t stdlib_base_uint8_add( const uint8_t x, const uint8_t y );
+uint8_t stdlib_base_uint8_sub( const uint8_t x, const uint8_t y );
 ```
 
 </section>
@@ -161,7 +161,7 @@ uint8_t stdlib_base_uint8_add( const uint8_t x, const uint8_t y );
 ### Examples
 
 ```c
-#include "stdlib/number/uint8/base/add.h"
+#include "stdlib/number/uint8/base/sub.h"
 #include <stdint.h>
 #include <stdio.h>
 
@@ -172,8 +172,8 @@ int main( void ) {
     uint8_t z;
     int i;
     for ( i = 0; i < 4; i++ ) {
-        z = stdlib_base_uint8_add( x[ i ], y[ i ] );
-        printf( "%d + %d = %d\n", x[ i ], y[ i ], z );
+        z = stdlib_base_uint8_sub( x[ i ], y[ i ] );
+        printf( "%d - %d = %d\n", x[ i ], y[ i ], z );
     }
 }
 ```
