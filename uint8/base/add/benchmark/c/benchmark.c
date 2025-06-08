@@ -112,13 +112,13 @@ static double benchmark( void ) {
 	t = tic();
 	for ( i = 0; i < ITERATIONS; i++ ) {
 		y = add( x[ i%100 ], 5 );
-		if ( y > 0 ) {
+		if ( y > 100 ) {
 			printf( "unexpected result\n" );
 			break;
 		}
 	}
 	elapsed = tic() - t;
-	if ( y > 0 ) {
+	if ( y > 100 ) {
 		printf( "unexpected result\n" );
 	}
 	return elapsed;

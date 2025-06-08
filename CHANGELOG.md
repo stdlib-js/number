@@ -53,6 +53,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`3223642`](https://github.com/stdlib-js/stdlib/commit/3223642f722c9df1e0abac4d1619378e425a9cd7) - **bench:** fix assertion _(by Athan Reines)_
 -   [`0118405`](https://github.com/stdlib-js/stdlib/commit/0118405267e70154055052368896b1337d951e43) - **feat:** add `add` to namespace _(by Athan Reines)_
 -   [`f56c9f7`](https://github.com/stdlib-js/stdlib/commit/f56c9f7be596caa4a23d1ca9c7d6ff1dd919730a) - **feat:** add `number/uint8/base/add` _(by Athan Reines)_
 -   [`2a27875`](https://github.com/stdlib-js/stdlib/commit/2a278751234674b90251810a6e9236e917df5567) - **chore:** clean-up _(by Athan Reines)_
