@@ -10,6 +10,10 @@
 
 ### Features
 
+-   [`9d1b309`](https://github.com/stdlib-js/stdlib/commit/9d1b3090d6e0a5e8efa1aafcad51ed59b836c833) - add `sub` to namespace
+-   [`8df5dbe`](https://github.com/stdlib-js/stdlib/commit/8df5dbedf9d5a1b7ca15bf1194daabc45bb1747e) - add `number/uint16/base/sub`
+-   [`b62127d`](https://github.com/stdlib-js/stdlib/commit/b62127d603a32d61854359d8a641a6f19b73f632) - add `add` to namespace
+-   [`3f1067f`](https://github.com/stdlib-js/stdlib/commit/3f1067f8c0201a6727cdb6b928360f79621a6651) - add `number/uint16/base/add`
 -   [`05579b9`](https://github.com/stdlib-js/stdlib/commit/05579b92d37e65644945028a3d12ba8d0b36f188) - add `mul` to namespace
 -   [`169c8cb`](https://github.com/stdlib-js/stdlib/commit/169c8cb745f97bbb0260c82fa4f7ccc56d3b9ed7) - add `number/uint8/base/mul`
 -   [`465c484`](https://github.com/stdlib-js/stdlib/commit/465c484235dbfba4c323c9913c4091e6d628374a) - add `sub` to namespace
@@ -57,6 +61,10 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`9d1b309`](https://github.com/stdlib-js/stdlib/commit/9d1b3090d6e0a5e8efa1aafcad51ed59b836c833) - **feat:** add `sub` to namespace _(by Athan Reines)_
+-   [`8df5dbe`](https://github.com/stdlib-js/stdlib/commit/8df5dbedf9d5a1b7ca15bf1194daabc45bb1747e) - **feat:** add `number/uint16/base/sub` _(by Athan Reines)_
+-   [`b62127d`](https://github.com/stdlib-js/stdlib/commit/b62127d603a32d61854359d8a641a6f19b73f632) - **feat:** add `add` to namespace _(by Athan Reines)_
+-   [`3f1067f`](https://github.com/stdlib-js/stdlib/commit/3f1067f8c0201a6727cdb6b928360f79621a6651) - **feat:** add `number/uint16/base/add` _(by Athan Reines)_
 -   [`05579b9`](https://github.com/stdlib-js/stdlib/commit/05579b92d37e65644945028a3d12ba8d0b36f188) - **feat:** add `mul` to namespace _(by Athan Reines)_
 -   [`169c8cb`](https://github.com/stdlib-js/stdlib/commit/169c8cb745f97bbb0260c82fa4f7ccc56d3b9ed7) - **feat:** add `number/uint8/base/mul` _(by Athan Reines)_
 -   [`590e647`](https://github.com/stdlib-js/stdlib/commit/590e647bd818c098689676a4d977bc36b11bfb94) - **docs:** fix description _(by Athan Reines)_
