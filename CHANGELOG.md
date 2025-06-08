@@ -69,6 +69,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`8e82087`](https://github.com/stdlib-js/stdlib/commit/8e820870a43e8b649135a6f664174efc81569de6) - **docs:** update namespace table of contents [(#7261)](https://github.com/stdlib-js/stdlib/pull/7261) _(by stdlib-bot)_
 -   [`c763537`](https://github.com/stdlib-js/stdlib/commit/c76353782ad54e7ce0eb4cd9a33038414106a34d) - **feat:** add `sub` to namespace _(by Athan Reines)_
 -   [`d946b86`](https://github.com/stdlib-js/stdlib/commit/d946b86803638384d1b6b5aa0999163a5b461455) - **feat:** add `number/uint32/base/sub` _(by Athan Reines)_
 -   [`3065981`](https://github.com/stdlib-js/stdlib/commit/30659819eef6e49a82422491e77e758e8249b6a8) - **feat:** add `muldw` to namespace _(by Athan Reines)_
