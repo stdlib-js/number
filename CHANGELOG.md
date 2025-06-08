@@ -55,6 +55,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`590e647`](https://github.com/stdlib-js/stdlib/commit/590e647bd818c098689676a4d977bc36b11bfb94) - **docs:** fix description _(by Athan Reines)_
 -   [`465c484`](https://github.com/stdlib-js/stdlib/commit/465c484235dbfba4c323c9913c4091e6d628374a) - **feat:** add `sub` to namespace _(by Athan Reines)_
 -   [`c310956`](https://github.com/stdlib-js/stdlib/commit/c3109561991e395abc5a2724d09c25028425e5a2) - **feat:** add `number/uint8/base/sub` _(by Athan Reines)_
 -   [`e21f523`](https://github.com/stdlib-js/stdlib/commit/e21f5234efd9048dbd9a8de6ecf6f72a33d758d2) - **docs:** fix return value _(by Athan Reines)_

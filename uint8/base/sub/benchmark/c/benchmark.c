@@ -87,7 +87,7 @@ static double rand_double( void ) {
 /**
 * Subtracts two numbers.
 *
-* @return sum
+* @return result
 */
 static uint8_t sub( const uint8_t x, const uint8_t y ) {
 	return x - y;
