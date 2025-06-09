@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-09)
 
 <section class="features">
 
@@ -70,6 +70,7 @@ A total of 8 issues were closed in this release:
 
 <details>
 
+-   [`c584077`](https://github.com/stdlib-js/stdlib/commit/c5840770ca22e8717a880d1f1ced8496f7f5a62e) - **docs:** update namespace table of contents [(#7283)](https://github.com/stdlib-js/stdlib/pull/7283) _(by stdlib-bot)_
 -   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
 -   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
 -   [`4b55b3a`](https://github.com/stdlib-js/stdlib/commit/4b55b3ad7a705ef130ab65d2d647783cbcf5a682) - **feat:** add C API and clean-up _(by Athan Reines)_
