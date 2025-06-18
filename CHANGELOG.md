@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-17)
+## Unreleased (2025-06-18)
 
 <section class="features">
 
@@ -56,9 +56,9 @@
 
 ### Closed Issues
 
-A total of 10 issues were closed in this release:
+A total of 11 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393)
 
 </section>
 
@@ -70,6 +70,7 @@ A total of 10 issues were closed in this release:
 
 <details>
 
+-   [`07d3925`](https://github.com/stdlib-js/stdlib/commit/07d3925116182268a9acdac0b0e301d3e527e4f0) - **chore:** fix EditorConfig lint errors [(#7398)](https://github.com/stdlib-js/stdlib/pull/7398) _(by Lokesh Ranjan)_
 -   [`eff9b74`](https://github.com/stdlib-js/stdlib/commit/eff9b74602cd76a308c6518e1de5bd383b24b138) - **chore:** fix EditorConfig lint errors [(#7356)](https://github.com/stdlib-js/stdlib/pull/7356) _(by Lokesh Ranjan)_
 -   [`c0af677`](https://github.com/stdlib-js/stdlib/commit/c0af6777b804074d251bf0699b72ffb6af803ff6) - **docs:** update related packages sections [(#7352)](https://github.com/stdlib-js/stdlib/pull/7352) _(by stdlib-bot)_
 -   [`930d012`](https://github.com/stdlib-js/stdlib/commit/930d012685e0d75e6c0de8d80de7a39d67565e79) - **chore:** fix C lint errors [(#7338)](https://github.com/stdlib-js/stdlib/pull/7338) _(by zhanggy)_
