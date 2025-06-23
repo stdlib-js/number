@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-22)
+## Unreleased (2025-06-23)
 
 <section class="features">
 
@@ -58,9 +58,9 @@
 
 ### Closed Issues
 
-A total of 11 issues were closed in this release:
+A total of 12 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393)
 
 </section>
 
@@ -72,6 +72,7 @@ A total of 11 issues were closed in this release:
 
 <details>
 
+-   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by zhanggy)_
 -   [`0f53f18`](https://github.com/stdlib-js/stdlib/commit/0f53f18dee21a8e81a70eadd090b59223c264802) - **docs:** fix comment _(by Karan Anand)_
 -   [`08a8de6`](https://github.com/stdlib-js/stdlib/commit/08a8de62e303504f0e7eb164cb4ac04aa7455c01) - **feat:** add remaining implementation for `number/float64/base/ulp-difference` [(#7446)](https://github.com/stdlib-js/stdlib/pull/7446) _(by Karan Anand, Athan Reines)_
 -   [`5aeb4ef`](https://github.com/stdlib-js/stdlib/commit/5aeb4ef105b90890e89ab138a55316c2d6546f71) - **chore:** update package meta data [(#7442)](https://github.com/stdlib-js/stdlib/pull/7442) _(by stdlib-bot)_
