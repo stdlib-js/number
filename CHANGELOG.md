@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473)
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451)
 -   [`08a8de6`](https://github.com/stdlib-js/stdlib/commit/08a8de62e303504f0e7eb164cb4ac04aa7455c01) - add remaining implementation for `number/float64/base/ulp-difference` [(#7446)](https://github.com/stdlib-js/stdlib/pull/7446)
 -   [`fe7b8b6`](https://github.com/stdlib-js/stdlib/commit/fe7b8b60c99a3224267122ef12ebb5f6d917e076) - add initial implementation of `number/float64/base/ulp-difference`
@@ -73,6 +74,7 @@ A total of 12 issues were closed in this release:
 
 <details>
 
+-   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - **feat:** add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473) _(by Karan Anand, Athan Reines)_
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - **feat:** add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451) _(by Karan Anand, Athan Reines)_
 -   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by zhanggy)_
 -   [`0f53f18`](https://github.com/stdlib-js/stdlib/commit/0f53f18dee21a8e81a70eadd090b59223c264802) - **docs:** fix comment _(by Karan Anand)_
