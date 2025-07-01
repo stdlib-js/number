@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -61,9 +61,9 @@
 
 ### Closed Issues
 
-A total of 12 issues were closed in this release:
+A total of 13 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532)
 
 </section>
 
@@ -75,6 +75,7 @@ A total of 12 issues were closed in this release:
 
 <details>
 
+-   [`f40cc8a`](https://github.com/stdlib-js/stdlib/commit/f40cc8a1d95b98379b0abb257bf5672b795f6a0b) - **chore:** fix C lint errors [(#7533)](https://github.com/stdlib-js/stdlib/pull/7533) _(by zhanggy)_
 -   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - **feat:** add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517) _(by Karan Anand, Athan Reines)_
 -   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - **feat:** add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473) _(by Karan Anand, Athan Reines)_
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - **feat:** add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451) _(by Karan Anand, Athan Reines)_
