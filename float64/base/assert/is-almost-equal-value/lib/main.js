@@ -44,7 +44,7 @@ var ulpdiff = require( './../../../../../float64/base/ulp-difference' );
 * var bool = isAlmostEqualValue( 1.0, 1.0+EPS, 1 );
 * // returns true
 *
-* var bool = isAlmostEqualValue( 1.0+EPS, 1.0, 1 );
+* bool = isAlmostEqualValue( 1.0+EPS, 1.0, 1 );
 * // returns true
 *
 * bool = isAlmostEqualValue( 1.0, 1.0+EPS+EPS, 1 );

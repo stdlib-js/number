@@ -24,19 +24,29 @@
 * @module @stdlib/number/float64/base/assert/is-almost-equal-value
 *
 * @example
+* var EPS = require( '@stdlib/constants/float64/eps' );
 * var isAlmostEqualValue = require( '@stdlib/number/float64/base/assert/is-almost-equal-value' );
 *
-* var bool = isAlmostEqualValue( 3.14, 3.14 );
+* var bool = isAlmostEqualValue( 1.0, 1.0+EPS, 1 );
 * // returns true
 *
-* bool = isAlmostEqualValue( -0.0, -0.0 );
+* bool = isAlmostEqualValue( 1.0+EPS, 1.0, 1 );
 * // returns true
 *
-* bool = isAlmostEqualValue( -0.0, 0.0 );
+* bool = isAlmostEqualValue( 1.0, 1.0+EPS+EPS, 1 );
 * // returns false
 *
-* bool = isAlmostEqualValue( NaN, NaN );
+* bool = isAlmostEqualValue( 1.0, 1.0+EPS, 0 );
+* // returns false
+*
+* bool = isAlmostEqualValue( 0.0, -0.0, 0 );
 * // returns true
+*
+* bool = isAlmostEqualValue( 1.0, NaN, 1 );
+* // returns false
+*
+* bool = isAlmostEqualValue( NaN, NaN, 1 );
+* // returns false
 */
 
 // MODULES //
