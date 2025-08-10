@@ -78,6 +78,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`d182d88`](https://github.com/stdlib-js/stdlib/commit/d182d88cd06e8d8bd18699a5da4bd1cd23de24e2) - **docs:** use correct types in `number/uint32/base/add` [(#7850)](https://github.com/stdlib-js/stdlib/pull/7850) _(by Gunj Joshi)_
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - **feat:** add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844) _(by Gunj Joshi, Athan Reines)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`db50901`](https://github.com/stdlib-js/stdlib/commit/db509018b6c48e7e483029ae9b4464d2f17ca77d) - **remove:** remove `number/float32/base/assert/is-almost-equal-value` _(by Karan Anand)_
