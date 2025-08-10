@@ -4,12 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-11)
+## Unreleased (2025-08-10)
 
 <section class="features">
 
 ### Features
 
+-   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844)
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
+-   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - add `number/float64/base/assert/is-almost-equal`
 -   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517)
 -   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473)
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451)
@@ -75,6 +78,12 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - **feat:** add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844) _(by Gunj Joshi, Athan Reines)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+-   [`db50901`](https://github.com/stdlib-js/stdlib/commit/db509018b6c48e7e483029ae9b4464d2f17ca77d) - **remove:** remove `number/float32/base/assert/is-almost-equal-value` _(by Karan Anand)_
+-   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - **feat:** add `number/float32/base/assert/is-almost-equal` _(by Karan Anand)_
+-   [`409c1ff`](https://github.com/stdlib-js/stdlib/commit/409c1ff7475d0f0d38f3efb596739cf89686ca83) - **remove:** remove `number/float64/base/assert/is-almost-equal-value` _(by Karan Anand)_
+-   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - **feat:** add `number/float64/base/assert/is-almost-equal` _(by Karan Anand)_
 -   [`260a8ca`](https://github.com/stdlib-js/stdlib/commit/260a8caa90718eeb4dbbe5c6b0c2b3708085de86) - **docs:** fix examples _(by Karan Anand)_
 -   [`bc8edad`](https://github.com/stdlib-js/stdlib/commit/bc8edad112684c9bb6aa1e05f76bdb8a9e1f331c) - **docs:** fix examples _(by Karan Anand)_
 -   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
@@ -181,11 +190,12 @@ A total of 13 issues were closed in this release:
 
 ### Contributors
 
-A total of 13 people contributed to this release. Thank you to the following contributors:
+A total of 14 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   GURU PRASAD SHARMA
+-   Gunj Joshi
 -   Gururaj Gurram
 -   Justyn Shelby
 -   Karan Anand
