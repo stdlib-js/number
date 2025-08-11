@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`d4383ec`](https://github.com/stdlib-js/stdlib/commit/d4383ecb9c3fcf958c794042f2749ed1fbb85b00) - add `number/uint16/base/identity` [(#7846)](https://github.com/stdlib-js/stdlib/pull/7846)
 -   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848)
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844)
 -   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
@@ -79,6 +80,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`d4383ec`](https://github.com/stdlib-js/stdlib/commit/d4383ecb9c3fcf958c794042f2749ed1fbb85b00) - **feat:** add `number/uint16/base/identity` [(#7846)](https://github.com/stdlib-js/stdlib/pull/7846) _(by Gunj Joshi)_
 -   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - **feat:** add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848) _(by Gunj Joshi)_
 -   [`d182d88`](https://github.com/stdlib-js/stdlib/commit/d182d88cd06e8d8bd18699a5da4bd1cd23de24e2) - **docs:** use correct types in `number/uint32/base/add` [(#7850)](https://github.com/stdlib-js/stdlib/pull/7850) _(by Gunj Joshi)_
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - **feat:** add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844) _(by Gunj Joshi, Athan Reines)_
