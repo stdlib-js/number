@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-10)
+## Unreleased (2025-08-11)
 
 <section class="features">
 
 ### Features
 
+-   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848)
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844)
 -   [`1f65da4`](https://github.com/stdlib-js/stdlib/commit/1f65da411b8bd969551a9d9f510e542796dd934a) - add `number/float32/base/assert/is-almost-equal`
 -   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - add `number/float64/base/assert/is-almost-equal`
@@ -78,6 +79,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - **feat:** add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848) _(by Gunj Joshi)_
 -   [`d182d88`](https://github.com/stdlib-js/stdlib/commit/d182d88cd06e8d8bd18699a5da4bd1cd23de24e2) - **docs:** use correct types in `number/uint32/base/add` [(#7850)](https://github.com/stdlib-js/stdlib/pull/7850) _(by Gunj Joshi)_
 -   [`f2fc18c`](https://github.com/stdlib-js/stdlib/commit/f2fc18cfdef838d3fbd6090169318c4584153ba3) - **feat:** add `number/uint32/base/identity` [(#7844)](https://github.com/stdlib-js/stdlib/pull/7844) _(by Gunj Joshi, Athan Reines)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
