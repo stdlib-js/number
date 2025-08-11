@@ -26,6 +26,8 @@
 * @return        input value
 *
 * @example
+* #include <stdint.h>
+*
 * uint8_t y = stdlib_base_uint8_identity( 3 );
 * // returns 3
 */

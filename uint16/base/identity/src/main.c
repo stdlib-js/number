@@ -26,6 +26,8 @@
 * @return        input value
 *
 * @example
+* #include <stdint.h>
+*
 * uint16_t y = stdlib_base_uint16_identity( 3 );
 * // returns 3
 */

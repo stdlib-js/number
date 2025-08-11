@@ -80,6 +80,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`1a121d7`](https://github.com/stdlib-js/stdlib/commit/1a121d7bf505791d601cf733a37eded4b18d8876) - **docs:** fix missing includes _(by Athan Reines)_
 -   [`d4383ec`](https://github.com/stdlib-js/stdlib/commit/d4383ecb9c3fcf958c794042f2749ed1fbb85b00) - **feat:** add `number/uint16/base/identity` [(#7846)](https://github.com/stdlib-js/stdlib/pull/7846) _(by Gunj Joshi)_
 -   [`b3414ca`](https://github.com/stdlib-js/stdlib/commit/b3414caabdd328fef1e0a44410a21cc5b7410571) - **feat:** add `number/uint8/base/identity` [(#7848)](https://github.com/stdlib-js/stdlib/pull/7848) _(by Gunj Joshi)_
 -   [`d182d88`](https://github.com/stdlib-js/stdlib/commit/d182d88cd06e8d8bd18699a5da4bd1cd23de24e2) - **docs:** use correct types in `number/uint32/base/add` [(#7850)](https://github.com/stdlib-js/stdlib/pull/7850) _(by Gunj Joshi)_
