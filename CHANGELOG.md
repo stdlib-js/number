@@ -83,6 +83,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`64bb2ec`](https://github.com/stdlib-js/stdlib/commit/64bb2ec054f33f324751b4c54c06ac1dbc66186c) - **bench:** fix types in C benchmarks [(#7864)](https://github.com/stdlib-js/stdlib/pull/7864) _(by Gunj Joshi)_
 -   [`f21cbe5`](https://github.com/stdlib-js/stdlib/commit/f21cbe54c72b1ae92f86e319aeb8a0c83b534c70) - **feat:** add `number/int8/base/identity` [(#7863)](https://github.com/stdlib-js/stdlib/pull/7863) _(by Gunj Joshi)_
 -   [`5a0971a`](https://github.com/stdlib-js/stdlib/commit/5a0971a25a3995d532b959e4b8a946104e6c8a53) - **feat:** add `number/int16/base/identity` [(#7862)](https://github.com/stdlib-js/stdlib/pull/7862) _(by Gunj Joshi)_
 -   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - **feat:** add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861) _(by Gunj Joshi)_
