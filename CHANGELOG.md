@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`f21cbe5`](https://github.com/stdlib-js/stdlib/commit/f21cbe54c72b1ae92f86e319aeb8a0c83b534c70) - add `number/int8/base/identity` [(#7863)](https://github.com/stdlib-js/stdlib/pull/7863)
 -   [`5a0971a`](https://github.com/stdlib-js/stdlib/commit/5a0971a25a3995d532b959e4b8a946104e6c8a53) - add `number/int16/base/identity` [(#7862)](https://github.com/stdlib-js/stdlib/pull/7862)
 -   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861)
 -   [`d4383ec`](https://github.com/stdlib-js/stdlib/commit/d4383ecb9c3fcf958c794042f2749ed1fbb85b00) - add `number/uint16/base/identity` [(#7846)](https://github.com/stdlib-js/stdlib/pull/7846)
@@ -82,6 +83,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`f21cbe5`](https://github.com/stdlib-js/stdlib/commit/f21cbe54c72b1ae92f86e319aeb8a0c83b534c70) - **feat:** add `number/int8/base/identity` [(#7863)](https://github.com/stdlib-js/stdlib/pull/7863) _(by Gunj Joshi)_
 -   [`5a0971a`](https://github.com/stdlib-js/stdlib/commit/5a0971a25a3995d532b959e4b8a946104e6c8a53) - **feat:** add `number/int16/base/identity` [(#7862)](https://github.com/stdlib-js/stdlib/pull/7862) _(by Gunj Joshi)_
 -   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - **feat:** add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861) _(by Gunj Joshi)_
 -   [`1a121d7`](https://github.com/stdlib-js/stdlib/commit/1a121d7bf505791d601cf733a37eded4b18d8876) - **docs:** fix missing includes _(by Athan Reines)_
