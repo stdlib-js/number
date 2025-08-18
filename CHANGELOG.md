@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-13)
+## Unreleased (2025-08-18)
 
 <section class="features">
 
 ### Features
 
+-   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - add `identity` to `number/uint32/base` namespace
 -   [`f21cbe5`](https://github.com/stdlib-js/stdlib/commit/f21cbe54c72b1ae92f86e319aeb8a0c83b534c70) - add `number/int8/base/identity` [(#7863)](https://github.com/stdlib-js/stdlib/pull/7863)
 -   [`5a0971a`](https://github.com/stdlib-js/stdlib/commit/5a0971a25a3995d532b959e4b8a946104e6c8a53) - add `number/int16/base/identity` [(#7862)](https://github.com/stdlib-js/stdlib/pull/7862)
 -   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861)
@@ -83,6 +84,12 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - **feat:** add `identity` to `number/uint32/base` namespace _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`8c20ca4`](https://github.com/stdlib-js/stdlib/commit/8c20ca47e294c672e2261ca79452861dc3dd0764) - **bench:** fix types in C benchmarks [(#7865)](https://github.com/stdlib-js/stdlib/pull/7865) _(by Gunj Joshi)_
 -   [`b5cb6da`](https://github.com/stdlib-js/stdlib/commit/b5cb6da6915e43b4f3aec2387d3e2cd9f9b0999d) - **docs:** replace `integer` by `uinteger` in JSDocs [(#7866)](https://github.com/stdlib-js/stdlib/pull/7866) _(by Gunj Joshi)_
 -   [`64bb2ec`](https://github.com/stdlib-js/stdlib/commit/64bb2ec054f33f324751b4c54c06ac1dbc66186c) - **bench:** fix types in C benchmarks [(#7864)](https://github.com/stdlib-js/stdlib/pull/7864) _(by Gunj Joshi)_

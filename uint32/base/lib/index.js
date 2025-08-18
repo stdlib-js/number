@@ -55,6 +55,15 @@ setReadOnly( ns, 'add', require( './../../../uint32/base/add' ) );
 setReadOnly( ns, 'fromBinaryStringUint32', require( './../../../uint32/base/from-binary-string' ) );
 
 /**
+* @name identity
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/uint32/base/identity}
+*/
+setReadOnly( ns, 'identity', require( './../../../uint32/base/identity' ) );
+
+/**
 * @name mul
 * @memberof ns
 * @readonly
