@@ -37,6 +37,15 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 var ns = {};
 
 /**
+* @name add
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/add}
+*/
+setReadOnly( ns, 'add', require( './../../../float32/base/add' ) );
+
+/**
 * @name assert
 * @memberof ns
 * @readonly
@@ -44,6 +53,15 @@ var ns = {};
 * @see {@link module:@stdlib/number/float32/base/assert}
 */
 setReadOnly( ns, 'assert', require( './../../../float32/base/assert' ) );
+
+/**
+* @name div
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/div}
+*/
+setReadOnly( ns, 'div', require( './../../../float32/base/div' ) );
 
 /**
 * @name exponentf
@@ -73,6 +91,24 @@ setReadOnly( ns, 'fromBinaryStringf', require( './../../../float32/base/from-bin
 setReadOnly( ns, 'fromWordf', require( './../../../float32/base/from-word' ) );
 
 /**
+* @name identity
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/identity}
+*/
+setReadOnly( ns, 'identity', require( './../../../float32/base/identity' ) );
+
+/**
+* @name mul
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/mul}
+*/
+setReadOnly( ns, 'mul', require( './../../../float32/base/mul' ) );
+
+/**
 * @name normalizef
 * @memberof ns
 * @readonly
@@ -98,6 +134,15 @@ setReadOnly( ns, 'signbitf', require( './../../../float32/base/signbit' ) );
 * @see {@link module:@stdlib/number/float32/base/significand}
 */
 setReadOnly( ns, 'significandf', require( './../../../float32/base/significand' ) );
+
+/**
+* @name sub
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/sub}
+*/
+setReadOnly( ns, 'sub', require( './../../../float32/base/sub' ) );
 
 /**
 * @name toBinaryStringf
@@ -134,6 +179,15 @@ setReadOnly( ns, 'float32ToUint32', require( './../../../float32/base/to-uint32'
 * @see {@link module:@stdlib/number/float32/base/to-word}
 */
 setReadOnly( ns, 'toWordf', require( './../../../float32/base/to-word' ) );
+
+/**
+* @name ulpdiff
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/float32/base/ulp-difference}
+*/
+setReadOnly( ns, 'ulpdiff', require( './../../../float32/base/ulp-difference' ) );
 
 
 // EXPORTS //

@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-08-22)
 
 <section class="features">
 
 ### Features
 
+-   [`379cdb9`](https://github.com/stdlib-js/stdlib/commit/379cdb9ca96fc51e5f10d4addcef0e7775f03d21) - add missing `number/float64/base` exports to namespace
+-   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - add missing `number/float32/base` exports to namespace
 -   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - add `identity` to `number/uint32/base` namespace
 -   [`f21cbe5`](https://github.com/stdlib-js/stdlib/commit/f21cbe54c72b1ae92f86e319aeb8a0c83b534c70) - add `number/int8/base/identity` [(#7863)](https://github.com/stdlib-js/stdlib/pull/7863)
 -   [`5a0971a`](https://github.com/stdlib-js/stdlib/commit/5a0971a25a3995d532b959e4b8a946104e6c8a53) - add `number/int16/base/identity` [(#7862)](https://github.com/stdlib-js/stdlib/pull/7862)
@@ -84,6 +86,9 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`379cdb9`](https://github.com/stdlib-js/stdlib/commit/379cdb9ca96fc51e5f10d4addcef0e7775f03d21) - **feat:** add missing `number/float64/base` exports to namespace _(by Philipp Burckhardt)_
+-   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - **feat:** add missing `number/float32/base` exports to namespace _(by Philipp Burckhardt)_
+-   [`21ec206`](https://github.com/stdlib-js/stdlib/commit/21ec2060d7496322ce32d4f984230d0c131974cc) - **docs:** clean-up example code _(by Philipp Burckhardt)_
 -   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - **feat:** add `identity` to `number/uint32/base` namespace _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
