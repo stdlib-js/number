@@ -55,6 +55,15 @@ setReadOnly( ns, 'add', require( './../../../uint8/base/add' ) );
 setReadOnly( ns, 'fromBinaryStringUint8', require( './../../../uint8/base/from-binary-string' ) );
 
 /**
+* @name identity
+* @memberof ns
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/number/uint8/base/identity}
+*/
+setReadOnly( ns, 'identity', require( './../../../uint8/base/identity' ) );
+
+/**
 * @name mul
 * @memberof ns
 * @readonly

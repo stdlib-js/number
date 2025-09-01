@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-22)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
 ### Features
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - add missing exports to namespaces
+-   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
 -   [`379cdb9`](https://github.com/stdlib-js/stdlib/commit/379cdb9ca96fc51e5f10d4addcef0e7775f03d21) - add missing `number/float64/base` exports to namespace
 -   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - add missing `number/float32/base` exports to namespace
 -   [`6395a59`](https://github.com/stdlib-js/stdlib/commit/6395a594129fad4072e902ecb8609edd93a65e4b) - add `identity` to `number/uint32/base` namespace
@@ -86,6 +88,8 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
+-   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_
 -   [`379cdb9`](https://github.com/stdlib-js/stdlib/commit/379cdb9ca96fc51e5f10d4addcef0e7775f03d21) - **feat:** add missing `number/float64/base` exports to namespace _(by Philipp Burckhardt)_
 -   [`dd27f86`](https://github.com/stdlib-js/stdlib/commit/dd27f863be4a7028f73ff7b54e859eb2e0e80bc2) - **feat:** add missing `number/float32/base` exports to namespace _(by Philipp Burckhardt)_
 -   [`21ec206`](https://github.com/stdlib-js/stdlib/commit/21ec2060d7496322ce32d4f984230d0c131974cc) - **docs:** clean-up example code _(by Philipp Burckhardt)_
