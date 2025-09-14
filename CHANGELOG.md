@@ -88,6 +88,7 @@ A total of 14 issues were closed in this release:
 
 <details>
 
+-   [`63ca7e4`](https://github.com/stdlib-js/stdlib/commit/63ca7e473044990d355b5e7e1e991b66be7ac411) - **style:** add empty lines _(by Athan Reines)_
 -   [`22abc2e`](https://github.com/stdlib-js/stdlib/commit/22abc2e5ddc56329be7611dbc69682522e797eca) - **chore:** address commit comments [(#8072)](https://github.com/stdlib-js/stdlib/pull/8072) _(by Vara Rahul Rajana, Athan Reines)_
 -   [`8b0b780`](https://github.com/stdlib-js/stdlib/commit/8b0b78084a2ff5d7a76ba3c5945b13d7f0906f4f) - **docs:** fix TypeScript declaration linting errors _(by Philipp Burckhardt)_
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
