@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-06)
+## Unreleased (2025-09-14)
 
 <section class="features">
 
@@ -74,9 +74,9 @@
 
 ### Closed Issues
 
-A total of 13 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027)
 
 </section>
 
@@ -88,6 +88,7 @@ A total of 13 issues were closed in this release:
 
 <details>
 
+-   [`22abc2e`](https://github.com/stdlib-js/stdlib/commit/22abc2e5ddc56329be7611dbc69682522e797eca) - **chore:** address commit comments [(#8072)](https://github.com/stdlib-js/stdlib/pull/8072) _(by Vara Rahul Rajana, Athan Reines)_
 -   [`8b0b780`](https://github.com/stdlib-js/stdlib/commit/8b0b78084a2ff5d7a76ba3c5945b13d7f0906f4f) - **docs:** fix TypeScript declaration linting errors _(by Philipp Burckhardt)_
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_
@@ -222,7 +223,7 @@ A total of 13 issues were closed in this release:
 
 ### Contributors
 
-A total of 14 people contributed to this release. Thank you to the following contributors:
+A total of 15 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
@@ -237,6 +238,7 @@ A total of 14 people contributed to this release. Thank you to the following con
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Uday Kakade
+-   Vara Rahul Rajana
 -   zhanggy
 
 </section>
