@@ -4,12 +4,20 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-14)
+## Unreleased (2025-09-28)
 
 <section class="features">
 
 ### Features
 
+-   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - update `number/uint8/base` TypeScript declarations
+-   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - update `number/uint32/base` TypeScript declarations
+-   [`7e901bd`](https://github.com/stdlib-js/stdlib/commit/7e901bd49e7890bf936456e09265913c13e74ad1) - update `number/uint16/base` TypeScript declarations
+-   [`fe9a4ca`](https://github.com/stdlib-js/stdlib/commit/fe9a4ca4458b71d18b14fc0010643529130b0c80) - update `number/int32/base` TypeScript declarations
+-   [`4a62313`](https://github.com/stdlib-js/stdlib/commit/4a6231302d21f6fc21776091b2191bfdbf0cefe1) - update `number/float64/base` TypeScript declarations
+-   [`f114dad`](https://github.com/stdlib-js/stdlib/commit/f114dad17c4ab240701b7c67aeb313aac7831eb7) - update `number/float64/base/assert` TypeScript declarations
+-   [`8cb554a`](https://github.com/stdlib-js/stdlib/commit/8cb554a96c2f9186a1e11caa5d7799efaaa5ea67) - update `number/float32/base` TypeScript declarations
+-   [`ce7e772`](https://github.com/stdlib-js/stdlib/commit/ce7e772e28c75673dbc846d844febef8d4426b95) - update `number/float32/base/assert` TypeScript declarations
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - add missing exports to namespaces
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
 -   [`379cdb9`](https://github.com/stdlib-js/stdlib/commit/379cdb9ca96fc51e5f10d4addcef0e7775f03d21) - add missing `number/float64/base` exports to namespace
@@ -74,9 +82,9 @@
 
 ### Closed Issues
 
-A total of 14 issues were closed in this release:
+A total of 15 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136)
 
 </section>
 
@@ -88,6 +96,16 @@ A total of 14 issues were closed in this release:
 
 <details>
 
+-   [`db17d2d`](https://github.com/stdlib-js/stdlib/commit/db17d2df2df67b618c41799249b660c4f9933d1d) - **chore:** fix C lint errors [(#8137)](https://github.com/stdlib-js/stdlib/pull/8137) _(by GeoDaoyu, Athan Reines)_
+-   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - **feat:** update `number/uint8/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - **feat:** update `number/uint32/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`7e901bd`](https://github.com/stdlib-js/stdlib/commit/7e901bd49e7890bf936456e09265913c13e74ad1) - **feat:** update `number/uint16/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`fe9a4ca`](https://github.com/stdlib-js/stdlib/commit/fe9a4ca4458b71d18b14fc0010643529130b0c80) - **feat:** update `number/int32/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`4a62313`](https://github.com/stdlib-js/stdlib/commit/4a6231302d21f6fc21776091b2191bfdbf0cefe1) - **feat:** update `number/float64/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`f114dad`](https://github.com/stdlib-js/stdlib/commit/f114dad17c4ab240701b7c67aeb313aac7831eb7) - **feat:** update `number/float64/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`8cb554a`](https://github.com/stdlib-js/stdlib/commit/8cb554a96c2f9186a1e11caa5d7799efaaa5ea67) - **feat:** update `number/float32/base` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`ce7e772`](https://github.com/stdlib-js/stdlib/commit/ce7e772e28c75673dbc846d844febef8d4426b95) - **feat:** update `number/float32/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`af59fdf`](https://github.com/stdlib-js/stdlib/commit/af59fdfb5f2aae5ced449bd6ccddc012047f0089) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`63ca7e4`](https://github.com/stdlib-js/stdlib/commit/63ca7e473044990d355b5e7e1e991b66be7ac411) - **style:** add empty lines _(by Athan Reines)_
 -   [`22abc2e`](https://github.com/stdlib-js/stdlib/commit/22abc2e5ddc56329be7611dbc69682522e797eca) - **chore:** address commit comments [(#8072)](https://github.com/stdlib-js/stdlib/pull/8072) _(by Vara Rahul Rajana, Athan Reines)_
 -   [`8b0b780`](https://github.com/stdlib-js/stdlib/commit/8b0b78084a2ff5d7a76ba3c5945b13d7f0906f4f) - **docs:** fix TypeScript declaration linting errors _(by Philipp Burckhardt)_
@@ -224,11 +242,12 @@ A total of 14 issues were closed in this release:
 
 ### Contributors
 
-A total of 15 people contributed to this release. Thank you to the following contributors:
+A total of 16 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
 -   GURU PRASAD SHARMA
+-   GeoDaoyu
 -   Gunj Joshi
 -   Gururaj Gurram
 -   Justyn Shelby
