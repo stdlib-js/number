@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-28)
+## Unreleased (2025-10-02)
 
 <section class="features">
 
@@ -82,9 +82,9 @@
 
 ### Closed Issues
 
-A total of 15 issues were closed in this release:
+A total of 16 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170)
 
 </section>
 
@@ -96,6 +96,7 @@ A total of 15 issues were closed in this release:
 
 <details>
 
+-   [`f920adc`](https://github.com/stdlib-js/stdlib/commit/f920adcf8021ad52af5d9725573a67717e7a67a1) - **chore:** fix C lint errors [(#8180)](https://github.com/stdlib-js/stdlib/pull/8180) _(by Navyansh Kesarwani, Athan Reines)_
 -   [`db17d2d`](https://github.com/stdlib-js/stdlib/commit/db17d2df2df67b618c41799249b660c4f9933d1d) - **chore:** fix C lint errors [(#8137)](https://github.com/stdlib-js/stdlib/pull/8137) _(by GeoDaoyu, Athan Reines)_
 -   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - **feat:** update `number/uint8/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - **feat:** update `number/uint32/base` TypeScript declarations _(by Philipp Burckhardt)_
@@ -242,7 +243,7 @@ A total of 15 issues were closed in this release:
 
 ### Contributors
 
-A total of 16 people contributed to this release. Thank you to the following contributors:
+A total of 17 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   GK Bishnoi
@@ -255,6 +256,7 @@ A total of 16 people contributed to this release. Thank you to the following con
 -   Lokesh Ranjan
 -   MANI
 -   Mahfuza Humayra Mohona
+-   Navyansh Kesarwani
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Uday Kakade
