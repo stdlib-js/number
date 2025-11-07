@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-02)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
@@ -96,8 +96,9 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`f920adc`](https://github.com/stdlib-js/stdlib/commit/f920adcf8021ad52af5d9725573a67717e7a67a1) - **chore:** fix C lint errors [(#8180)](https://github.com/stdlib-js/stdlib/pull/8180) _(by Navyansh Kesarwani, Athan Reines)_
--   [`db17d2d`](https://github.com/stdlib-js/stdlib/commit/db17d2df2df67b618c41799249b660c4f9933d1d) - **chore:** fix C lint errors [(#8137)](https://github.com/stdlib-js/stdlib/pull/8137) _(by GeoDaoyu, Athan Reines)_
+-   [`db17d2d`](https://github.com/stdlib-js/stdlib/commit/db17d2df2df67b618c41799249b660c4f9933d1d) - **chore:** fix C lint errors [(#8137)](https://github.com/stdlib-js/stdlib/pull/8137) _(by Geo Daoyu, Athan Reines)_
 -   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - **feat:** update `number/uint8/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - **feat:** update `number/uint32/base` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`7e901bd`](https://github.com/stdlib-js/stdlib/commit/7e901bd49e7890bf936456e09265913c13e74ad1) - **feat:** update `number/uint16/base` TypeScript declarations _(by Philipp Burckhardt)_
@@ -140,11 +141,11 @@ A total of 16 issues were closed in this release:
 -   [`260a8ca`](https://github.com/stdlib-js/stdlib/commit/260a8caa90718eeb4dbbe5c6b0c2b3708085de86) - **docs:** fix examples _(by Karan Anand)_
 -   [`bc8edad`](https://github.com/stdlib-js/stdlib/commit/bc8edad112684c9bb6aa1e05f76bdb8a9e1f331c) - **docs:** fix examples _(by Karan Anand)_
 -   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
--   [`f40cc8a`](https://github.com/stdlib-js/stdlib/commit/f40cc8a1d95b98379b0abb257bf5672b795f6a0b) - **chore:** fix C lint errors [(#7533)](https://github.com/stdlib-js/stdlib/pull/7533) _(by zhanggy)_
+-   [`f40cc8a`](https://github.com/stdlib-js/stdlib/commit/f40cc8a1d95b98379b0abb257bf5672b795f6a0b) - **chore:** fix C lint errors [(#7533)](https://github.com/stdlib-js/stdlib/pull/7533) _(by Geo Daoyu)_
 -   [`cad154a`](https://github.com/stdlib-js/stdlib/commit/cad154a928c9bf91f513828f49983b487dab44a6) - **feat:** add `number/float32/base/assert/is-almost-equal-value` [(#7517)](https://github.com/stdlib-js/stdlib/pull/7517) _(by Karan Anand, Athan Reines)_
 -   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - **feat:** add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473) _(by Karan Anand, Athan Reines)_
 -   [`649c05a`](https://github.com/stdlib-js/stdlib/commit/649c05af0ca6a85f540fe4ebe9847a667d976c57) - **feat:** add `number/float32/base/ulp-difference` [(#7451)](https://github.com/stdlib-js/stdlib/pull/7451) _(by Karan Anand, Athan Reines)_
--   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by zhanggy)_
+-   [`647aefa`](https://github.com/stdlib-js/stdlib/commit/647aefae9b5cdc1cb4502481b99c6911ef4406bf) - **chore:** fix C lint errors [(#7460)](https://github.com/stdlib-js/stdlib/pull/7460) _(by Geo Daoyu)_
 -   [`0f53f18`](https://github.com/stdlib-js/stdlib/commit/0f53f18dee21a8e81a70eadd090b59223c264802) - **docs:** fix comment _(by Karan Anand)_
 -   [`08a8de6`](https://github.com/stdlib-js/stdlib/commit/08a8de62e303504f0e7eb164cb4ac04aa7455c01) - **feat:** add remaining implementation for `number/float64/base/ulp-difference` [(#7446)](https://github.com/stdlib-js/stdlib/pull/7446) _(by Karan Anand, Athan Reines)_
 -   [`5aeb4ef`](https://github.com/stdlib-js/stdlib/commit/5aeb4ef105b90890e89ab138a55316c2d6546f71) - **chore:** update package meta data [(#7442)](https://github.com/stdlib-js/stdlib/pull/7442) _(by stdlib-bot)_
@@ -154,7 +155,7 @@ A total of 16 issues were closed in this release:
 -   [`07d3925`](https://github.com/stdlib-js/stdlib/commit/07d3925116182268a9acdac0b0e301d3e527e4f0) - **chore:** fix EditorConfig lint errors [(#7398)](https://github.com/stdlib-js/stdlib/pull/7398) _(by Lokesh Ranjan)_
 -   [`eff9b74`](https://github.com/stdlib-js/stdlib/commit/eff9b74602cd76a308c6518e1de5bd383b24b138) - **chore:** fix EditorConfig lint errors [(#7356)](https://github.com/stdlib-js/stdlib/pull/7356) _(by Lokesh Ranjan)_
 -   [`c0af677`](https://github.com/stdlib-js/stdlib/commit/c0af6777b804074d251bf0699b72ffb6af803ff6) - **docs:** update related packages sections [(#7352)](https://github.com/stdlib-js/stdlib/pull/7352) _(by stdlib-bot)_
--   [`930d012`](https://github.com/stdlib-js/stdlib/commit/930d012685e0d75e6c0de8d80de7a39d67565e79) - **chore:** fix C lint errors [(#7338)](https://github.com/stdlib-js/stdlib/pull/7338) _(by zhanggy)_
+-   [`930d012`](https://github.com/stdlib-js/stdlib/commit/930d012685e0d75e6c0de8d80de7a39d67565e79) - **chore:** fix C lint errors [(#7338)](https://github.com/stdlib-js/stdlib/pull/7338) _(by Geo Daoyu)_
 -   [`c584077`](https://github.com/stdlib-js/stdlib/commit/c5840770ca22e8717a880d1f1ced8496f7f5a62e) - **docs:** update namespace table of contents [(#7283)](https://github.com/stdlib-js/stdlib/pull/7283) _(by stdlib-bot)_
 -   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
 -   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
@@ -190,9 +191,9 @@ A total of 16 issues were closed in this release:
 -   [`2a27875`](https://github.com/stdlib-js/stdlib/commit/2a278751234674b90251810a6e9236e917df5567) - **chore:** clean-up _(by Athan Reines)_
 -   [`ccff6bb`](https://github.com/stdlib-js/stdlib/commit/ccff6bb23b8189890d32db75ce84ea464403a30d) - **chore:** fix JavaScript lint errors [(#7066)](https://github.com/stdlib-js/stdlib/pull/7066) _(by Uday Kakade)_
 -   [`7513cfe`](https://github.com/stdlib-js/stdlib/commit/7513cfee4cc2404b62615c9c9be7c882396e0b39) - **chore:** fix JavaScript lint errors [(#7047)](https://github.com/stdlib-js/stdlib/pull/7047) _(by Uday Kakade, Athan Reines)_
--   [`66f68cf`](https://github.com/stdlib-js/stdlib/commit/66f68cf6493c41ccfe4107e76d04a6bc43769b63) - **chore:** fix EditorConfig lint errors [(#6871)](https://github.com/stdlib-js/stdlib/pull/6871) _(by zhanggy)_
--   [`f3cfeab`](https://github.com/stdlib-js/stdlib/commit/f3cfeaba512914fe482fc3ec96f4293e104a6baf) - **chore:** fix EditorConfig lint errors [(#6861)](https://github.com/stdlib-js/stdlib/pull/6861) _(by zhanggy)_
--   [`57953ed`](https://github.com/stdlib-js/stdlib/commit/57953ed6de1a9a8a992aa0aa884ac23259073c55) - **chore:** fix JavaScript lint errors (issue #6616) [(#6626)](https://github.com/stdlib-js/stdlib/pull/6626) _(by GURU PRASAD SHARMA, Athan Reines)_
+-   [`66f68cf`](https://github.com/stdlib-js/stdlib/commit/66f68cf6493c41ccfe4107e76d04a6bc43769b63) - **chore:** fix EditorConfig lint errors [(#6871)](https://github.com/stdlib-js/stdlib/pull/6871) _(by Geo Daoyu)_
+-   [`f3cfeab`](https://github.com/stdlib-js/stdlib/commit/f3cfeaba512914fe482fc3ec96f4293e104a6baf) - **chore:** fix EditorConfig lint errors [(#6861)](https://github.com/stdlib-js/stdlib/pull/6861) _(by Geo Daoyu)_
+-   [`57953ed`](https://github.com/stdlib-js/stdlib/commit/57953ed6de1a9a8a992aa0aa884ac23259073c55) - **chore:** fix JavaScript lint errors (issue #6616) [(#6626)](https://github.com/stdlib-js/stdlib/pull/6626) _(by Guru Prasad Sharma, Athan Reines)_
 -   [`7f1101e`](https://github.com/stdlib-js/stdlib/commit/7f1101e1867786057cb6ccf8c664abefaae03013) - **chore:** fix EditorConfig lint errors [(#6596)](https://github.com/stdlib-js/stdlib/pull/6596) _(by Mahfuza Humayra Mohona, Athan Reines)_
 -   [`ecc74c7`](https://github.com/stdlib-js/stdlib/commit/ecc74c726d322ec0845e023ab448494005572bff) - **chore:** fix EditorConfig lint errors [(#6181)](https://github.com/stdlib-js/stdlib/pull/6181) _(by MANI, Athan Reines)_
 -   [`1820a95`](https://github.com/stdlib-js/stdlib/commit/1820a95fb1d37471413f822d2ce004c1b8752b39) - **docs:** update related packages sections [(#6503)](https://github.com/stdlib-js/stdlib/pull/6503) _(by stdlib-bot)_
@@ -215,7 +216,7 @@ A total of 16 issues were closed in this release:
 -   [`7ae2f22`](https://github.com/stdlib-js/stdlib/commit/7ae2f22a800770e00e3de3d54649399d84f99c4d) - **feat:** add `number/float32/base/mul` _(by Gururaj Gurram)_
 -   [`adbcf39`](https://github.com/stdlib-js/stdlib/commit/adbcf39b36d49a9c2876bdc2848e9dac842cf90f) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`5928127`](https://github.com/stdlib-js/stdlib/commit/5928127d8f24750ec68278e6c5cd5adf1c7e95c3) - **feat:** add `number/float32/base/div` _(by Gururaj Gurram)_
--   [`35df6a5`](https://github.com/stdlib-js/stdlib/commit/35df6a54d1f8f054205b51e5f4e6700cb7fb2ed5) - **chore:** fix C lint errors [(#5354)](https://github.com/stdlib-js/stdlib/pull/5354) _(by GK Bishnoi)_
+-   [`35df6a5`](https://github.com/stdlib-js/stdlib/commit/35df6a54d1f8f054205b51e5f4e6700cb7fb2ed5) - **chore:** fix C lint errors [(#5354)](https://github.com/stdlib-js/stdlib/pull/5354) _(by Gopi Kishan)_
 -   [`92761ec`](https://github.com/stdlib-js/stdlib/commit/92761ec746d55b5cd6d48a06276b5e1bffe2cfb0) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`2dc9e44`](https://github.com/stdlib-js/stdlib/commit/2dc9e440be9f5037024598969521418dcbba8ee0) - **feat:** add `number/float64/base/sub` _(by Gururaj Gurram)_
 -   [`e910b33`](https://github.com/stdlib-js/stdlib/commit/e910b3362443e36936a6f3705daf63e032d891dc) - **refactor:** update paths _(by Gururaj Gurram)_
@@ -243,13 +244,13 @@ A total of 16 issues were closed in this release:
 
 ### Contributors
 
-A total of 17 people contributed to this release. Thank you to the following contributors:
+A total of 16 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   GK Bishnoi
--   GURU PRASAD SHARMA
--   GeoDaoyu
+-   Geo Daoyu
+-   Gopi Kishan
 -   Gunj Joshi
+-   Guru Prasad Sharma
 -   Gururaj Gurram
 -   Justyn Shelby
 -   Karan Anand
@@ -261,7 +262,6 @@ A total of 17 people contributed to this release. Thank you to the following con
 -   Philipp Burckhardt
 -   Uday Kakade
 -   Vara Rahul Rajana
--   zhanggy
 
 </section>
 
