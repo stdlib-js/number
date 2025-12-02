@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-18)
+## Unreleased (2025-12-02)
 
 <section class="features">
 
 ### Features
 
+-   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575)
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207)
 -   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - update `number/uint8/base` TypeScript declarations
 -   [`9bdb8b6`](https://github.com/stdlib-js/stdlib/commit/9bdb8b63fdcee0dd665dcf362f5565c86ee1b0f8) - update `number/uint32/base` TypeScript declarations
@@ -97,6 +98,7 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - **feat:** add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575) _(by Gururaj Gurram, Athan Reines)_
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - **feat:** add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207) _(by Gururaj Gurram, Athan Reines)_
 -   [`7db5b32`](https://github.com/stdlib-js/stdlib/commit/7db5b32afe976e2d3c216a45e0927c88e668d340) - **chore:** add `alias_prefix` to parent namespaces [(#8540)](https://github.com/stdlib-js/stdlib/pull/8540) _(by Gunj Joshi)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
