@@ -98,6 +98,7 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`387d027`](https://github.com/stdlib-js/stdlib/commit/387d027e46c1a7bd35acb3f9c82cc43af95bf34c) - **test:** check first element twice for sign bit being either 0 or 1 _(by Philipp Burckhardt)_
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - **feat:** add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575) _(by Gururaj Gurram, Athan Reines)_
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - **feat:** add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207) _(by Gururaj Gurram, Athan Reines)_
 -   [`7db5b32`](https://github.com/stdlib-js/stdlib/commit/7db5b32afe976e2d3c216a45e0927c88e668d340) - **chore:** add `alias_prefix` to parent namespaces [(#8540)](https://github.com/stdlib-js/stdlib/pull/8540) _(by Gunj Joshi)_
