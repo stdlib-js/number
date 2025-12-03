@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-02)
+## Unreleased (2025-12-03)
 
 <section class="features">
 
 ### Features
 
+-   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371)
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575)
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207)
 -   [`9ba40f2`](https://github.com/stdlib-js/stdlib/commit/9ba40f27deb2f5bafaccdebe3c18dd7bb0e53e3f) - update `number/uint8/base` TypeScript declarations
@@ -98,6 +99,7 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - **feat:** add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`387d027`](https://github.com/stdlib-js/stdlib/commit/387d027e46c1a7bd35acb3f9c82cc43af95bf34c) - **test:** check first element twice for sign bit being either 0 or 1 _(by Philipp Burckhardt)_
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - **feat:** add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575) _(by Gururaj Gurram, Athan Reines)_
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - **feat:** add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207) _(by Gururaj Gurram, Athan Reines)_
