@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733)
 -   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - add `number/float16/base/exponent`
 -   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371)
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575)
@@ -100,6 +101,7 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - **feat:** add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - **feat:** add `number/float16/base/exponent` _(by Gururaj Gurram, stdlib-bot)_
 -   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - **feat:** add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`387d027`](https://github.com/stdlib-js/stdlib/commit/387d027e46c1a7bd35acb3f9c82cc43af95bf34c) - **test:** check first element twice for sign bit being either 0 or 1 _(by Philipp Burckhardt)_
