@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-08)
+## Unreleased (2025-12-09)
 
 <section class="features">
 
@@ -87,9 +87,9 @@
 
 ### Closed Issues
 
-A total of 17 issues were closed in this release:
+A total of 18 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895)
 
 </section>
 
@@ -101,6 +101,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`5d190d4`](https://github.com/stdlib-js/stdlib/commit/5d190d495ee70092784ff21a7fd0d46d1e6ac2a4) - **chore:** fix C lint errors [(#8896)](https://github.com/stdlib-js/stdlib/pull/8896) _(by Geo Daoyu)_
 -   [`26cdd2f`](https://github.com/stdlib-js/stdlib/commit/26cdd2ffb32ecb9fc209026cf9488a895891b7df) - **chore:** fix C lint errors [(#8880)](https://github.com/stdlib-js/stdlib/pull/8880) _(by Geo Daoyu)_
 -   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - **feat:** add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - **feat:** add `number/float16/base/exponent` _(by Gururaj Gurram, stdlib-bot)_
