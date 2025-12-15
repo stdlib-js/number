@@ -101,6 +101,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`82f9d54`](https://github.com/stdlib-js/stdlib/commit/82f9d5484c3beda739ac298abd28983b6cc9750d) - **bench:** refactor to use string interpolation in `number/uint32/base/mul` [(#8944)](https://github.com/stdlib-js/stdlib/pull/8944) _(by Krishna Awasthi)_
 -   [`0a1fd8e`](https://github.com/stdlib-js/stdlib/commit/0a1fd8e1abf27f34bcab5011b55f624b4d33ac27) - **bench:** refactor to use string interpolation in `number/uint8/base/identity` [(#8943)](https://github.com/stdlib-js/stdlib/pull/8943) _(by Krishna Awasthi)_
 -   [`45e4ab4`](https://github.com/stdlib-js/stdlib/commit/45e4ab474aeb331cc44490e90c173ee597a6c1d0) - **bench:** refactor to use string interpolation in `number/uint8/base/add` [(#8942)](https://github.com/stdlib-js/stdlib/pull/8942) _(by Krishna Awasthi)_
 -   [`afbf4d2`](https://github.com/stdlib-js/stdlib/commit/afbf4d2bfd3c526245c83f40967cf6887dbee703) - **bench:** refactor to use string interpolation in `number/uint8/base/sub` [(#8941)](https://github.com/stdlib-js/stdlib/pull/8941) _(by Krishna Awasthi)_
