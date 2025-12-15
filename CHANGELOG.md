@@ -101,6 +101,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`45e4ab4`](https://github.com/stdlib-js/stdlib/commit/45e4ab474aeb331cc44490e90c173ee597a6c1d0) - **bench:** refactor to use string interpolation in `number/uint8/base/add` [(#8942)](https://github.com/stdlib-js/stdlib/pull/8942) _(by Krishna Awasthi)_
 -   [`afbf4d2`](https://github.com/stdlib-js/stdlib/commit/afbf4d2bfd3c526245c83f40967cf6887dbee703) - **bench:** refactor to use string interpolation in `number/uint8/base/sub` [(#8941)](https://github.com/stdlib-js/stdlib/pull/8941) _(by Krishna Awasthi)_
 -   [`6a9445c`](https://github.com/stdlib-js/stdlib/commit/6a9445cb7115b3a6c90bfbd3364c809343491543) - **bench:** refactor to use string interpolation in `number/uint8/base/mul` [(#8905)](https://github.com/stdlib-js/stdlib/pull/8905) _(by Krishna Awasthi)_
 -   [`5d190d4`](https://github.com/stdlib-js/stdlib/commit/5d190d495ee70092784ff21a7fd0d46d1e6ac2a4) - **chore:** fix C lint errors [(#8896)](https://github.com/stdlib-js/stdlib/pull/8896) _(by Geo Daoyu)_
