@@ -18,50 +18,46 @@ limitations under the License.
 
 -->
 
-# isAlmostEqual
+# isAlmostSameValue
 
-> Test if two single-precision floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).
+> Test if two single-precision floating-point numbers are approximately the same value within a specified number of ULPs (units in the last place).
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-var isAlmostEqual = require( '@stdlib/number/float32/base/assert/is-almost-equal' );
+var isAlmostSameValue = require( '@stdlib/number/float32/base/assert/is-almost-same-value' );
 ```
 
-#### isAlmostEqual( a, b, maxULP )
+#### isAlmostSameValue( a, b, maxULP )
 
-Tests if two single-precision floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).
+Tests if two single-precision floating-point numbers are approximately the same value within a specified number of ULPs (units in the last place).
 
 ```javascript
 var EPS = require( '@stdlib/constants/float32/eps' );
 
-var bool = isAlmostEqual( 1.0, 1.0+EPS, 1 );
+var bool = isAlmostSameValue( 1.0, 1.0+EPS, 1 );
 // returns true
 
-bool = isAlmostEqual( 1.0, 1.0+EPS, 0 );
+bool = isAlmostSameValue( 1.0, 1.0+EPS, 0 );
 // returns false
 ```
 
-The function returns `false` if either input value is `NaN`.
+In contrast to the strict equality operator `===`, the function distinguishes between `+0` and `-0` and treats `NaNs` as the same value.
 
 ```javascript
-var bool = isAlmostEqual( NaN, 1.0, 1 );
+var bool = isAlmostSameValue( NaN, 1.0, 1 );
 // returns false
 
-bool = isAlmostEqual( 1.0, NaN, 1 );
+bool = isAlmostSameValue( 1.0, NaN, 1 );
 // returns false
 
-bool = isAlmostEqual( NaN, NaN, 1 );
-// returns false
-```
-
-The function does not distinguish between `-0` and `+0`, treating them as equal.
-
-```javascript
-var bool = isAlmostEqual( 0.0, -0.0, 0 );
+bool = isAlmostSameValue( NaN, NaN, 1 );
 // returns true
+
+bool = isAlmostSameValue( 0.0, -0.0, 0 );
+// returns false
 ```
 
 </section>
@@ -69,6 +65,10 @@ var bool = isAlmostEqual( 0.0, -0.0, 0 );
 <!-- /.usage -->
 
 <section class="notes">
+
+## Notes
+
+-   The function implements the [SameValue Algorithm][ecma-262-same-value-algorithm] as specified in ECMAScript 5.
 
 </section>
 
@@ -82,35 +82,35 @@ var bool = isAlmostEqual( 0.0, -0.0, 0 );
 
 ```javascript
 var EPS = require( '@stdlib/constants/float32/eps' );
-var isAlmostEqual = require( '@stdlib/number/float32/base/assert/is-almost-equal' );
+var isAlmostSameValue = require( '@stdlib/number/float32/base/assert/is-almost-same-value' );
 
-var bool = isAlmostEqual( 1.0, 1.0+EPS, 1 );
+var bool = isAlmostSameValue( 1.0, 1.0+EPS, 1 );
 console.log( bool );
 // => true
 
-bool = isAlmostEqual( 1.0+EPS, 1.0, 1 );
+bool = isAlmostSameValue( 1.0+EPS, 1.0, 1 );
 console.log( bool );
 // => true
 
-bool = isAlmostEqual( 1.0, 1.0+EPS+EPS, 1 );
+bool = isAlmostSameValue( 1.0, 1.0+EPS+EPS, 1 );
 console.log( bool );
 // => false
 
-bool = isAlmostEqual( 1.0, 1.0+EPS, 0 );
+bool = isAlmostSameValue( 1.0, 1.0+EPS, 0 );
 console.log( bool );
 // => false
 
-bool = isAlmostEqual( -0.0, 0.0, 0 );
+bool = isAlmostSameValue( -0.0, 0.0, 0 );
+console.log( bool );
+// => false
+
+bool = isAlmostSameValue( 1.0, NaN, 1 );
+console.log( bool );
+// => false
+
+bool = isAlmostSameValue( NaN, NaN, 1 );
 console.log( bool );
 // => true
-
-bool = isAlmostEqual( 1.0, NaN, 1 );
-console.log( bool );
-// => false
-
-bool = isAlmostEqual( NaN, NaN, 1 );
-console.log( bool );
-// => false
 ```
 
 </section>
@@ -128,6 +128,8 @@ console.log( bool );
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[ecma-262-same-value-algorithm]: http://ecma-international.org/ecma-262/5.1/#sec-9.12
 
 </section>
 

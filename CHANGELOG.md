@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - add `isAlmostSameValue` to namespace
+-   [`05a56f7`](https://github.com/stdlib-js/stdlib/commit/05a56f75c6ef3e7621d866b585668d520cc5ed96) - add `number/float32/base/assert/is-almost-same-value`
 -   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - rename aliases
 -   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7) - rename aliases
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
@@ -133,6 +135,9 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
+-   [`05a56f7`](https://github.com/stdlib-js/stdlib/commit/05a56f75c6ef3e7621d866b585668d520cc5ed96) - **feat:** add `number/float32/base/assert/is-almost-same-value` _(by Athan Reines)_
+-   [`94826d4`](https://github.com/stdlib-js/stdlib/commit/94826d4510d7a4131dcc4c0c7b515e909f2237ce) - **chore:** rename variable _(by Athan Reines)_
 -   [`0f3ab3b`](https://github.com/stdlib-js/stdlib/commit/0f3ab3be38c467ac34206d1aad973e7cb56f84af) - **docs:** update copy _(by Athan Reines)_
 -   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - **feat:** rename aliases _(by Athan Reines)_
 -   [`0f795ff`](https://github.com/stdlib-js/stdlib/commit/0f795ffaf0b452bf479b11a061f6142cc782d97e) - **chore:** rename variable _(by Athan Reines)_

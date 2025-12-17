@@ -19,45 +19,44 @@
 // TypeScript Version: 4.1
 
 /**
-* Tests if two single-precision floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).
+* Tests if two single-precision floating-point numbers are approximately the same value within a specified number of ULPs (units in the last place).
 *
 * ## Notes
 *
-* -   The function returns `false` if either input value is `NaN`.
-* -   The function does not distinguish between `-0` and `+0`, treating them as equal.
+* -   The function differs from the `===` operator in that the function treats `-0` and `+0` as distinct and `NaNs` as the same.
 *
 * @param a - first input value
 * @param b - second input value
 * @param maxULP - maximum allowed ULP difference
-* @returns boolean indicating whether two single-precision floating-point numbers are approximately equal within a specified number of ULPs
+* @returns boolean indicating whether two single-precision floating-point numbers are approximately the same value within a specified number of ULPs
 *
 * @example
 * var EPS = require( '@stdlib/constants/float32/eps' );
 *
-* var bool = isAlmostEqual( 1.0, 1.0+EPS, 1 );
+* var bool = isAlmostSameValue( 1.0, 1.0+EPS, 1 );
 * // returns true
 *
-* bool = isAlmostEqual( 1.0+EPS, 1.0, 1 );
+* bool = isAlmostSameValue( 1.0+EPS, 1.0, 1 );
 * // returns true
 *
-* bool = isAlmostEqual( 1.0, 1.0+EPS+EPS, 1 );
+* bool = isAlmostSameValue( 1.0, 1.0+EPS+EPS, 1 );
 * // returns false
 *
-* bool = isAlmostEqual( 1.0, 1.0+EPS, 0 );
+* bool = isAlmostSameValue( 1.0, 1.0+EPS, 0 );
 * // returns false
 *
-* bool = isAlmostEqual( 0.0, -0.0, 0 );
+* bool = isAlmostSameValue( 0.0, -0.0, 0 );
+* // returns false
+*
+* bool = isAlmostSameValue( 1.0, NaN, 1 );
+* // returns false
+*
+* bool = isAlmostSameValue( NaN, NaN, 1 );
 * // returns true
-*
-* bool = isAlmostEqual( 1.0, NaN, 1 );
-* // returns false
-*
-* bool = isAlmostEqual( NaN, NaN, 1 );
-* // returns false
 */
-declare function isAlmostEqual( a: number, b: number, maxULP: number ): boolean;
+declare function isAlmostSameValue( a: number, b: number, maxULP: number ): boolean;
 
 
 // EXPORTS //
 
-export = isAlmostEqual;
+export = isAlmostSameValue;

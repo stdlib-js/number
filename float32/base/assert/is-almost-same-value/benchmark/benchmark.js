@@ -23,7 +23,7 @@
 var bench = require( '@stdlib/bench' );
 var isBoolean = require( '@stdlib/assert/is-boolean' ).isPrimitive;
 var pkg = require( './../package.json' ).name;
-var isAlmostEqual = require( './../lib' );
+var isAlmostSameValue = require( './../lib' );
 
 
 // MAIN //
@@ -46,7 +46,7 @@ bench( pkg, function benchmark( b ) {
 	b.tic();
 	for ( i = 0; i < b.iterations; i++ ) {
 		v = values[ i%values.length ];
-		bool = isAlmostEqual( v, v, 1 );
+		bool = isAlmostSameValue( v, v, 1 );
 		if ( typeof bool !== 'boolean' ) {
 			b.fail( 'should return a boolean' );
 		}
