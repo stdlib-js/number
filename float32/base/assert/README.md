@@ -46,8 +46,8 @@ The namespace contains the following functions:
 <div class="namespace-toc">
 
 -   <span class="signature">[`isAlmostEqual( a, b, maxULP )`][@stdlib/number/float32/base/assert/is-almost-equal]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).</span>
--   <span class="signature">[`isSameValueZerof( a, b )`][@stdlib/number/float32/base/assert/is-same-value-zero]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
--   <span class="signature">[`isSameValuef( a, b )`][@stdlib/number/float32/base/assert/is-same-value]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
+-   <span class="signature">[`isSameValueZero( a, b )`][@stdlib/number/float32/base/assert/is-same-value-zero]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
+-   <span class="signature">[`isSameValue( a, b )`][@stdlib/number/float32/base/assert/is-same-value]</span><span class="delimiter">: </span><span class="description">test if two single-precision floating-point numbers are the same value.</span>
 
 </div>
 

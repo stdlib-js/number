@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - rename aliases
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7) - rename aliases
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
 -   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - add `number/float64/base/assert/is-almost-same-value`
 -   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733)
@@ -85,6 +87,34 @@
 
 <!-- /.features -->
 
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a): rename aliases for `isSameValuef` and `isSameValueZerof`
+
+    -   This commit renames the aliases by dropping the `f` suffix. This
+        suffix was primarily used to distinguish symbols co-existing in the
+        same namespace as double-precision counterparts. Here, however, that
+        is not applicable as these symbols are co-localized with only other
+        single-precision utilities. Hence, to minimize naming variations
+        between namespaces, the symbols have been renamed. To migrate,
+        users should simply drop the `f` suffix.
+
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7): rename aliases for `isSameValuef` and `isSameValueZerof`
+
+    -   This commit renames the aliases by dropping the `f` suffix. This
+        suffix was primarily used to distinguish symbols co-existing in the
+        same namespace as double-precision counterparts. Here, however, that
+        is not applicable as these symbols are co-localized with only other
+        single-precision utilities. Hence, to minimize naming variations
+        between namespaces, the symbols have been renamed. To migrate,
+        users should simply drop the `f` suffix.
+
+</section>
+
+<!-- /.breaking-changes -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -103,6 +133,11 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`0f3ab3b`](https://github.com/stdlib-js/stdlib/commit/0f3ab3be38c467ac34206d1aad973e7cb56f84af) - **docs:** update copy _(by Athan Reines)_
+-   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a) - **feat:** rename aliases _(by Athan Reines)_
+-   [`0f795ff`](https://github.com/stdlib-js/stdlib/commit/0f795ffaf0b452bf479b11a061f6142cc782d97e) - **chore:** rename variable _(by Athan Reines)_
+-   [`3c46f07`](https://github.com/stdlib-js/stdlib/commit/3c46f07d2c590556429155a4265bd4be82a47e4d) - **chore:** rename variable _(by Athan Reines)_
+-   [`563dfe9`](https://github.com/stdlib-js/stdlib/commit/563dfe9fab0ff36dbb4ddc445664f392de52a5d7) - **feat:** rename aliases _(by Athan Reines)_
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
 -   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - **feat:** add `number/float64/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`82f9d54`](https://github.com/stdlib-js/stdlib/commit/82f9d5484c3beda739ac298abd28983b6cc9750d) - **bench:** refactor to use string interpolation in `number/uint32/base/mul` [(#8944)](https://github.com/stdlib-js/stdlib/pull/8944) _(by Krishna Awasthi)_

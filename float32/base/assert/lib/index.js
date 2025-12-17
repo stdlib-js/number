@@ -46,22 +46,22 @@ var ns = {};
 setReadOnly( ns, 'isAlmostEqual', require( './../../../../float32/base/assert/is-almost-equal' ) );
 
 /**
-* @name isSameValuef
+* @name isSameValue
 * @memberof ns
 * @readonly
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/assert/is-same-value}
 */
-setReadOnly( ns, 'isSameValuef', require( './../../../../float32/base/assert/is-same-value' ) );
+setReadOnly( ns, 'isSameValue', require( './../../../../float32/base/assert/is-same-value' ) );
 
 /**
-* @name isSameValueZerof
+* @name isSameValueZero
 * @memberof ns
 * @readonly
 * @type {Function}
 * @see {@link module:@stdlib/number/float32/base/assert/is-same-value-zero}
 */
-setReadOnly( ns, 'isSameValueZerof', require( './../../../../float32/base/assert/is-same-value-zero' ) );
+setReadOnly( ns, 'isSameValueZero', require( './../../../../float32/base/assert/is-same-value-zero' ) );
 
 
 // EXPORTS //

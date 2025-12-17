@@ -21,8 +21,8 @@
 /* eslint-disable max-lines */
 
 import isAlmostEqual = require( './../../../../../float32/base/assert/is-almost-equal' );
-import isSameValuef = require( './../../../../../float32/base/assert/is-same-value' );
-import isSameValueZerof = require( './../../../../../float32/base/assert/is-same-value-zero' );
+import isSameValue = require( './../../../../../float32/base/assert/is-same-value' );
+import isSameValueZero = require( './../../../../../float32/base/assert/is-same-value-zero' );
 
 /**
 * Interface describing the `assert` namespace.
@@ -81,28 +81,28 @@ interface Namespace {
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValuef( toFloat32( 3.14 ), toFloat32( 3.14 ) );
+	* var bool = ns.isSameValue( toFloat32( 3.14 ), toFloat32( 3.14 ) );
 	* // returns true
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValuef( toFloat32( -0.0 ), toFloat32( -0.0 ) );
+	* var bool = ns.isSameValue( toFloat32( -0.0 ), toFloat32( -0.0 ) );
 	* // returns true
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValuef( toFloat32( -0.0 ), toFloat32( 0.0 ) );
+	* var bool = ns.isSameValue( toFloat32( -0.0 ), toFloat32( 0.0 ) );
 	* // returns false
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValuef( toFloat32( NaN ), toFloat32( NaN ) );
+	* var bool = ns.isSameValue( toFloat32( NaN ), toFloat32( NaN ) );
 	* // returns true
 	*/
-	isSameValuef: typeof isSameValuef;
+	isSameValue: typeof isSameValue;
 
 	/**
 	* Tests if two single-precision floating-point numbers are the same value.
@@ -118,28 +118,28 @@ interface Namespace {
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValueZerof( toFloat32( 3.14 ), toFloat32( 3.14 ) );
+	* var bool = ns.isSameValueZero( toFloat32( 3.14 ), toFloat32( 3.14 ) );
 	* // returns true
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValueZerof( toFloat32( -0.0 ), toFloat32( -0.0 ) );
+	* var bool = ns.isSameValueZero( toFloat32( -0.0 ), toFloat32( -0.0 ) );
 	* // returns true
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValueZerof( toFloat32( -0.0 ), toFloat32( 0.0 ) );
+	* var bool = ns.isSameValueZero( toFloat32( -0.0 ), toFloat32( 0.0 ) );
 	* // returns true
 	*
 	* @example
 	* var toFloat32 = require( './../../../../../float64/base/to-float32' );
 	*
-	* var bool = ns.isSameValueZerof( toFloat32( NaN ), toFloat32( NaN ) );
+	* var bool = ns.isSameValueZero( toFloat32( NaN ), toFloat32( NaN ) );
 	* // returns true
 	*/
-	isSameValueZerof: typeof isSameValueZerof;
+	isSameValueZero: typeof isSameValueZero;
 }
 
 /**
