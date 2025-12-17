@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
+-   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - add `number/float64/base/assert/is-almost-same-value`
 -   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733)
 -   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - add `number/float16/base/exponent`
 -   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371)
@@ -101,6 +103,8 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
+-   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - **feat:** add `number/float64/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`82f9d54`](https://github.com/stdlib-js/stdlib/commit/82f9d5484c3beda739ac298abd28983b6cc9750d) - **bench:** refactor to use string interpolation in `number/uint32/base/mul` [(#8944)](https://github.com/stdlib-js/stdlib/pull/8944) _(by Krishna Awasthi)_
 -   [`0a1fd8e`](https://github.com/stdlib-js/stdlib/commit/0a1fd8e1abf27f34bcab5011b55f624b4d33ac27) - **bench:** refactor to use string interpolation in `number/uint8/base/identity` [(#8943)](https://github.com/stdlib-js/stdlib/pull/8943) _(by Krishna Awasthi)_
 -   [`45e4ab4`](https://github.com/stdlib-js/stdlib/commit/45e4ab474aeb331cc44490e90c173ee597a6c1d0) - **bench:** refactor to use string interpolation in `number/uint8/base/add` [(#8942)](https://github.com/stdlib-js/stdlib/pull/8942) _(by Krishna Awasthi)_
