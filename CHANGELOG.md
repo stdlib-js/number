@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2025-12-18)
 
 <section class="features">
 
@@ -135,6 +135,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`de9dec4`](https://github.com/stdlib-js/stdlib/commit/de9dec49411a9f71d800970e9324e87dca52098b) - **docs:** update namespace table of contents [(#9205)](https://github.com/stdlib-js/stdlib/pull/9205) _(by stdlib-bot)_
 -   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
 -   [`05a56f7`](https://github.com/stdlib-js/stdlib/commit/05a56f75c6ef3e7621d866b585668d520cc5ed96) - **feat:** add `number/float32/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`94826d4`](https://github.com/stdlib-js/stdlib/commit/94826d4510d7a4131dcc4c0c7b515e909f2237ce) - **chore:** rename variable _(by Athan Reines)_
