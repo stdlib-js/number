@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`37b948e`](https://github.com/stdlib-js/stdlib/commit/37b948e963e9b60c6e13cd226a4b12d2582c7d94) - update `number/float32/base/assert` TypeScript declarations [(#9202)](https://github.com/stdlib-js/stdlib/pull/9202)
 -   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203)
 -   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - add `isAlmostSameValue` to namespace
 -   [`05a56f7`](https://github.com/stdlib-js/stdlib/commit/05a56f75c6ef3e7621d866b585668d520cc5ed96) - add `number/float32/base/assert/is-almost-same-value`
@@ -136,6 +137,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`37b948e`](https://github.com/stdlib-js/stdlib/commit/37b948e963e9b60c6e13cd226a4b12d2582c7d94) - **feat:** update `number/float32/base/assert` TypeScript declarations [(#9202)](https://github.com/stdlib-js/stdlib/pull/9202) _(by stdlib-bot)_
 -   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - **feat:** update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203) _(by stdlib-bot)_
 -   [`de9dec4`](https://github.com/stdlib-js/stdlib/commit/de9dec49411a9f71d800970e9324e87dca52098b) - **docs:** update namespace table of contents [(#9205)](https://github.com/stdlib-js/stdlib/pull/9205) _(by stdlib-bot)_
 -   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
