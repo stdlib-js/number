@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`285afbb`](https://github.com/stdlib-js/stdlib/commit/285afbba76858f76c0944b8b00fee236335a93c9) - add `number/float16/ctor` [(#8871)](https://github.com/stdlib-js/stdlib/pull/8871)
 -   [`37b948e`](https://github.com/stdlib-js/stdlib/commit/37b948e963e9b60c6e13cd226a4b12d2582c7d94) - update `number/float32/base/assert` TypeScript declarations [(#9202)](https://github.com/stdlib-js/stdlib/pull/9202)
 -   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203)
 -   [`de4cd3d`](https://github.com/stdlib-js/stdlib/commit/de4cd3d6ece4bd255717fafd72819311e92e2ea9) - add `isAlmostSameValue` to namespace
@@ -137,6 +138,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`285afbb`](https://github.com/stdlib-js/stdlib/commit/285afbba76858f76c0944b8b00fee236335a93c9) - **feat:** add `number/float16/ctor` [(#8871)](https://github.com/stdlib-js/stdlib/pull/8871) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`177c77b`](https://github.com/stdlib-js/stdlib/commit/177c77bec9929e54e35c01be44799de32045fb68) - **docs:** update description [(#9238)](https://github.com/stdlib-js/stdlib/pull/9238) _(by stdlib-bot)_
 -   [`d6f998c`](https://github.com/stdlib-js/stdlib/commit/d6f998cc1d7b73f1a0d0634611614a668583967e) - **docs:** update TypeScript comments to use single-precision in `number/float32/base` namespace _(by Philipp Burckhardt)_
 -   [`37b948e`](https://github.com/stdlib-js/stdlib/commit/37b948e963e9b60c6e13cd226a4b12d2582c7d94) - **feat:** update `number/float32/base/assert` TypeScript declarations [(#9202)](https://github.com/stdlib-js/stdlib/pull/9202) _(by stdlib-bot)_

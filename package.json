@@ -52,6 +52,7 @@
     "@stdlib/console": "github:stdlib-js/console#main",
     "@stdlib/process": "github:stdlib-js/process#main",
     "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/symbol": "github:stdlib-js/symbol#main",
     "proxyquire": "^2.0.0",
     "semver": "^6.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
