@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`9f03000`](https://github.com/stdlib-js/stdlib/commit/9f03000d699c14f795c53f2eac17567a7ca787b5) - add `number/float32/base/to-float16` [(#8938)](https://github.com/stdlib-js/stdlib/pull/8938)
 -   [`285afbb`](https://github.com/stdlib-js/stdlib/commit/285afbba76858f76c0944b8b00fee236335a93c9) - add `number/float16/ctor` [(#8871)](https://github.com/stdlib-js/stdlib/pull/8871)
 -   [`37b948e`](https://github.com/stdlib-js/stdlib/commit/37b948e963e9b60c6e13cd226a4b12d2582c7d94) - update `number/float32/base/assert` TypeScript declarations [(#9202)](https://github.com/stdlib-js/stdlib/pull/9202)
 -   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203)
@@ -148,6 +149,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`9f03000`](https://github.com/stdlib-js/stdlib/commit/9f03000d699c14f795c53f2eac17567a7ca787b5) - **feat:** add `number/float32/base/to-float16` [(#8938)](https://github.com/stdlib-js/stdlib/pull/8938) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`c73b05b`](https://github.com/stdlib-js/stdlib/commit/c73b05b2bc7a30ac4826a85a8d77708a7b62a3c1) - **fix:** move function declarations inside `extern \"C\"` block in `number/float16/ctor` _(by Philipp Burckhardt)_
 -   [`9799f77`](https://github.com/stdlib-js/stdlib/commit/9799f7719385d5d96d36ea2603f599febac613b5) - **bench:** minor clean-up _(by Philipp Burckhardt)_
 -   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
