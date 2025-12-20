@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-19)
+## Unreleased (2025-12-20)
 
 <section class="features">
 
@@ -138,6 +138,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`e2f119d`](https://github.com/stdlib-js/stdlib/commit/e2f119d2898fef45c8bc7a670b2409871c6d4b53) - **docs:** fix description _(by Athan Reines)_
 -   [`285afbb`](https://github.com/stdlib-js/stdlib/commit/285afbba76858f76c0944b8b00fee236335a93c9) - **feat:** add `number/float16/ctor` [(#8871)](https://github.com/stdlib-js/stdlib/pull/8871) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`177c77b`](https://github.com/stdlib-js/stdlib/commit/177c77bec9929e54e35c01be44799de32045fb68) - **docs:** update description [(#9238)](https://github.com/stdlib-js/stdlib/pull/9238) _(by stdlib-bot)_
 -   [`d6f998c`](https://github.com/stdlib-js/stdlib/commit/d6f998cc1d7b73f1a0d0634611614a668583967e) - **docs:** update TypeScript comments to use single-precision in `number/float32/base` namespace _(by Philipp Burckhardt)_
