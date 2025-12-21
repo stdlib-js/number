@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-20)
+## Unreleased (2025-12-21)
 
 <section class="features">
 
@@ -149,6 +149,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`22e2828`](https://github.com/stdlib-js/stdlib/commit/22e2828e91516f984f5d066c35884c63d3a76f8b) - **docs:** update description [(#9291)](https://github.com/stdlib-js/stdlib/pull/9291) _(by stdlib-bot)_
 -   [`9f03000`](https://github.com/stdlib-js/stdlib/commit/9f03000d699c14f795c53f2eac17567a7ca787b5) - **feat:** add `number/float32/base/to-float16` [(#8938)](https://github.com/stdlib-js/stdlib/pull/8938) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`c73b05b`](https://github.com/stdlib-js/stdlib/commit/c73b05b2bc7a30ac4826a85a8d77708a7b62a3c1) - **fix:** move function declarations inside `extern \"C\"` block in `number/float16/ctor` _(by Philipp Burckhardt)_
 -   [`9799f77`](https://github.com/stdlib-js/stdlib/commit/9799f7719385d5d96d36ea2603f599febac613b5) - **bench:** minor clean-up _(by Philipp Burckhardt)_
