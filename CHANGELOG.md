@@ -136,9 +136,9 @@
 
 ### Closed Issues
 
-A total of 18 issues were closed in this release:
+A total of 19 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895), [#9288](https://github.com/stdlib-js/stdlib/issues/9288)
 
 </section>
 
@@ -150,6 +150,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`9e37c3a`](https://github.com/stdlib-js/stdlib/commit/9e37c3aac1f0bb552f5cf54f127d9165bf85d3d2) - **chore:** address commit comments [(#9294)](https://github.com/stdlib-js/stdlib/pull/9294) _(by DivitJain26)_
 -   [`e27a9fb`](https://github.com/stdlib-js/stdlib/commit/e27a9fb6b0bcb7d131e3d9c02a9755459e4d65de) - **feat:** add C implementation for `number/float64/base/to-float16` [(#9299)](https://github.com/stdlib-js/stdlib/pull/9299) _(by Gururaj Gurram)_
 -   [`22e2828`](https://github.com/stdlib-js/stdlib/commit/22e2828e91516f984f5d066c35884c63d3a76f8b) - **docs:** update description [(#9291)](https://github.com/stdlib-js/stdlib/pull/9291) _(by stdlib-bot)_
 -   [`9f03000`](https://github.com/stdlib-js/stdlib/commit/9f03000d699c14f795c53f2eac17567a7ca787b5) - **feat:** add `number/float32/base/to-float16` [(#8938)](https://github.com/stdlib-js/stdlib/pull/8938) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
@@ -335,9 +336,10 @@ A total of 18 issues were closed in this release:
 
 ### Contributors
 
-A total of 17 people contributed to this release. Thank you to the following contributors:
+A total of 18 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   DivitJain26
 -   Geo Daoyu
 -   Gopi Kishan
 -   Gunj Joshi
