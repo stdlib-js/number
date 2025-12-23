@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-21)
+## Unreleased (2025-12-23)
 
 <section class="features">
 
 ### Features
 
+-   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313)
 -   [`e27a9fb`](https://github.com/stdlib-js/stdlib/commit/e27a9fb6b0bcb7d131e3d9c02a9755459e4d65de) - add C implementation for `number/float64/base/to-float16` [(#9299)](https://github.com/stdlib-js/stdlib/pull/9299)
 -   [`9f03000`](https://github.com/stdlib-js/stdlib/commit/9f03000d699c14f795c53f2eac17567a7ca787b5) - add `number/float32/base/to-float16` [(#8938)](https://github.com/stdlib-js/stdlib/pull/8938)
 -   [`285afbb`](https://github.com/stdlib-js/stdlib/commit/285afbba76858f76c0944b8b00fee236335a93c9) - add `number/float16/ctor` [(#8871)](https://github.com/stdlib-js/stdlib/pull/8871)
@@ -150,6 +151,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - **feat:** add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313) _(by Gururaj Gurram, Athan Reines)_
 -   [`9e37c3a`](https://github.com/stdlib-js/stdlib/commit/9e37c3aac1f0bb552f5cf54f127d9165bf85d3d2) - **chore:** address commit comments [(#9294)](https://github.com/stdlib-js/stdlib/pull/9294) _(by DivitJain26)_
 -   [`e27a9fb`](https://github.com/stdlib-js/stdlib/commit/e27a9fb6b0bcb7d131e3d9c02a9755459e4d65de) - **feat:** add C implementation for `number/float64/base/to-float16` [(#9299)](https://github.com/stdlib-js/stdlib/pull/9299) _(by Gururaj Gurram)_
 -   [`22e2828`](https://github.com/stdlib-js/stdlib/commit/22e2828e91516f984f5d066c35884c63d3a76f8b) - **docs:** update description [(#9291)](https://github.com/stdlib-js/stdlib/pull/9291) _(by stdlib-bot)_
