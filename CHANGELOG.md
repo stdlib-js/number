@@ -156,6 +156,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`825738a`](https://github.com/stdlib-js/stdlib/commit/825738ab917726d10fe3082569387861cee964cc) - **bench:** use correct variable name in benchmark for `number/float32/base/signbit` [(#9378)](https://github.com/stdlib-js/stdlib/pull/9378) _(by Samarth Kolarkar)_
 -   [`655df20`](https://github.com/stdlib-js/stdlib/commit/655df20c0a380eb3d77264f5969b6b4f496d246f) - **feat:** add `number/float16/base/to-float64` [(#9343)](https://github.com/stdlib-js/stdlib/pull/9343) _(by Gururaj Gurram, stdlib-bot)_
 -   [`b6db722`](https://github.com/stdlib-js/stdlib/commit/b6db7221310f176564faaf6d3548612c56675468) - **feat:** add `number/float16/base/significand` [(#9369)](https://github.com/stdlib-js/stdlib/pull/9369) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`289adf4`](https://github.com/stdlib-js/stdlib/commit/289adf495a9a9cd2908cf7622428f9427cb8d240) - **feat:** add `number/float16/base/to-float32` [(#9280)](https://github.com/stdlib-js/stdlib/pull/9280) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
