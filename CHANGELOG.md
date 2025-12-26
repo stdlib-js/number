@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`289adf4`](https://github.com/stdlib-js/stdlib/commit/289adf495a9a9cd2908cf7622428f9427cb8d240) - add `number/float16/base/to-float32` [(#9280)](https://github.com/stdlib-js/stdlib/pull/9280)
 -   [`fcd9463`](https://github.com/stdlib-js/stdlib/commit/fcd9463919cbefa120ac07f274fbb35fab22c146) - add `number/float16/base/from-binary-string` [(#9322)](https://github.com/stdlib-js/stdlib/pull/9322)
 -   [`bd3ff58`](https://github.com/stdlib-js/stdlib/commit/bd3ff580cbf50cb29ddfef8fc04fccab3ec793ab) - add C implementation for `number/float16/base/exponent` [(#9315)](https://github.com/stdlib-js/stdlib/pull/9315)
 -   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313)
@@ -153,6 +154,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`289adf4`](https://github.com/stdlib-js/stdlib/commit/289adf495a9a9cd2908cf7622428f9427cb8d240) - **feat:** add `number/float16/base/to-float32` [(#9280)](https://github.com/stdlib-js/stdlib/pull/9280) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`fcd9463`](https://github.com/stdlib-js/stdlib/commit/fcd9463919cbefa120ac07f274fbb35fab22c146) - **feat:** add `number/float16/base/from-binary-string` [(#9322)](https://github.com/stdlib-js/stdlib/pull/9322) _(by Samarth Kolarkar, Athan Reines, Gururaj Gurram)_
 -   [`bd3ff58`](https://github.com/stdlib-js/stdlib/commit/bd3ff580cbf50cb29ddfef8fc04fccab3ec793ab) - **feat:** add C implementation for `number/float16/base/exponent` [(#9315)](https://github.com/stdlib-js/stdlib/pull/9315) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - **feat:** add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313) _(by Gururaj Gurram, Athan Reines)_
