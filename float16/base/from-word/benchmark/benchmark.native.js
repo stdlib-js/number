@@ -20,16 +20,25 @@
 
 // MODULES //
 
+var resolve = require( 'path' ).resolve;
 var bench = require( '@stdlib/bench' );
 var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
 var isnan = require( '@stdlib/math/base/assert/is-nan' );
+var tryRequire = require( '@stdlib/utils/try-require' );
 var pkg = require( './../package.json' ).name;
-var fromWord = require( './../lib' );
+
+
+// VARIABLES //
+
+var fromWord = tryRequire( resolve( __dirname, './../lib/native.js' ) );
+var opts = {
+	'skip': ( fromWord instanceof Error )
+};
 
 
 // MAIN //
 
-bench( pkg, function benchmark( b ) {
+bench( pkg+'::native', opts, function benchmark( b ) {
 	var word;
 	var y;
 	var i;

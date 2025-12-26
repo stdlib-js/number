@@ -20,33 +20,28 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
-var discreteUniform = require( '@stdlib/random/array/discrete-uniform' );
-var isnan = require( '@stdlib/math/base/assert/is-nan' );
-var pkg = require( './../package.json' ).name;
-var fromWord = require( './../lib' );
+var addon = require( './../src/addon.node' );
 
 
 // MAIN //
 
-bench( pkg, function benchmark( b ) {
-	var word;
-	var y;
-	var i;
+/**
+* Creates a half-precision floating-point number from an unsigned integer corresponding to an IEEE 754 binary representation.
+*
+* @param {uinteger16} word - unsigned integer
+* @returns {number} half-precision floating-point number
+*
+* @example
+* var word = 15411; // => 0 01111 0000110011
+*
+* var f16 = fromWord( word ); // when printed, implicitly promoted to float64
+* // returns 1.0498046875
+*/
+function fromWord( word ) {
+	return addon( word );
+}
 
-	word = discreteUniform( 100, 0.0, 1000.0 );
 
-	b.tic();
-	for ( i = 0; i < b.iterations; i++ ) {
-		y = fromWord( word[ i%word.length ] );
-		if ( isnan( y ) ) {
-			b.fail( 'should not return NaN' );
-		}
-	}
-	b.toc();
-	if ( isnan( y ) ) {
-		b.fail( 'should not return NaN' );
-	}
-	b.pass( 'benchmark finished' );
-	b.end();
-});
+// EXPORTS //
+
+module.exports = fromWord;
