@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-23)
+## Unreleased (2025-12-26)
 
 <section class="features">
 
 ### Features
 
+-   [`fcd9463`](https://github.com/stdlib-js/stdlib/commit/fcd9463919cbefa120ac07f274fbb35fab22c146) - add `number/float16/base/from-binary-string` [(#9322)](https://github.com/stdlib-js/stdlib/pull/9322)
 -   [`bd3ff58`](https://github.com/stdlib-js/stdlib/commit/bd3ff580cbf50cb29ddfef8fc04fccab3ec793ab) - add C implementation for `number/float16/base/exponent` [(#9315)](https://github.com/stdlib-js/stdlib/pull/9315)
 -   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313)
 -   [`e27a9fb`](https://github.com/stdlib-js/stdlib/commit/e27a9fb6b0bcb7d131e3d9c02a9755459e4d65de) - add C implementation for `number/float64/base/to-float16` [(#9299)](https://github.com/stdlib-js/stdlib/pull/9299)
@@ -152,6 +153,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`fcd9463`](https://github.com/stdlib-js/stdlib/commit/fcd9463919cbefa120ac07f274fbb35fab22c146) - **feat:** add `number/float16/base/from-binary-string` [(#9322)](https://github.com/stdlib-js/stdlib/pull/9322) _(by Samarth Kolarkar, Athan Reines, Gururaj Gurram)_
 -   [`bd3ff58`](https://github.com/stdlib-js/stdlib/commit/bd3ff580cbf50cb29ddfef8fc04fccab3ec793ab) - **feat:** add C implementation for `number/float16/base/exponent` [(#9315)](https://github.com/stdlib-js/stdlib/pull/9315) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`4ca4984`](https://github.com/stdlib-js/stdlib/commit/4ca4984bca81e27ad132eabbd283c8c72b56d635) - **feat:** add C implementation for `number/float16/base/to-word` [(#9313)](https://github.com/stdlib-js/stdlib/pull/9313) _(by Gururaj Gurram, Athan Reines)_
 -   [`9e37c3a`](https://github.com/stdlib-js/stdlib/commit/9e37c3aac1f0bb552f5cf54f127d9165bf85d3d2) - **chore:** address commit comments [(#9294)](https://github.com/stdlib-js/stdlib/pull/9294) _(by DivitJain26)_
@@ -340,7 +342,7 @@ A total of 19 issues were closed in this release:
 
 ### Contributors
 
-A total of 18 people contributed to this release. Thank you to the following contributors:
+A total of 19 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   DivitJain26
@@ -358,6 +360,7 @@ A total of 18 people contributed to this release. Thank you to the following con
 -   Navyansh Kesarwani
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 -   Uday Kakade
 -   Vara Rahul Rajana
 
