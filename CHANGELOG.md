@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-26)
+## Unreleased (2025-12-27)
 
 <section class="features">
 
 ### Features
 
+-   [`79f62f0`](https://github.com/stdlib-js/stdlib/commit/79f62f06d15dfbadca560345f9857d7367717c25) - add `number/float16/base/mul` [(#9373)](https://github.com/stdlib-js/stdlib/pull/9373)
 -   [`846cfd2`](https://github.com/stdlib-js/stdlib/commit/846cfd25a0ab7eb7c07a1a47f3a644b1e01074d0) - add `number/float16/base/ulp-difference` [(#9321)](https://github.com/stdlib-js/stdlib/pull/9321)
 -   [`9fe6fcf`](https://github.com/stdlib-js/stdlib/commit/9fe6fcf004e0c7bf51b53f240e7f9efb6c7ed954) - add C implementation for `number/float16/base/from-word` [(#9325)](https://github.com/stdlib-js/stdlib/pull/9325)
 -   [`655df20`](https://github.com/stdlib-js/stdlib/commit/655df20c0a380eb3d77264f5969b6b4f496d246f) - add `number/float16/base/to-float64` [(#9343)](https://github.com/stdlib-js/stdlib/pull/9343)
@@ -158,6 +159,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`79f62f0`](https://github.com/stdlib-js/stdlib/commit/79f62f06d15dfbadca560345f9857d7367717c25) - **feat:** add `number/float16/base/mul` [(#9373)](https://github.com/stdlib-js/stdlib/pull/9373) _(by Sagar Ratna Chaudhary, Athan Reines)_
 -   [`846cfd2`](https://github.com/stdlib-js/stdlib/commit/846cfd25a0ab7eb7c07a1a47f3a644b1e01074d0) - **feat:** add `number/float16/base/ulp-difference` [(#9321)](https://github.com/stdlib-js/stdlib/pull/9321) _(by Neeraj Pathak, Athan Reines)_
 -   [`9fe6fcf`](https://github.com/stdlib-js/stdlib/commit/9fe6fcf004e0c7bf51b53f240e7f9efb6c7ed954) - **feat:** add C implementation for `number/float16/base/from-word` [(#9325)](https://github.com/stdlib-js/stdlib/pull/9325) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`825738a`](https://github.com/stdlib-js/stdlib/commit/825738ab917726d10fe3082569387861cee964cc) - **bench:** use correct variable name in benchmark for `number/float32/base/signbit` [(#9378)](https://github.com/stdlib-js/stdlib/pull/9378) _(by Samarth Kolarkar)_
@@ -353,7 +355,7 @@ A total of 19 issues were closed in this release:
 
 ### Contributors
 
-A total of 19 people contributed to this release. Thank you to the following contributors:
+A total of 20 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   DivitJain26
@@ -371,6 +373,7 @@ A total of 19 people contributed to this release. Thank you to the following con
 -   Navyansh Kesarwani
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Sagar Ratna Chaudhary
 -   Samarth Kolarkar
 -   Uday Kakade
 -   Vara Rahul Rajana
