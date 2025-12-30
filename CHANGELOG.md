@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-27)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
 ### Features
 
+-   [`cf0cdff`](https://github.com/stdlib-js/stdlib/commit/cf0cdffe3fc2d824130089cac3bd8f7f0c717dc4) - add `number/float16/base/signbit` [(#9390)](https://github.com/stdlib-js/stdlib/pull/9390)
 -   [`79f62f0`](https://github.com/stdlib-js/stdlib/commit/79f62f06d15dfbadca560345f9857d7367717c25) - add `number/float16/base/mul` [(#9373)](https://github.com/stdlib-js/stdlib/pull/9373)
 -   [`846cfd2`](https://github.com/stdlib-js/stdlib/commit/846cfd25a0ab7eb7c07a1a47f3a644b1e01074d0) - add `number/float16/base/ulp-difference` [(#9321)](https://github.com/stdlib-js/stdlib/pull/9321)
 -   [`9fe6fcf`](https://github.com/stdlib-js/stdlib/commit/9fe6fcf004e0c7bf51b53f240e7f9efb6c7ed954) - add C implementation for `number/float16/base/from-word` [(#9325)](https://github.com/stdlib-js/stdlib/pull/9325)
@@ -31,7 +32,7 @@
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
 -   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - add `number/float64/base/assert/is-almost-same-value`
 -   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733)
--   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - add `number/float16/base/exponent`
+-   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - add `number/float16/base/exponent` [(#8576)](https://github.com/stdlib-js/stdlib/pull/8576)
 -   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371)
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575)
 -   [`91c8d6f`](https://github.com/stdlib-js/stdlib/commit/91c8d6fb9abb70ce88d6462416b9315ba7ccff78) - add `number/float64/base/to-float16` [(#8207)](https://github.com/stdlib-js/stdlib/pull/8207)
@@ -159,6 +160,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`cf0cdff`](https://github.com/stdlib-js/stdlib/commit/cf0cdffe3fc2d824130089cac3bd8f7f0c717dc4) - **feat:** add `number/float16/base/signbit` [(#9390)](https://github.com/stdlib-js/stdlib/pull/9390) _(by Neeraj Pathak, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`e3c8773`](https://github.com/stdlib-js/stdlib/commit/e3c8773f66efd9b5004711cfd8a15f5129b8571a) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`6ce0275`](https://github.com/stdlib-js/stdlib/commit/6ce0275d3eec598ce3ecb8da74a1c82f0de3a482) - **docs:** remove incorrect hyphens from JSDoc `returns` annotations _(by Philipp Burckhardt)_
 -   [`c17b411`](https://github.com/stdlib-js/stdlib/commit/c17b411aa68e39800c7713bffad3e9de8aad79b7) - **docs:** split up into multiple examples _(by Philipp Burckhardt)_
@@ -204,7 +206,7 @@ A total of 19 issues were closed in this release:
 -   [`5d190d4`](https://github.com/stdlib-js/stdlib/commit/5d190d495ee70092784ff21a7fd0d46d1e6ac2a4) - **chore:** fix C lint errors [(#8896)](https://github.com/stdlib-js/stdlib/pull/8896) _(by Geo Daoyu)_
 -   [`26cdd2f`](https://github.com/stdlib-js/stdlib/commit/26cdd2ffb32ecb9fc209026cf9488a895891b7df) - **chore:** fix C lint errors [(#8880)](https://github.com/stdlib-js/stdlib/pull/8880) _(by Geo Daoyu)_
 -   [`5524aaa`](https://github.com/stdlib-js/stdlib/commit/5524aaae9db350d3be032bff35471b71dd3568b3) - **feat:** add `number/float16/base/from-word` [(#8733)](https://github.com/stdlib-js/stdlib/pull/8733) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
--   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - **feat:** add `number/float16/base/exponent` _(by Gururaj Gurram, stdlib-bot)_
+-   [`e4db048`](https://github.com/stdlib-js/stdlib/commit/e4db0483f93bdd51b918684ce000983bc2ce1457) - **feat:** add `number/float16/base/exponent` [(#8576)](https://github.com/stdlib-js/stdlib/pull/8576) _(by Gururaj Gurram, stdlib-bot)_
 -   [`307db9c`](https://github.com/stdlib-js/stdlib/commit/307db9cfcaf139b6d456c416a9f5b952e2a5c415) - **feat:** add `number/float16/base/to-word` [(#8371)](https://github.com/stdlib-js/stdlib/pull/8371) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`387d027`](https://github.com/stdlib-js/stdlib/commit/387d027e46c1a7bd35acb3f9c82cc43af95bf34c) - **test:** check first element twice for sign bit being either 0 or 1 _(by Philipp Burckhardt)_
 -   [`e80fff8`](https://github.com/stdlib-js/stdlib/commit/e80fff8a0961bd42170070d4ea5219011aec0299) - **feat:** add `number/float16/base/to-binary-string` [(#8575)](https://github.com/stdlib-js/stdlib/pull/8575) _(by Gururaj Gurram, Athan Reines)_
