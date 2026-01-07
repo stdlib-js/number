@@ -160,6 +160,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`ff11bf4`](https://github.com/stdlib-js/stdlib/commit/ff11bf419afd29bd798e46fb6705b0e913bb80bb) - **chore:** add structured package data for `number/float32/base/div` [(#9547)](https://github.com/stdlib-js/stdlib/pull/9547) _(by Neeraj Pathak)_
 -   [`2b51497`](https://github.com/stdlib-js/stdlib/commit/2b514972090db1f2361e3e932bdcee8bbcdedfb7) - **chore:** add structured package data for `number/float64/base/div` [(#9490)](https://github.com/stdlib-js/stdlib/pull/9490) _(by Neeraj Pathak)_
 -   [`cf0cdff`](https://github.com/stdlib-js/stdlib/commit/cf0cdffe3fc2d824130089cac3bd8f7f0c717dc4) - **feat:** add `number/float16/base/signbit` [(#9390)](https://github.com/stdlib-js/stdlib/pull/9390) _(by Neeraj Pathak, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`e3c8773`](https://github.com/stdlib-js/stdlib/commit/e3c8773f66efd9b5004711cfd8a15f5129b8571a) - **test:** fix description _(by Philipp Burckhardt)_
