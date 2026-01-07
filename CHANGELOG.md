@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5301fb5`](https://github.com/stdlib-js/stdlib/commit/5301fb5c6146068494dfa645007e823aa0777f84) - add `number/float16/base/assert/is-almost-equal` [(#9500)](https://github.com/stdlib-js/stdlib/pull/9500)
 -   [`cf0cdff`](https://github.com/stdlib-js/stdlib/commit/cf0cdffe3fc2d824130089cac3bd8f7f0c717dc4) - add `number/float16/base/signbit` [(#9390)](https://github.com/stdlib-js/stdlib/pull/9390)
 -   [`79f62f0`](https://github.com/stdlib-js/stdlib/commit/79f62f06d15dfbadca560345f9857d7367717c25) - add `number/float16/base/mul` [(#9373)](https://github.com/stdlib-js/stdlib/pull/9373)
 -   [`846cfd2`](https://github.com/stdlib-js/stdlib/commit/846cfd25a0ab7eb7c07a1a47f3a644b1e01074d0) - add `number/float16/base/ulp-difference` [(#9321)](https://github.com/stdlib-js/stdlib/pull/9321)
@@ -160,6 +161,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`5301fb5`](https://github.com/stdlib-js/stdlib/commit/5301fb5c6146068494dfa645007e823aa0777f84) - **feat:** add `number/float16/base/assert/is-almost-equal` [(#9500)](https://github.com/stdlib-js/stdlib/pull/9500) _(by Neeraj Pathak, Philipp Burckhardt)_
 -   [`ff11bf4`](https://github.com/stdlib-js/stdlib/commit/ff11bf419afd29bd798e46fb6705b0e913bb80bb) - **chore:** add structured package data for `number/float32/base/div` [(#9547)](https://github.com/stdlib-js/stdlib/pull/9547) _(by Neeraj Pathak)_
 -   [`2b51497`](https://github.com/stdlib-js/stdlib/commit/2b514972090db1f2361e3e932bdcee8bbcdedfb7) - **chore:** add structured package data for `number/float64/base/div` [(#9490)](https://github.com/stdlib-js/stdlib/pull/9490) _(by Neeraj Pathak)_
 -   [`cf0cdff`](https://github.com/stdlib-js/stdlib/commit/cf0cdffe3fc2d824130089cac3bd8f7f0c717dc4) - **feat:** add `number/float16/base/signbit` [(#9390)](https://github.com/stdlib-js/stdlib/pull/9390) _(by Neeraj Pathak, Athan Reines, stdlib-bot, Gururaj Gurram)_
