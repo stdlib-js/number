@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-07)
+## Unreleased (2026-01-08)
 
 <section class="features">
 
@@ -162,6 +162,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`056ece8`](https://github.com/stdlib-js/stdlib/commit/056ece8dfb301d321667f266232a4c9833f4380e) - **chore:** update meta data _(by Athan Reines)_
 -   [`da01e3d`](https://github.com/stdlib-js/stdlib/commit/da01e3d2071bb474ecef81e1d8ab07561f4b78f5) - **feat:** add `number/float16/base/sub` [(#9558)](https://github.com/stdlib-js/stdlib/pull/9558) _(by Lokesh Ranjan, Philipp Burckhardt)_
 -   [`5301fb5`](https://github.com/stdlib-js/stdlib/commit/5301fb5c6146068494dfa645007e823aa0777f84) - **feat:** add `number/float16/base/assert/is-almost-equal` [(#9500)](https://github.com/stdlib-js/stdlib/pull/9500) _(by Neeraj Pathak, Philipp Burckhardt)_
 -   [`ff11bf4`](https://github.com/stdlib-js/stdlib/commit/ff11bf419afd29bd798e46fb6705b0e913bb80bb) - **chore:** add structured package data for `number/float32/base/div` [(#9547)](https://github.com/stdlib-js/stdlib/pull/9547) _(by Neeraj Pathak)_
