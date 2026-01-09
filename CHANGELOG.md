@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623)
 -   [`aebc415`](https://github.com/stdlib-js/stdlib/commit/aebc415cd7b1579ef8935576eb4fae94a4277846) - add `number/float16/base/assert/is-nan` [(#9625)](https://github.com/stdlib-js/stdlib/pull/9625)
 -   [`da01e3d`](https://github.com/stdlib-js/stdlib/commit/da01e3d2071bb474ecef81e1d8ab07561f4b78f5) - add `number/float16/base/sub` [(#9558)](https://github.com/stdlib-js/stdlib/pull/9558)
 -   [`5301fb5`](https://github.com/stdlib-js/stdlib/commit/5301fb5c6146068494dfa645007e823aa0777f84) - add `number/float16/base/assert/is-almost-equal` [(#9500)](https://github.com/stdlib-js/stdlib/pull/9500)
@@ -163,6 +164,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - **feat:** add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623) _(by Neeraj Pathak)_
 -   [`aebc415`](https://github.com/stdlib-js/stdlib/commit/aebc415cd7b1579ef8935576eb4fae94a4277846) - **feat:** add `number/float16/base/assert/is-nan` [(#9625)](https://github.com/stdlib-js/stdlib/pull/9625) _(by Lokesh Ranjan)_
 -   [`056ece8`](https://github.com/stdlib-js/stdlib/commit/056ece8dfb301d321667f266232a4c9833f4380e) - **chore:** update meta data _(by Athan Reines)_
 -   [`da01e3d`](https://github.com/stdlib-js/stdlib/commit/da01e3d2071bb474ecef81e1d8ab07561f4b78f5) - **feat:** add `number/float16/base/sub` [(#9558)](https://github.com/stdlib-js/stdlib/pull/9558) _(by Lokesh Ranjan, Philipp Burckhardt)_
