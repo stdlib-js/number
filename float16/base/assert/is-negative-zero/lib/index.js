@@ -19,7 +19,7 @@
 'use strict';
 
 /**
-* Test if a half-precision floating-point numeric value is negative zero.
+* Test if a half-precision floating-point number is negative zero.
 *
 * @module @stdlib/number/float16/base/assert/is-negative-zero
 *

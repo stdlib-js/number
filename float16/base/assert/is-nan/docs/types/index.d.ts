@@ -19,7 +19,7 @@
 // TypeScript Version: 4.1
 
 /**
-* Tests if a half-precision floating-point numeric value is `NaN`.
+* Tests if a half-precision floating-point number is `NaN`.
 *
 * @param x - value to test
 * @returns boolean indicating whether the value is `NaN`

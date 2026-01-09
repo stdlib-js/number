@@ -21,7 +21,7 @@
 // MAIN //
 
 /**
-* Tests if a half-precision floating-point numeric value is `NaN`.
+* Tests if a half-precision floating-point number is `NaN`.
 *
 * @param {number} x - value to test
 * @returns {boolean} boolean indicating whether the value is `NaN`

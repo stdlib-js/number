@@ -20,7 +20,7 @@ limitations under the License.
 
 # isnan
 
-> Test if a half-precision floating-point numeric value is NaN.
+> Test if a half-precision floating-point number is NaN.
 
 <section class="usage">
 
@@ -32,7 +32,7 @@ var isnan = require( '@stdlib/number/float16/base/assert/is-nan' );
 
 #### isnan( x )
 
-Tests if a half-precision floating-point `numeric` value is `NaN`.
+Tests if a half-precision floating-point number is `NaN`.
 
 ```javascript
 var bool = isnan( NaN );

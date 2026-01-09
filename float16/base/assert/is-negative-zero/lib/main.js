@@ -26,7 +26,7 @@ var NINF = require( '@stdlib/constants/float16/ninf' );
 // MAIN //
 
 /**
-* Tests if a half-precision floating-point numeric value is negative zero.
+* Tests if a half-precision floating-point number is negative zero.
 *
 * @param {number} x - value to test
 * @returns {boolean} boolean indicating whether the value is negative zero
@@ -40,7 +40,7 @@ var NINF = require( '@stdlib/constants/float16/ninf' );
 * // returns false
 */
 function isNegativeZero( x ) {
-	return (x === 0.0 && 1.0/x === NINF);
+	return ( x === 0.0 && 1.0/x === NINF );
 }
 
 

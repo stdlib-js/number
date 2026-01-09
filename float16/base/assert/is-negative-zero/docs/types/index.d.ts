@@ -19,7 +19,7 @@
 // TypeScript Version: 4.1
 
 /**
-* Tests if a half-precision floating-point numeric value is negative zero.
+* Tests if a half-precision floating-point number is negative zero.
 *
 * @param x - value to test
 * @returns boolean indicating whether the value is negative zero

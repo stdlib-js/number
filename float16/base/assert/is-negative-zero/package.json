@@ -1,7 +1,7 @@
 {
   "name": "@stdlib/number/float16/base/assert/is-negative-zero",
   "version": "0.0.0",
-  "description": "Test if a half-precision floating-point numeric value is negative zero.",
+  "description": "Test if a half-precision floating-point number is negative zero.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
