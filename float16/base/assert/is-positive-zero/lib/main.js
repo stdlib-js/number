@@ -40,7 +40,7 @@ var PINF = require( '@stdlib/constants/float16/pinf' );
 * // returns false
 */
 function isPositiveZero( x ) {
-	return (x === 0.0 && 1.0/x === PINF);
+	return ( x === 0.0 && 1.0/x === PINF );
 }
 
 

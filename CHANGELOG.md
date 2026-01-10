@@ -165,6 +165,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`1129c90`](https://github.com/stdlib-js/stdlib/commit/1129c90ea87de4910cd73e4dbfee2289a3a5dc16) - **style:** remove whitespace and update keywords _(by Athan Reines)_
 -   [`4e8074a`](https://github.com/stdlib-js/stdlib/commit/4e8074a0fd574272817ba43ee2fa24fbb7431e43) - **feat:** add `number/float16/base/assert/is-positive-zero` [(#9643)](https://github.com/stdlib-js/stdlib/pull/9643) _(by Neeraj Pathak, Philipp Burckhardt)_
 -   [`63a9af5`](https://github.com/stdlib-js/stdlib/commit/63a9af59c1d602d79ae593bb98346e991b0f2874) - **docs:** update descriptions _(by Athan Reines)_
 -   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - **feat:** add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623) _(by Neeraj Pathak)_
