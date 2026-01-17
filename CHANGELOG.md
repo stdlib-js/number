@@ -151,9 +151,9 @@
 
 ### Closed Issues
 
-A total of 22 issues were closed in this release:
+A total of 23 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895), [#9288](https://github.com/stdlib-js/stdlib/issues/9288), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895), [#9288](https://github.com/stdlib-js/stdlib/issues/9288), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800)
 
 </section>
 
@@ -165,6 +165,7 @@ A total of 22 issues were closed in this release:
 
 <details>
 
+-   [`ebcc5cd`](https://github.com/stdlib-js/stdlib/commit/ebcc5cd5aa8cca5f5825f6720b6c9573c0daff48) - **test:** replace `math-assert` with `float16-assert` [(#9789)](https://github.com/stdlib-js/stdlib/pull/9789) _(by Lokesh Ranjan)_
 -   [`b44c340`](https://github.com/stdlib-js/stdlib/commit/b44c3408ddfda03b8a06c4042818bc5d9283c713) - **test:** replace `math-assert` with `float16-assert` [(#9790)](https://github.com/stdlib-js/stdlib/pull/9790) _(by Lokesh Ranjan)_
 -   [`8107f89`](https://github.com/stdlib-js/stdlib/commit/8107f890aa2789811bc8b1e8448dd79f8eb42ab8) - **test:** replace math-assert with float16-assert for `to-float64` [(#9799)](https://github.com/stdlib-js/stdlib/pull/9799) _(by Lokesh Ranjan)_
 -   [`b3348f7`](https://github.com/stdlib-js/stdlib/commit/b3348f7d884b3e4aaf5927b008405c0296d5c9b6) - **test:** replace math-assert with float16-assert for `from-binary-string` [(#9798)](https://github.com/stdlib-js/stdlib/pull/9798) _(by Lokesh Ranjan)_
