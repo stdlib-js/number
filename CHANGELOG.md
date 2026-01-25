@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-17)
+## Unreleased (2026-01-25)
 
 <section class="features">
 
@@ -165,6 +165,8 @@ A total of 23 issues were closed in this release:
 
 <details>
 
+-   [`f133840`](https://github.com/stdlib-js/stdlib/commit/f1338403c5121a8cdbae93a51e98adf7c16caaaa) - **chore:** add `number/int16/base` scaffolding _(by Philipp Burckhardt)_
+-   [`d52aafd`](https://github.com/stdlib-js/stdlib/commit/d52aafdfacb06727b40f92ab6a1872bd3905a117) - **chore:** add `number/int8/base` scaffolding _(by Philipp Burckhardt)_
 -   [`ebcc5cd`](https://github.com/stdlib-js/stdlib/commit/ebcc5cd5aa8cca5f5825f6720b6c9573c0daff48) - **test:** replace `math-assert` with `float16-assert` [(#9789)](https://github.com/stdlib-js/stdlib/pull/9789) _(by Lokesh Ranjan)_
 -   [`b44c340`](https://github.com/stdlib-js/stdlib/commit/b44c3408ddfda03b8a06c4042818bc5d9283c713) - **test:** replace `math-assert` with `float16-assert` [(#9790)](https://github.com/stdlib-js/stdlib/pull/9790) _(by Lokesh Ranjan)_
 -   [`8107f89`](https://github.com/stdlib-js/stdlib/commit/8107f890aa2789811bc8b1e8448dd79f8eb42ab8) - **test:** replace math-assert with float16-assert for `to-float64` [(#9799)](https://github.com/stdlib-js/stdlib/pull/9799) _(by Lokesh Ranjan)_
