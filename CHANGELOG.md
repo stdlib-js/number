@@ -166,6 +166,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`755d5cb`](https://github.com/stdlib-js/stdlib/commit/755d5cb22e6b18aafee24426257953f33cc1f0ec) - **bench:** refactor to use string interpolation in `number/float32/base` [(#9908)](https://github.com/stdlib-js/stdlib/pull/9908) _(by Lokesh Ranjan)_
 -   [`56a8646`](https://github.com/stdlib-js/stdlib/commit/56a864622858956ca75eb8a2af74e81b827115e7) - **bench:** refactor to use string interpolation in `number/float32/base` [(#9907)](https://github.com/stdlib-js/stdlib/pull/9907) _(by Lokesh Ranjan)_
 -   [`b98b7fd`](https://github.com/stdlib-js/stdlib/commit/b98b7fdd51f62e84065397f1d261a125aa62ad23) - **bench:** refactor to use string interpolation in `number/float16/base` [(#9906)](https://github.com/stdlib-js/stdlib/pull/9906) _(by Lokesh Ranjan)_
 -   [`a1b3377`](https://github.com/stdlib-js/stdlib/commit/a1b3377d032d908a777785b05f9c08da0681543c) - **docs:** update `number/int8/base` TypeScript declarations [(#9899)](https://github.com/stdlib-js/stdlib/pull/9899) _(by stdlib-bot)_
