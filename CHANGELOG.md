@@ -166,6 +166,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`b98b7fd`](https://github.com/stdlib-js/stdlib/commit/b98b7fdd51f62e84065397f1d261a125aa62ad23) - **bench:** refactor to use string interpolation in `number/float16/base` [(#9906)](https://github.com/stdlib-js/stdlib/pull/9906) _(by Lokesh Ranjan)_
 -   [`a1b3377`](https://github.com/stdlib-js/stdlib/commit/a1b3377d032d908a777785b05f9c08da0681543c) - **docs:** update `number/int8/base` TypeScript declarations [(#9899)](https://github.com/stdlib-js/stdlib/pull/9899) _(by stdlib-bot)_
 -   [`41c55d8`](https://github.com/stdlib-js/stdlib/commit/41c55d85d758d40bf6a2533bdeb130790199304b) - **docs:** update `number/int16/base` TypeScript declarations [(#9898)](https://github.com/stdlib-js/stdlib/pull/9898) _(by stdlib-bot)_
 -   [`aa0c054`](https://github.com/stdlib-js/stdlib/commit/aa0c05478633005f146d6ddde6113f935f50e8da) - **feat:** add `number/float64/base/sub3` [(#9778)](https://github.com/stdlib-js/stdlib/pull/9778) _(by Sachin Pangal, Neeraj Pathak)_
