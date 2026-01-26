@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-25)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
 ### Features
 
+-   [`aa0c054`](https://github.com/stdlib-js/stdlib/commit/aa0c05478633005f146d6ddde6113f935f50e8da) - add `number/float64/base/sub3` [(#9778)](https://github.com/stdlib-js/stdlib/pull/9778)
 -   [`4e8074a`](https://github.com/stdlib-js/stdlib/commit/4e8074a0fd574272817ba43ee2fa24fbb7431e43) - add `number/float16/base/assert/is-positive-zero` [(#9643)](https://github.com/stdlib-js/stdlib/pull/9643)
 -   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623)
 -   [`aebc415`](https://github.com/stdlib-js/stdlib/commit/aebc415cd7b1579ef8935576eb4fae94a4277846) - add `number/float16/base/assert/is-nan` [(#9625)](https://github.com/stdlib-js/stdlib/pull/9625)
@@ -151,9 +152,9 @@
 
 ### Closed Issues
 
-A total of 23 issues were closed in this release:
+A total of 24 issues were closed in this release:
 
-[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895), [#9288](https://github.com/stdlib-js/stdlib/issues/9288), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800)
+[#5347](https://github.com/stdlib-js/stdlib/issues/5347), [#5501](https://github.com/stdlib-js/stdlib/issues/5501), [#6031](https://github.com/stdlib-js/stdlib/issues/6031), [#6356](https://github.com/stdlib-js/stdlib/issues/6356), [#6588](https://github.com/stdlib-js/stdlib/issues/6588), [#6616](https://github.com/stdlib-js/stdlib/issues/6616), [#6703](https://github.com/stdlib-js/stdlib/issues/6703), [#6826](https://github.com/stdlib-js/stdlib/issues/6826), [#7003](https://github.com/stdlib-js/stdlib/issues/7003), [#7337](https://github.com/stdlib-js/stdlib/issues/7337), [#7349](https://github.com/stdlib-js/stdlib/issues/7349), [#7393](https://github.com/stdlib-js/stdlib/issues/7393), [#7532](https://github.com/stdlib-js/stdlib/issues/7532), [#8027](https://github.com/stdlib-js/stdlib/issues/8027), [#8136](https://github.com/stdlib-js/stdlib/issues/8136), [#8170](https://github.com/stdlib-js/stdlib/issues/8170), [#8877](https://github.com/stdlib-js/stdlib/issues/8877), [#8895](https://github.com/stdlib-js/stdlib/issues/8895), [#9288](https://github.com/stdlib-js/stdlib/issues/9288), [#9777](https://github.com/stdlib-js/stdlib/issues/9777), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800), [#9800](https://github.com/stdlib-js/stdlib/issues/9800)
 
 </section>
 
@@ -165,6 +166,7 @@ A total of 23 issues were closed in this release:
 
 <details>
 
+-   [`aa0c054`](https://github.com/stdlib-js/stdlib/commit/aa0c05478633005f146d6ddde6113f935f50e8da) - **feat:** add `number/float64/base/sub3` [(#9778)](https://github.com/stdlib-js/stdlib/pull/9778) _(by Sachin Pangal, Neeraj Pathak)_
 -   [`f133840`](https://github.com/stdlib-js/stdlib/commit/f1338403c5121a8cdbae93a51e98adf7c16caaaa) - **chore:** add `number/int16/base` scaffolding _(by Philipp Burckhardt)_
 -   [`d52aafd`](https://github.com/stdlib-js/stdlib/commit/d52aafdfacb06727b40f92ab6a1872bd3905a117) - **chore:** add `number/int8/base` scaffolding _(by Philipp Burckhardt)_
 -   [`ebcc5cd`](https://github.com/stdlib-js/stdlib/commit/ebcc5cd5aa8cca5f5825f6720b6c9573c0daff48) - **test:** replace `math-assert` with `float16-assert` [(#9789)](https://github.com/stdlib-js/stdlib/pull/9789) _(by Lokesh Ranjan)_
@@ -381,7 +383,7 @@ A total of 23 issues were closed in this release:
 
 ### Contributors
 
-A total of 20 people contributed to this release. Thank you to the following contributors:
+A total of 21 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   DivitJain26
@@ -399,6 +401,7 @@ A total of 20 people contributed to this release. Thank you to the following con
 -   Navyansh Kesarwani
 -   Neeraj Pathak
 -   Philipp Burckhardt
+-   Sachin Pangal
 -   Sagar Ratna Chaudhary
 -   Samarth Kolarkar
 -   Uday Kakade
