@@ -166,6 +166,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`41c55d8`](https://github.com/stdlib-js/stdlib/commit/41c55d85d758d40bf6a2533bdeb130790199304b) - **docs:** update `number/int16/base` TypeScript declarations [(#9898)](https://github.com/stdlib-js/stdlib/pull/9898) _(by stdlib-bot)_
 -   [`aa0c054`](https://github.com/stdlib-js/stdlib/commit/aa0c05478633005f146d6ddde6113f935f50e8da) - **feat:** add `number/float64/base/sub3` [(#9778)](https://github.com/stdlib-js/stdlib/pull/9778) _(by Sachin Pangal, Neeraj Pathak)_
 -   [`f133840`](https://github.com/stdlib-js/stdlib/commit/f1338403c5121a8cdbae93a51e98adf7c16caaaa) - **chore:** add `number/int16/base` scaffolding _(by Philipp Burckhardt)_
 -   [`d52aafd`](https://github.com/stdlib-js/stdlib/commit/d52aafdfacb06727b40f92ab6a1872bd3905a117) - **chore:** add `number/int8/base` scaffolding _(by Philipp Burckhardt)_
