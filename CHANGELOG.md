@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-29)
+## Unreleased (2026-04-10)
 
 <section class="features">
 
@@ -166,6 +166,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`0ca797b`](https://github.com/stdlib-js/stdlib/commit/0ca797b5558b96111256a7446eafe101761b240b) - **bench:** use float literals for `uniform` range arguments _(by Philipp Burckhardt)_
 -   [`90c521f`](https://github.com/stdlib-js/stdlib/commit/90c521fba4bb69acd67ea5b4d1ff8748559b15b2) - **docs:** remove extra empty line [(#10225)](https://github.com/stdlib-js/stdlib/pull/10225) _(by stdlib-bot)_
 -   [`f693285`](https://github.com/stdlib-js/stdlib/commit/f69328578f728111a8993e9fae78c7aef0a7143f) - **bench:** refactor to use string interpolation in `number/float32/base/assert` [(#9910)](https://github.com/stdlib-js/stdlib/pull/9910) _(by Lokesh Ranjan)_
@@ -392,7 +393,7 @@ A total of 24 issues were closed in this release:
 
 ### Contributors
 
-A total of 21 people contributed to this release. Thank you to the following contributors:
+A total of 22 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   DivitJain26
@@ -415,6 +416,7 @@ A total of 21 people contributed to this release. Thank you to the following con
 -   Samarth Kolarkar
 -   Uday Kakade
 -   Vara Rahul Rajana
+-   anee3
 
 </section>
 
