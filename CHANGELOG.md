@@ -166,6 +166,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`194227f`](https://github.com/stdlib-js/stdlib/commit/194227f60e97728545523685bd16c1deb79da0f1) - **refactor:** update `number/uint32/base/mul` to utilize `number/int32/base/mul` [(#11502)](https://github.com/stdlib-js/stdlib/pull/11502) _(by Abdul Kaium)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 -   [`99dbca0`](https://github.com/stdlib-js/stdlib/commit/99dbca07465b736a1c33c439ece1e3b7e39c32b8) - **bench:** refactor random number generation in `number/int32/base/mul` [(#11494)](https://github.com/stdlib-js/stdlib/pull/11494) _(by Abdul Kaium)_
 -   [`c9560de`](https://github.com/stdlib-js/stdlib/commit/c9560dedc2ebc61dc8eb2bba775555841f175eea) - **bench:** refactor to use `logEachMap` in examples [(#11454)](https://github.com/stdlib-js/stdlib/pull/11454) _(by Lokesh Ranjan)_
