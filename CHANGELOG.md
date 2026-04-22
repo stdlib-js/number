@@ -124,6 +124,10 @@
 
 ### BREAKING CHANGES
 
+-   [`8dbf11d`](https://github.com/stdlib-js/stdlib/commit/8dbf11dcacfbb2c20636679ec5c391cbf4f85cf4): remove `NaN` checks
+
+    -   To migrate, users should explicitly perform `NaN` checks before invoking this API and its `assign` method.
+
 -   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68): remove `NaN` checks and optimize implementation for better performance
 -   [`51823d9`](https://github.com/stdlib-js/stdlib/commit/51823d9ae78278700f6774fb428d189c8b6e891a): rename aliases for `isSameValuef` and `isSameValueZerof`
 
@@ -167,6 +171,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`8dbf11d`](https://github.com/stdlib-js/stdlib/commit/8dbf11dcacfbb2c20636679ec5c391cbf4f85cf4) - **refactor:** remove `NaN` checks and optimize performance _(by Abdul Kaium)_
 -   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68) - **refactor:** remove `NaN` checks and optimize implementation for better performance [(#11699)](https://github.com/stdlib-js/stdlib/pull/11699) _(by Abdul Kaium, Athan Reines)_
 -   [`194227f`](https://github.com/stdlib-js/stdlib/commit/194227f60e97728545523685bd16c1deb79da0f1) - **refactor:** update `number/uint32/base/mul` to utilize `number/int32/base/mul` [(#11502)](https://github.com/stdlib-js/stdlib/pull/11502) _(by Abdul Kaium)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
