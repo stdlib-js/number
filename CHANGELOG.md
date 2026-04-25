@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-22)
+## Unreleased (2026-04-25)
 
 <section class="features">
 
@@ -171,6 +171,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`aedb51d`](https://github.com/stdlib-js/stdlib/commit/aedb51d0b583008413ff4ff4b101242b9b1c5182) - **docs:** change type to integer in `number/uint32/base/identity` REPL docs  [(#11759)](https://github.com/stdlib-js/stdlib/pull/11759) _(by Philipp Burckhardt)_
 -   [`8dbf11d`](https://github.com/stdlib-js/stdlib/commit/8dbf11dcacfbb2c20636679ec5c391cbf4f85cf4) - **refactor:** remove `NaN` checks and optimize performance _(by Abdul Kaium)_
 -   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68) - **refactor:** remove `NaN` checks and optimize implementation for better performance [(#11699)](https://github.com/stdlib-js/stdlib/pull/11699) _(by Abdul Kaium, Athan Reines)_
 -   [`194227f`](https://github.com/stdlib-js/stdlib/commit/194227f60e97728545523685bd16c1deb79da0f1) - **refactor:** update `number/uint32/base/mul` to utilize `number/int32/base/mul` [(#11502)](https://github.com/stdlib-js/stdlib/pull/11502) _(by Abdul Kaium)_
