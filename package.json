@@ -48,6 +48,7 @@
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/bigint": "github:stdlib-js/bigint#main",
     "@stdlib/boolean": "github:stdlib-js/boolean#main",
     "@stdlib/console": "github:stdlib-js/console#main",
     "@stdlib/process": "github:stdlib-js/process#main",

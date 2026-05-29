@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-05)
+## Unreleased (2026-05-29)
 
 <section class="features">
 
 ### Features
 
+-   [`02822ec`](https://github.com/stdlib-js/stdlib/commit/02822ec3c65d5e98dc619b81a2f0f5bfff087db6) - add `number/uint64/ctor` [(#10908)](https://github.com/stdlib-js/stdlib/pull/10908)
 -   [`aa0c054`](https://github.com/stdlib-js/stdlib/commit/aa0c05478633005f146d6ddde6113f935f50e8da) - add `number/float64/base/sub3` [(#9778)](https://github.com/stdlib-js/stdlib/pull/9778)
 -   [`4e8074a`](https://github.com/stdlib-js/stdlib/commit/4e8074a0fd574272817ba43ee2fa24fbb7431e43) - add `number/float16/base/assert/is-positive-zero` [(#9643)](https://github.com/stdlib-js/stdlib/pull/9643)
 -   [`2d6416a`](https://github.com/stdlib-js/stdlib/commit/2d6416add43fe03624335438d20fb293bf78405a) - add `number/float16/base/assert/is-negative-zero` [(#9623)](https://github.com/stdlib-js/stdlib/pull/9623)
@@ -171,13 +172,14 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`02822ec`](https://github.com/stdlib-js/stdlib/commit/02822ec3c65d5e98dc619b81a2f0f5bfff087db6) - **feat:** add `number/uint64/ctor` [(#10908)](https://github.com/stdlib-js/stdlib/pull/10908) _(by Abdul Kaium, Athan Reines)_
 -   [`aedb51d`](https://github.com/stdlib-js/stdlib/commit/aedb51d0b583008413ff4ff4b101242b9b1c5182) - **docs:** change type to integer in `number/uint32/base/identity` REPL docs  [(#11759)](https://github.com/stdlib-js/stdlib/pull/11759) _(by Philipp Burckhardt)_
 -   [`8dbf11d`](https://github.com/stdlib-js/stdlib/commit/8dbf11dcacfbb2c20636679ec5c391cbf4f85cf4) - **refactor:** remove `NaN` checks and optimize performance _(by Abdul Kaium)_
 -   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68) - **refactor:** remove `NaN` checks and optimize implementation for better performance [(#11699)](https://github.com/stdlib-js/stdlib/pull/11699) _(by Abdul Kaium, Athan Reines)_
 -   [`194227f`](https://github.com/stdlib-js/stdlib/commit/194227f60e97728545523685bd16c1deb79da0f1) - **refactor:** update `number/uint32/base/mul` to utilize `number/int32/base/mul` [(#11502)](https://github.com/stdlib-js/stdlib/pull/11502) _(by Abdul Kaium)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 -   [`99dbca0`](https://github.com/stdlib-js/stdlib/commit/99dbca07465b736a1c33c439ece1e3b7e39c32b8) - **bench:** refactor random number generation in `number/int32/base/mul` [(#11494)](https://github.com/stdlib-js/stdlib/pull/11494) _(by Abdul Kaium)_
--   [`c9560de`](https://github.com/stdlib-js/stdlib/commit/c9560dedc2ebc61dc8eb2bba775555841f175eea) - **bench:** refactor to use `logEachMap` in examples [(#11454)](https://github.com/stdlib-js/stdlib/pull/11454) _(by Lokesh Ranjan)_
+-   [`c9560de`](https://github.com/stdlib-js/stdlib/commit/c9560dedc2ebc61dc8eb2bba775555841f175eea) - **docs:** refactor to use `logEachMap` in examples [(#11454)](https://github.com/stdlib-js/stdlib/pull/11454) _(by Lokesh Ranjan)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`0ca797b`](https://github.com/stdlib-js/stdlib/commit/0ca797b5558b96111256a7446eafe101761b240b) - **bench:** use float literals for `uniform` range arguments _(by Philipp Burckhardt)_
 -   [`90c521f`](https://github.com/stdlib-js/stdlib/commit/90c521fba4bb69acd67ea5b4d1ff8748559b15b2) - **docs:** remove extra empty line [(#10225)](https://github.com/stdlib-js/stdlib/pull/10225) _(by stdlib-bot)_
