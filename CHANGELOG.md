@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-29)
+## Unreleased (2026-06-03)
 
 <section class="features">
 
@@ -115,6 +115,7 @@
 
 ### Bug Fixes
 
+-   [`876ea56`](https://github.com/stdlib-js/stdlib/commit/876ea56a249d08fc4f00cb1d0c85636560e831ff) - ensure BigInts are coerced to number primitives [(#12472)](https://github.com/stdlib-js/stdlib/pull/12472)
 -   [`c73b05b`](https://github.com/stdlib-js/stdlib/commit/c73b05b2bc7a30ac4826a85a8d77708a7b62a3c1) - move function declarations inside `extern \"C\"` block in `number/float16/ctor`
 
 </section>
@@ -172,6 +173,7 @@ A total of 24 issues were closed in this release:
 
 <details>
 
+-   [`876ea56`](https://github.com/stdlib-js/stdlib/commit/876ea56a249d08fc4f00cb1d0c85636560e831ff) - **fix:** ensure BigInts are coerced to number primitives [(#12472)](https://github.com/stdlib-js/stdlib/pull/12472) _(by Abdul Kaium)_
 -   [`02822ec`](https://github.com/stdlib-js/stdlib/commit/02822ec3c65d5e98dc619b81a2f0f5bfff087db6) - **feat:** add `number/uint64/ctor` [(#10908)](https://github.com/stdlib-js/stdlib/pull/10908) _(by Abdul Kaium, Athan Reines)_
 -   [`aedb51d`](https://github.com/stdlib-js/stdlib/commit/aedb51d0b583008413ff4ff4b101242b9b1c5182) - **docs:** change type to integer in `number/uint32/base/identity` REPL docs  [(#11759)](https://github.com/stdlib-js/stdlib/pull/11759) _(by Philipp Burckhardt)_
 -   [`8dbf11d`](https://github.com/stdlib-js/stdlib/commit/8dbf11dcacfbb2c20636679ec5c391cbf4f85cf4) - **refactor:** remove `NaN` checks and optimize performance _(by Abdul Kaium)_
