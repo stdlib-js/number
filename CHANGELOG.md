@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8da7f12`](https://github.com/stdlib-js/stdlib/commit/8da7f12959b84428e227d1d9639f871a5268430a) - **docs:** fix JSDoc type [(#12916)](https://github.com/stdlib-js/stdlib/pull/12916) _(by Philipp Burckhardt)_
 -   [`c8950bc`](https://github.com/stdlib-js/stdlib/commit/c8950bc15eb7a2c62559ae6b909a41f96f59d58d) - **docs:** add missing tag and fix description [(#12821)](https://github.com/stdlib-js/stdlib/pull/12821) _(by Philipp Burckhardt)_
 -   [`41d00f4`](https://github.com/stdlib-js/stdlib/commit/41d00f4a92996389d89df079c8cc65b7c586d56d) - **docs:** add links [(#12824)](https://github.com/stdlib-js/stdlib/pull/12824) _(by Philipp Burckhardt)_
 -   [`62beca8`](https://github.com/stdlib-js/stdlib/commit/62beca8077139cf631be5a8909cf935e823b5531) - **chore:** update keywords [(#12831)](https://github.com/stdlib-js/stdlib/pull/12831) _(by Philipp Burckhardt)_
