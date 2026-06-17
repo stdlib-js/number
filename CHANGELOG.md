@@ -6,12 +6,23 @@
 
 ## Unreleased (2026-06-17)
 
+<section class="features">
+
+### Features
+
+-   [`06a03d7`](https://github.com/stdlib-js/stdlib/commit/06a03d7ace64a14e40c96b45c75ab9c8f0503dac) - add `uint64/base/to-words` [(#12719)](https://github.com/stdlib-js/stdlib/pull/12719)
+
+</section>
+
+<!-- /.features -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`06a03d7`](https://github.com/stdlib-js/stdlib/commit/06a03d7ace64a14e40c96b45c75ab9c8f0503dac) - **feat:** add `uint64/base/to-words` [(#12719)](https://github.com/stdlib-js/stdlib/pull/12719) _(by Abdul Kaium, Athan Reines)_
 -   [`098dede`](https://github.com/stdlib-js/stdlib/commit/098deded1d652e152eb6d5f86cad92ef4844e3bd) - **style:** adjust spacing and fix REPL text wrapping [(#12348)](https://github.com/stdlib-js/stdlib/pull/12348) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8da7f12`](https://github.com/stdlib-js/stdlib/commit/8da7f12959b84428e227d1d9639f871a5268430a) - **docs:** fix JSDoc type [(#12916)](https://github.com/stdlib-js/stdlib/pull/12916) _(by Philipp Burckhardt)_
 -   [`c8950bc`](https://github.com/stdlib-js/stdlib/commit/c8950bc15eb7a2c62559ae6b909a41f96f59d58d) - **docs:** add missing tag and fix description [(#12821)](https://github.com/stdlib-js/stdlib/pull/12821) _(by Philipp Burckhardt)_
@@ -28,8 +39,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Abdul Kaium
 -   Athan Reines
 -   Philipp Burckhardt
 
