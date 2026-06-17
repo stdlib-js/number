@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-16)
+## Unreleased (2026-06-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`098dede`](https://github.com/stdlib-js/stdlib/commit/098deded1d652e152eb6d5f86cad92ef4844e3bd) - **style:** adjust spacing and fix REPL text wrapping [(#12348)](https://github.com/stdlib-js/stdlib/pull/12348) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8da7f12`](https://github.com/stdlib-js/stdlib/commit/8da7f12959b84428e227d1d9639f871a5268430a) - **docs:** fix JSDoc type [(#12916)](https://github.com/stdlib-js/stdlib/pull/12916) _(by Philipp Burckhardt)_
 -   [`c8950bc`](https://github.com/stdlib-js/stdlib/commit/c8950bc15eb7a2c62559ae6b909a41f96f59d58d) - **docs:** add missing tag and fix description [(#12821)](https://github.com/stdlib-js/stdlib/pull/12821) _(by Philipp Burckhardt)_
 -   [`41d00f4`](https://github.com/stdlib-js/stdlib/commit/41d00f4a92996389d89df079c8cc65b7c586d56d) - **docs:** add links [(#12824)](https://github.com/stdlib-js/stdlib/pull/12824) _(by Philipp Burckhardt)_
@@ -27,8 +28,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
