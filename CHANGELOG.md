@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`dee3dfa`](https://github.com/stdlib-js/stdlib/commit/dee3dfae240c5def654c4564942f706c5c63657b) - **feat:** add `uint64/base/assert/is-equal` [(#12508)](https://github.com/stdlib-js/stdlib/pull/12508) _(by Abdul Kaium, Athan Reines)_
 -   [`06a03d7`](https://github.com/stdlib-js/stdlib/commit/06a03d7ace64a14e40c96b45c75ab9c8f0503dac) - **feat:** add `uint64/base/to-words` [(#12719)](https://github.com/stdlib-js/stdlib/pull/12719) _(by Abdul Kaium, Athan Reines)_
 -   [`098dede`](https://github.com/stdlib-js/stdlib/commit/098deded1d652e152eb6d5f86cad92ef4844e3bd) - **style:** adjust spacing and fix REPL text wrapping [(#12348)](https://github.com/stdlib-js/stdlib/pull/12348) _(by Philipp Burckhardt, Athan Reines)_
