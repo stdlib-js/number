@@ -24,6 +24,7 @@
 
 <details>
 
+-   [`13be950`](https://github.com/stdlib-js/stdlib/commit/13be9508ead024cad29c0426a02339b942fd92f5) - **chore:** propagate `Uint64.from` and decimal-literal fixes to siblings [(#12954)](https://github.com/stdlib-js/stdlib/pull/12954) _(by Philipp Burckhardt)_
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - **feat:** add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518) _(by Abdul Kaium, Athan Reines)_
 -   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`dee3dfa`](https://github.com/stdlib-js/stdlib/commit/dee3dfae240c5def654c4564942f706c5c63657b) - **feat:** add `uint64/base/assert/is-equal` [(#12508)](https://github.com/stdlib-js/stdlib/pull/12508) _(by Abdul Kaium, Athan Reines)_
