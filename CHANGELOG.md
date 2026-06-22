@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-18)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
@@ -24,6 +24,7 @@
 
 <details>
 
+-   [`68d7a66`](https://github.com/stdlib-js/stdlib/commit/68d7a66061c44c019f8b4852ae2860ad8d96c708) - **chore:** update keywords and add missing section heading [(#13009)](https://github.com/stdlib-js/stdlib/pull/13009) _(by Philipp Burckhardt)_
 -   [`13be950`](https://github.com/stdlib-js/stdlib/commit/13be9508ead024cad29c0426a02339b942fd92f5) - **chore:** propagate `Uint64.from` and decimal-literal fixes to siblings [(#12954)](https://github.com/stdlib-js/stdlib/pull/12954) _(by Philipp Burckhardt)_
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - **feat:** add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518) _(by Abdul Kaium, Athan Reines)_
 -   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
