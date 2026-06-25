@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-22)
+## Unreleased (2026-06-25)
 
 <section class="features">
 
 ### Features
 
+-   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135)
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518)
 -   [`dee3dfa`](https://github.com/stdlib-js/stdlib/commit/dee3dfae240c5def654c4564942f706c5c63657b) - add `uint64/base/assert/is-equal` [(#12508)](https://github.com/stdlib-js/stdlib/pull/12508)
 -   [`06a03d7`](https://github.com/stdlib-js/stdlib/commit/06a03d7ace64a14e40c96b45c75ab9c8f0503dac) - add `uint64/base/to-words` [(#12719)](https://github.com/stdlib-js/stdlib/pull/12719)
@@ -24,6 +25,7 @@
 
 <details>
 
+-   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - **feat:** add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135) _(by Abdul Kaium, Athan Reines)_
 -   [`68d7a66`](https://github.com/stdlib-js/stdlib/commit/68d7a66061c44c019f8b4852ae2860ad8d96c708) - **chore:** update keywords and add missing section heading [(#13009)](https://github.com/stdlib-js/stdlib/pull/13009) _(by Philipp Burckhardt)_
 -   [`13be950`](https://github.com/stdlib-js/stdlib/commit/13be9508ead024cad29c0426a02339b942fd92f5) - **chore:** propagate `Uint64.from` and decimal-literal fixes to siblings [(#12954)](https://github.com/stdlib-js/stdlib/pull/12954) _(by Philipp Burckhardt)_
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - **feat:** add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518) _(by Abdul Kaium, Athan Reines)_
