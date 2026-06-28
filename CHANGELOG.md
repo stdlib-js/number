@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-26)
+## Unreleased (2026-06-28)
 
 <section class="features">
 
@@ -19,12 +19,35 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#13147](https://github.com/stdlib-js/stdlib/issues/13147)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - **fix:** ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162) _(by Sathwik Vemula)_
 -   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
 -   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - **feat:** add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135) _(by Abdul Kaium, Athan Reines)_
 -   [`68d7a66`](https://github.com/stdlib-js/stdlib/commit/68d7a66061c44c019f8b4852ae2860ad8d96c708) - **chore:** update keywords and add missing section heading [(#13009)](https://github.com/stdlib-js/stdlib/pull/13009) _(by Philipp Burckhardt)_
@@ -49,11 +72,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
 -   Philipp Burckhardt
+-   Sathwik Vemula
 
 </section>
 
