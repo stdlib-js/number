@@ -47,6 +47,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f29ec0b`](https://github.com/stdlib-js/stdlib/commit/f29ec0b8e6d5b0de63dd5c56eb7e975dfeb5dc9b) - **docs:** add source section header [(#13180)](https://github.com/stdlib-js/stdlib/pull/13180) _(by Philipp Burckhardt)_
 -   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - **fix:** ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162) _(by Sathwik Vemula)_
 -   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
 -   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - **feat:** add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135) _(by Abdul Kaium, Athan Reines)_
