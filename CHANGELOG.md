@@ -49,6 +49,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4e24379`](https://github.com/stdlib-js/stdlib/commit/4e2437977c866640169dacfcdaff16b55ab879aa) - **docs:** fix string interpolation and update comments [(#13261)](https://github.com/stdlib-js/stdlib/pull/13261) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - **feat:** add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154) _(by Abdul Kaium, Athan Reines)_
 -   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - **feat:** add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250) _(by Abdul Kaium, Athan Reines)_
 -   [`f29ec0b`](https://github.com/stdlib-js/stdlib/commit/f29ec0b8e6d5b0de63dd5c56eb7e975dfeb5dc9b) - **docs:** add source section header [(#13180)](https://github.com/stdlib-js/stdlib/pull/13180) _(by Philipp Burckhardt)_
