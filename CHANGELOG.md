@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-28)
+## Unreleased (2026-07-04)
 
 <section class="features">
 
 ### Features
 
+-   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250)
 -   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135)
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518)
 -   [`dee3dfa`](https://github.com/stdlib-js/stdlib/commit/dee3dfae240c5def654c4564942f706c5c63657b) - add `uint64/base/assert/is-equal` [(#12508)](https://github.com/stdlib-js/stdlib/pull/12508)
@@ -47,6 +48,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - **feat:** add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250) _(by Abdul Kaium, Athan Reines)_
 -   [`f29ec0b`](https://github.com/stdlib-js/stdlib/commit/f29ec0b8e6d5b0de63dd5c56eb7e975dfeb5dc9b) - **docs:** add source section header [(#13180)](https://github.com/stdlib-js/stdlib/pull/13180) _(by Philipp Burckhardt)_
 -   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - **fix:** ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162) _(by Sathwik Vemula)_
 -   [`7dc9808`](https://github.com/stdlib-js/stdlib/commit/7dc98086e9503556dc548aa2e4899f299c12999f) - **docs:** fix examples, notes, and return description [(#13151)](https://github.com/stdlib-js/stdlib/pull/13151) _(by Philipp Burckhardt)_
