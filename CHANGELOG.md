@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154)
 -   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250)
 -   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135)
 -   [`9cc8e4f`](https://github.com/stdlib-js/stdlib/commit/9cc8e4ff48a65aa45fb69df015ebdeee15983a39) - add `uint64/base/add` [(#12518)](https://github.com/stdlib-js/stdlib/pull/12518)
@@ -48,6 +49,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - **feat:** add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154) _(by Abdul Kaium, Athan Reines)_
 -   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - **feat:** add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250) _(by Abdul Kaium, Athan Reines)_
 -   [`f29ec0b`](https://github.com/stdlib-js/stdlib/commit/f29ec0b8e6d5b0de63dd5c56eb7e975dfeb5dc9b) - **docs:** add source section header [(#13180)](https://github.com/stdlib-js/stdlib/pull/13180) _(by Philipp Burckhardt)_
 -   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - **fix:** ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162) _(by Sathwik Vemula)_
