@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-07)
 
 <section class="features">
 
@@ -49,6 +49,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
 -   [`26ebabf`](https://github.com/stdlib-js/stdlib/commit/26ebabf114831bf8529674992fb78b4a551f4d40) - **test:** update tests in `number/uint64/ctor` [(#13294)](https://github.com/stdlib-js/stdlib/pull/13294) _(by Abdul Kaium)_
 -   [`4e24379`](https://github.com/stdlib-js/stdlib/commit/4e2437977c866640169dacfcdaff16b55ab879aa) - **docs:** fix string interpolation and update comments [(#13261)](https://github.com/stdlib-js/stdlib/pull/13261) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - **feat:** add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154) _(by Abdul Kaium, Athan Reines)_
