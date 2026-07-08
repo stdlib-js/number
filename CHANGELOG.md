@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-07)
+## Unreleased (2026-07-08)
 
 <section class="features">
 
@@ -35,9 +35,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#13147](https://github.com/stdlib-js/stdlib/issues/13147)
+[#13147](https://github.com/stdlib-js/stdlib/issues/13147), [#13275](https://github.com/stdlib-js/stdlib/issues/13275)
 
 </section>
 
@@ -49,6 +49,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3fab81a`](https://github.com/stdlib-js/stdlib/commit/3fab81a6c52512fb46519359fbd72b19cd9a8006) - **chore:** fix C lint errors [(#13280)](https://github.com/stdlib-js/stdlib/pull/13280) _(by Ujjwal Verma)_
 -   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
 -   [`26ebabf`](https://github.com/stdlib-js/stdlib/commit/26ebabf114831bf8529674992fb78b4a551f4d40) - **test:** update tests in `number/uint64/ctor` [(#13294)](https://github.com/stdlib-js/stdlib/pull/13294) _(by Abdul Kaium)_
 -   [`4e24379`](https://github.com/stdlib-js/stdlib/commit/4e2437977c866640169dacfcdaff16b55ab879aa) - **docs:** fix string interpolation and update comments [(#13261)](https://github.com/stdlib-js/stdlib/pull/13261) _(by Philipp Burckhardt, Athan Reines)_
@@ -80,12 +81,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
 -   Philipp Burckhardt
 -   Sathwik Vemula
+-   Ujjwal Verma
 
 </section>
 
