@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-08)
+## Unreleased (2026-07-09)
 
 <section class="features">
 
 ### Features
 
+-   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379)
 -   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154)
 -   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250)
 -   [`a8789cc`](https://github.com/stdlib-js/stdlib/commit/a8789cce9e01c40d517aeb984a632e2fad12731e) - add `toPrimitive` support in `number/uint64/ctor` [(#13135)](https://github.com/stdlib-js/stdlib/pull/13135)
@@ -49,6 +50,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - **feat:** add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379) _(by Abdul Kaium, Athan Reines)_
 -   [`3fab81a`](https://github.com/stdlib-js/stdlib/commit/3fab81a6c52512fb46519359fbd72b19cd9a8006) - **chore:** fix C lint errors [(#13280)](https://github.com/stdlib-js/stdlib/pull/13280) _(by Ujjwal Verma)_
 -   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
 -   [`26ebabf`](https://github.com/stdlib-js/stdlib/commit/26ebabf114831bf8529674992fb78b4a551f4d40) - **test:** update tests in `number/uint64/ctor` [(#13294)](https://github.com/stdlib-js/stdlib/pull/13294) _(by Abdul Kaium)_
