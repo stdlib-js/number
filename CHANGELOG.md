@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-09)
+## Unreleased (2026-07-10)
 
 <section class="features">
 
@@ -50,6 +50,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
 -   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - **feat:** add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379) _(by Abdul Kaium, Athan Reines)_
 -   [`3fab81a`](https://github.com/stdlib-js/stdlib/commit/3fab81a6c52512fb46519359fbd72b19cd9a8006) - **chore:** fix C lint errors [(#13280)](https://github.com/stdlib-js/stdlib/pull/13280) _(by Ujjwal Verma)_
 -   [`f54e568`](https://github.com/stdlib-js/stdlib/commit/f54e5686a93b352fac88b5e1c2c372ab1daa81b6) - **docs:** update examples and add section headings [(#13198)](https://github.com/stdlib-js/stdlib/pull/13198) _(by Philipp Burckhardt, Athan Reines)_
