@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-10)
+## Unreleased (2026-07-13)
 
 <section class="features">
 
 ### Features
 
+-   [`f23740a`](https://github.com/stdlib-js/stdlib/commit/f23740ac8677b5a19c04b774e9ffb7459bf2fcee) - add `number/uint64/base/get-high-word` [(#13439)](https://github.com/stdlib-js/stdlib/pull/13439)
 -   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379)
 -   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154)
 -   [`3684ccc`](https://github.com/stdlib-js/stdlib/commit/3684ccc6b27196ab25f606eb6d0b21d9712bec4b) - add `uint64/base/number2words` [(#13250)](https://github.com/stdlib-js/stdlib/pull/13250)
@@ -50,6 +51,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f23740a`](https://github.com/stdlib-js/stdlib/commit/f23740ac8677b5a19c04b774e9ffb7459bf2fcee) - **feat:** add `number/uint64/base/get-high-word` [(#13439)](https://github.com/stdlib-js/stdlib/pull/13439) _(by Abdul Kaium)_
 -   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
 -   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - **feat:** add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379) _(by Abdul Kaium, Athan Reines)_
 -   [`3fab81a`](https://github.com/stdlib-js/stdlib/commit/3fab81a6c52512fb46519359fbd72b19cd9a8006) - **chore:** fix C lint errors [(#13280)](https://github.com/stdlib-js/stdlib/pull/13280) _(by Ujjwal Verma)_
