@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`edd8fe3`](https://github.com/stdlib-js/stdlib/commit/edd8fe361feccc7e5290ae4e322cb759fb545b30) - add `number/uint64/base/string2words` [(#13356)](https://github.com/stdlib-js/stdlib/pull/13356)
 -   [`f23740a`](https://github.com/stdlib-js/stdlib/commit/f23740ac8677b5a19c04b774e9ffb7459bf2fcee) - add `number/uint64/base/get-high-word` [(#13439)](https://github.com/stdlib-js/stdlib/pull/13439)
 -   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379)
 -   [`8d10f98`](https://github.com/stdlib-js/stdlib/commit/8d10f98b237cb4f8bfa9aff506b8aee162683931) - add `number/int64/ctor` [(#13154)](https://github.com/stdlib-js/stdlib/pull/13154)
@@ -51,6 +52,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`edd8fe3`](https://github.com/stdlib-js/stdlib/commit/edd8fe361feccc7e5290ae4e322cb759fb545b30) - **feat:** add `number/uint64/base/string2words` [(#13356)](https://github.com/stdlib-js/stdlib/pull/13356) _(by Abdul Kaium, Athan Reines)_
 -   [`102ab75`](https://github.com/stdlib-js/stdlib/commit/102ab759f46b0f74505493e86611561e10b5bd17) - **docs:** update related packages sections [(#13460)](https://github.com/stdlib-js/stdlib/pull/13460) _(by stdlib-bot)_
 -   [`789169a`](https://github.com/stdlib-js/stdlib/commit/789169abfd72c26cb403d699e0d3379005d04974) - **docs:** rename variable _(by Athan Reines)_
 -   [`059dffa`](https://github.com/stdlib-js/stdlib/commit/059dffa1f48e361055345bfeba6bd8f7dfe08d3b) - **chore:** clean-up [(#13450)](https://github.com/stdlib-js/stdlib/pull/13450) _(by Philipp Burckhardt, Athan Reines)_
