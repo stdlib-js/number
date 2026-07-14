@@ -51,6 +51,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`102ab75`](https://github.com/stdlib-js/stdlib/commit/102ab759f46b0f74505493e86611561e10b5bd17) - **docs:** update related packages sections [(#13460)](https://github.com/stdlib-js/stdlib/pull/13460) _(by stdlib-bot)_
 -   [`789169a`](https://github.com/stdlib-js/stdlib/commit/789169abfd72c26cb403d699e0d3379005d04974) - **docs:** rename variable _(by Athan Reines)_
 -   [`059dffa`](https://github.com/stdlib-js/stdlib/commit/059dffa1f48e361055345bfeba6bd8f7dfe08d3b) - **chore:** clean-up [(#13450)](https://github.com/stdlib-js/stdlib/pull/13450) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f23740a`](https://github.com/stdlib-js/stdlib/commit/f23740ac8677b5a19c04b774e9ffb7459bf2fcee) - **feat:** add `number/uint64/base/get-high-word` [(#13439)](https://github.com/stdlib-js/stdlib/pull/13439) _(by Abdul Kaium)_
