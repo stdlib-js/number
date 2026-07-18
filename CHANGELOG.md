@@ -52,6 +52,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e21ba43`](https://github.com/stdlib-js/stdlib/commit/e21ba430d5878359c3133d90412b70a9c7259514) - **docs:** update descriptions _(by Athan Reines)_
 -   [`073155c`](https://github.com/stdlib-js/stdlib/commit/073155c51f24e47c96c3105e346247a988e8e0ac) - **docs:** update descriptions _(by Athan Reines)_
 -   [`f175a72`](https://github.com/stdlib-js/stdlib/commit/f175a721b1e44454d8c102e063e5f8c7a15053b8) - **chore:** clean-up [(#13470)](https://github.com/stdlib-js/stdlib/pull/13470) _(by Philipp Burckhardt, Athan Reines)_
 -   [`edd8fe3`](https://github.com/stdlib-js/stdlib/commit/edd8fe361feccc7e5290ae4e322cb759fb545b30) - **feat:** add `number/uint64/base/string2words` [(#13356)](https://github.com/stdlib-js/stdlib/pull/13356) _(by Abdul Kaium, Athan Reines)_
