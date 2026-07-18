@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543)
 -   [`edd8fe3`](https://github.com/stdlib-js/stdlib/commit/edd8fe361feccc7e5290ae4e322cb759fb545b30) - add `number/uint64/base/string2words` [(#13356)](https://github.com/stdlib-js/stdlib/pull/13356)
 -   [`f23740a`](https://github.com/stdlib-js/stdlib/commit/f23740ac8677b5a19c04b774e9ffb7459bf2fcee) - add `number/uint64/base/get-high-word` [(#13439)](https://github.com/stdlib-js/stdlib/pull/13439)
 -   [`369c5e5`](https://github.com/stdlib-js/stdlib/commit/369c5e5b45da203fc3047ffd1de2340fb44b5f2a) - add `number/uint64/base/bigint2words` [(#13379)](https://github.com/stdlib-js/stdlib/pull/13379)
@@ -52,6 +53,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - **feat:** add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543) _(by Abdul Kaium, Athan Reines)_
 -   [`e21ba43`](https://github.com/stdlib-js/stdlib/commit/e21ba430d5878359c3133d90412b70a9c7259514) - **docs:** update descriptions _(by Athan Reines)_
 -   [`073155c`](https://github.com/stdlib-js/stdlib/commit/073155c51f24e47c96c3105e346247a988e8e0ac) - **docs:** update descriptions _(by Athan Reines)_
 -   [`f175a72`](https://github.com/stdlib-js/stdlib/commit/f175a721b1e44454d8c102e063e5f8c7a15053b8) - **chore:** clean-up [(#13470)](https://github.com/stdlib-js/stdlib/pull/13470) _(by Philipp Burckhardt, Athan Reines)_
