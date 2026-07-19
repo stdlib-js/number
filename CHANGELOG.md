@@ -54,6 +54,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b765352`](https://github.com/stdlib-js/stdlib/commit/b765352693c710a610dee1b0a92d0f66c6d456ca) - **refactor:** use accessor functions _(by Athan Reines)_
+-   [`9600b95`](https://github.com/stdlib-js/stdlib/commit/9600b95f4b3c9350e1c15103da095b6492c0dc7f) - **refactor:** use a single workspace array _(by Athan Reines)_
 -   [`98befcc`](https://github.com/stdlib-js/stdlib/commit/98befccc10df734790667e536ae1ce0df67bd9e8) - **refactor:** update error messages _(by Athan Reines)_
 -   [`81614be`](https://github.com/stdlib-js/stdlib/commit/81614be04005732e7e3029ec826b26709ee5ed97) - **feat:** add `number/uint64/base/set-high-word` [(#13541)](https://github.com/stdlib-js/stdlib/pull/13541) _(by Abdul Kaium, Athan Reines)_
 -   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - **feat:** add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543) _(by Abdul Kaium, Athan Reines)_
