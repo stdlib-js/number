@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-18)
+## Unreleased (2026-07-19)
 
 <section class="features">
 
@@ -54,6 +54,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`98befcc`](https://github.com/stdlib-js/stdlib/commit/98befccc10df734790667e536ae1ce0df67bd9e8) - **refactor:** update error messages _(by Athan Reines)_
 -   [`81614be`](https://github.com/stdlib-js/stdlib/commit/81614be04005732e7e3029ec826b26709ee5ed97) - **feat:** add `number/uint64/base/set-high-word` [(#13541)](https://github.com/stdlib-js/stdlib/pull/13541) _(by Abdul Kaium, Athan Reines)_
 -   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - **feat:** add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543) _(by Abdul Kaium, Athan Reines)_
 -   [`e21ba43`](https://github.com/stdlib-js/stdlib/commit/e21ba430d5878359c3133d90412b70a9c7259514) - **docs:** update descriptions _(by Athan Reines)_
