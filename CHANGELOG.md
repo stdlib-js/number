@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694)
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370)
 -   [`81614be`](https://github.com/stdlib-js/stdlib/commit/81614be04005732e7e3029ec826b26709ee5ed97) - add `number/uint64/base/set-high-word` [(#13541)](https://github.com/stdlib-js/stdlib/pull/13541)
 -   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543)
@@ -55,6 +56,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - **feat:** add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694) _(by Abdul Kaium, Athan Reines)_
 -   [`49960a0`](https://github.com/stdlib-js/stdlib/commit/49960a0f18a9c97ead1862d2aa53432c8085285d) - **chore:** clean-up [(#13695)](https://github.com/stdlib-js/stdlib/pull/13695) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - **feat:** add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370) _(by Abdul Kaium, Athan Reines)_
 -   [`b765352`](https://github.com/stdlib-js/stdlib/commit/b765352693c710a610dee1b0a92d0f66c6d456ca) - **refactor:** use accessor functions _(by Athan Reines)_
