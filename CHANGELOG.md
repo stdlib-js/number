@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`31c730e`](https://github.com/stdlib-js/stdlib/commit/31c730e71f206c962b83b0f53c51a584756328c2) - add `number/uint64/base/xor` [(#13701)](https://github.com/stdlib-js/stdlib/pull/13701)
 -   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694)
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370)
 -   [`81614be`](https://github.com/stdlib-js/stdlib/commit/81614be04005732e7e3029ec826b26709ee5ed97) - add `number/uint64/base/set-high-word` [(#13541)](https://github.com/stdlib-js/stdlib/pull/13541)
@@ -56,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`31c730e`](https://github.com/stdlib-js/stdlib/commit/31c730e71f206c962b83b0f53c51a584756328c2) - **feat:** add `number/uint64/base/xor` [(#13701)](https://github.com/stdlib-js/stdlib/pull/13701) _(by Abdul Kaium, Athan Reines)_
 -   [`76e3845`](https://github.com/stdlib-js/stdlib/commit/76e3845a27a8d52fc7c4c759e3c431bd9ee10ba6) - **docs:** fix description _(by Athan Reines)_
 -   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - **feat:** add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694) _(by Abdul Kaium, Athan Reines)_
 -   [`49960a0`](https://github.com/stdlib-js/stdlib/commit/49960a0f18a9c97ead1862d2aa53432c8085285d) - **chore:** clean-up [(#13695)](https://github.com/stdlib-js/stdlib/pull/13695) _(by Philipp Burckhardt, Athan Reines)_
