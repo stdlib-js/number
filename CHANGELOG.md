@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-19)
+## Unreleased (2026-07-27)
 
 <section class="features">
 
 ### Features
 
+-   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370)
 -   [`81614be`](https://github.com/stdlib-js/stdlib/commit/81614be04005732e7e3029ec826b26709ee5ed97) - add `number/uint64/base/set-high-word` [(#13541)](https://github.com/stdlib-js/stdlib/pull/13541)
 -   [`53a3fd0`](https://github.com/stdlib-js/stdlib/commit/53a3fd04c4315ec71875bd74b45ae9434ea4c937) - add `number/uint64/base/get-low-word` [(#13543)](https://github.com/stdlib-js/stdlib/pull/13543)
 -   [`edd8fe3`](https://github.com/stdlib-js/stdlib/commit/edd8fe361feccc7e5290ae4e322cb759fb545b30) - add `number/uint64/base/string2words` [(#13356)](https://github.com/stdlib-js/stdlib/pull/13356)
@@ -54,6 +55,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - **feat:** add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370) _(by Abdul Kaium, Athan Reines)_
 -   [`b765352`](https://github.com/stdlib-js/stdlib/commit/b765352693c710a610dee1b0a92d0f66c6d456ca) - **refactor:** use accessor functions _(by Athan Reines)_
 -   [`9600b95`](https://github.com/stdlib-js/stdlib/commit/9600b95f4b3c9350e1c15103da095b6492c0dc7f) - **refactor:** use a single workspace array _(by Athan Reines)_
 -   [`98befcc`](https://github.com/stdlib-js/stdlib/commit/98befccc10df734790667e536ae1ce0df67bd9e8) - **refactor:** update error messages _(by Athan Reines)_
