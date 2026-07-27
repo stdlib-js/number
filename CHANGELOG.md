@@ -56,6 +56,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`76e3845`](https://github.com/stdlib-js/stdlib/commit/76e3845a27a8d52fc7c4c759e3c431bd9ee10ba6) - **docs:** fix description _(by Athan Reines)_
 -   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - **feat:** add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694) _(by Abdul Kaium, Athan Reines)_
 -   [`49960a0`](https://github.com/stdlib-js/stdlib/commit/49960a0f18a9c97ead1862d2aa53432c8085285d) - **chore:** clean-up [(#13695)](https://github.com/stdlib-js/stdlib/pull/13695) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - **feat:** add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370) _(by Abdul Kaium, Athan Reines)_
