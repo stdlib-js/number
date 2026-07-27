@@ -55,6 +55,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`49960a0`](https://github.com/stdlib-js/stdlib/commit/49960a0f18a9c97ead1862d2aa53432c8085285d) - **chore:** clean-up [(#13695)](https://github.com/stdlib-js/stdlib/pull/13695) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - **feat:** add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370) _(by Abdul Kaium, Athan Reines)_
 -   [`b765352`](https://github.com/stdlib-js/stdlib/commit/b765352693c710a610dee1b0a92d0f66c6d456ca) - **refactor:** use accessor functions _(by Athan Reines)_
 -   [`9600b95`](https://github.com/stdlib-js/stdlib/commit/9600b95f4b3c9350e1c15103da095b6492c0dc7f) - **refactor:** use a single workspace array _(by Athan Reines)_
