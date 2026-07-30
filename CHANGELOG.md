@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`cd16b93`](https://github.com/stdlib-js/stdlib/commit/cd16b9368fd2b6795d3b12bbfcb770abcef5ab15) - **docs:** update related packages sections [(#13766)](https://github.com/stdlib-js/stdlib/pull/13766) _(by stdlib-bot)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`d5a7bdb`](https://github.com/stdlib-js/stdlib/commit/d5a7bdb92ee34aa1d8926b64cac51b65ff0907c7) - **docs:** remove hyphen _(by Athan Reines)_
 -   [`3311629`](https://github.com/stdlib-js/stdlib/commit/33116295fc04de34dcd52b2b294f522631c6740b) - **docs:** remove hyphen _(by Athan Reines)_
