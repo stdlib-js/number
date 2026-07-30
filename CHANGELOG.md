@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-29)
+## Unreleased (2026-07-30)
 
 <section class="features">
 
@@ -57,6 +57,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`d5a7bdb`](https://github.com/stdlib-js/stdlib/commit/d5a7bdb92ee34aa1d8926b64cac51b65ff0907c7) - **docs:** remove hyphen _(by Athan Reines)_
 -   [`3311629`](https://github.com/stdlib-js/stdlib/commit/33116295fc04de34dcd52b2b294f522631c6740b) - **docs:** remove hyphen _(by Athan Reines)_
 -   [`31c730e`](https://github.com/stdlib-js/stdlib/commit/31c730e71f206c962b83b0f53c51a584756328c2) - **feat:** add `number/uint64/base/xor` [(#13701)](https://github.com/stdlib-js/stdlib/pull/13701) _(by Abdul Kaium, Athan Reines)_
