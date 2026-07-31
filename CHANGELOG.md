@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815)
+-   [`8146616`](https://github.com/stdlib-js/stdlib/commit/814661610ed42dcddfe7bc7803d5ab3caa8f5123) - add `number/int64/base/get-low-word` [(#13814)](https://github.com/stdlib-js/stdlib/pull/13814)
 -   [`31c730e`](https://github.com/stdlib-js/stdlib/commit/31c730e71f206c962b83b0f53c51a584756328c2) - add `number/uint64/base/xor` [(#13701)](https://github.com/stdlib-js/stdlib/pull/13701)
 -   [`4c47d5e`](https://github.com/stdlib-js/stdlib/commit/4c47d5e9cf32f0992c3572f0ac812fdd4a02d234) - add `number/uint64/base/mul` [(#13694)](https://github.com/stdlib-js/stdlib/pull/13694)
 -   [`0404059`](https://github.com/stdlib-js/stdlib/commit/0404059ef3e9221d9e7e7fa15ea370d9c9b82f70) - add `number/uint64/parse` [(#12370)](https://github.com/stdlib-js/stdlib/pull/12370)
@@ -57,6 +59,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
+-   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - **feat:** add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815) _(by Nakul Krishnakumar)_
+-   [`8146616`](https://github.com/stdlib-js/stdlib/commit/814661610ed42dcddfe7bc7803d5ab3caa8f5123) - **feat:** add `number/int64/base/get-low-word` [(#13814)](https://github.com/stdlib-js/stdlib/pull/13814) _(by Nakul Krishnakumar)_
 -   [`a669750`](https://github.com/stdlib-js/stdlib/commit/a6697506a4937b6525520ced778c2e37c1ae714f) - **bench:** refactor C benchmarks to use pre-computed values [(#13798)](https://github.com/stdlib-js/stdlib/pull/13798) _(by Nakul Krishnakumar)_
 -   [`cd16b93`](https://github.com/stdlib-js/stdlib/commit/cd16b9368fd2b6795d3b12bbfcb770abcef5ab15) - **docs:** update related packages sections [(#13766)](https://github.com/stdlib-js/stdlib/pull/13766) _(by stdlib-bot)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
