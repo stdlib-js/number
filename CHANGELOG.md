@@ -60,6 +60,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`18e368a`](https://github.com/stdlib-js/stdlib/commit/18e368ab68daadaac00e0b21d6bf05df99ed235d) - **docs:** update descriptions [(#13827)](https://github.com/stdlib-js/stdlib/pull/13827) _(by fiboNacci1163)_
 -   [`f4555c0`](https://github.com/stdlib-js/stdlib/commit/f4555c0c955a3c13609b452adba3708aa6f104e9) - **feat:** add `uint64/base/set-low-word` [(#13808)](https://github.com/stdlib-js/stdlib/pull/13808) _(by fiboNacci1163, Athan Reines)_
 -   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - **feat:** add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815) _(by Nakul Krishnakumar)_
