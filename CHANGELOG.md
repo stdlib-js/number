@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-31)
+## Unreleased (2026-08-01)
 
 <section class="features">
 
 ### Features
 
+-   [`f4555c0`](https://github.com/stdlib-js/stdlib/commit/f4555c0c955a3c13609b452adba3708aa6f104e9) - add `uint64/base/set-low-word` [(#13808)](https://github.com/stdlib-js/stdlib/pull/13808)
 -   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815)
 -   [`8146616`](https://github.com/stdlib-js/stdlib/commit/814661610ed42dcddfe7bc7803d5ab3caa8f5123) - add `number/int64/base/get-low-word` [(#13814)](https://github.com/stdlib-js/stdlib/pull/13814)
 -   [`31c730e`](https://github.com/stdlib-js/stdlib/commit/31c730e71f206c962b83b0f53c51a584756328c2) - add `number/uint64/base/xor` [(#13701)](https://github.com/stdlib-js/stdlib/pull/13701)
@@ -59,6 +60,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f4555c0`](https://github.com/stdlib-js/stdlib/commit/f4555c0c955a3c13609b452adba3708aa6f104e9) - **feat:** add `uint64/base/set-low-word` [(#13808)](https://github.com/stdlib-js/stdlib/pull/13808) _(by fiboNacci1163, Athan Reines)_
 -   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - **feat:** add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815) _(by Nakul Krishnakumar)_
 -   [`8146616`](https://github.com/stdlib-js/stdlib/commit/814661610ed42dcddfe7bc7803d5ab3caa8f5123) - **feat:** add `number/int64/base/get-low-word` [(#13814)](https://github.com/stdlib-js/stdlib/pull/13814) _(by Nakul Krishnakumar)_
@@ -119,7 +121,7 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
@@ -127,6 +129,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Philipp Burckhardt
 -   Sathwik Vemula
 -   Ujjwal Verma
+-   fiboNacci1163
 
 </section>
 
