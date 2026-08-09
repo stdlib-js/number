@@ -63,6 +63,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`b3d9447`](https://github.com/stdlib-js/stdlib/commit/b3d9447923c16fc51f12c6ea45909bb29b4aab42) - **chore:** clean-up [(#14098)](https://github.com/stdlib-js/stdlib/pull/14098) _(by Philipp Burckhardt)_
 -   [`48e43f7`](https://github.com/stdlib-js/stdlib/commit/48e43f74836aee68385300a6ec9552a115e96e11) - **feat:** add `number/int64/base/assert/is-equal` [(#14093)](https://github.com/stdlib-js/stdlib/pull/14093) _(by Nakul Krishnakumar)_
 -   [`7598bab`](https://github.com/stdlib-js/stdlib/commit/7598babb0d21bcc0596d29e2ff2810a1c469dc48) - **feat:** add `number/int64/base/to-words` [(#14092)](https://github.com/stdlib-js/stdlib/pull/14092) _(by Nakul Krishnakumar, Athan Reines)_
 -   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - **feat:** add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831) _(by Nakul Krishnakumar, Athan Reines)_
