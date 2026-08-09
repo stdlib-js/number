@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`48e43f7`](https://github.com/stdlib-js/stdlib/commit/48e43f74836aee68385300a6ec9552a115e96e11) - add `number/int64/base/assert/is-equal` [(#14093)](https://github.com/stdlib-js/stdlib/pull/14093)
 -   [`7598bab`](https://github.com/stdlib-js/stdlib/commit/7598babb0d21bcc0596d29e2ff2810a1c469dc48) - add `number/int64/base/to-words` [(#14092)](https://github.com/stdlib-js/stdlib/pull/14092)
 -   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831)
 -   [`f4555c0`](https://github.com/stdlib-js/stdlib/commit/f4555c0c955a3c13609b452adba3708aa6f104e9) - add `uint64/base/set-low-word` [(#13808)](https://github.com/stdlib-js/stdlib/pull/13808)
@@ -62,6 +63,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`48e43f7`](https://github.com/stdlib-js/stdlib/commit/48e43f74836aee68385300a6ec9552a115e96e11) - **feat:** add `number/int64/base/assert/is-equal` [(#14093)](https://github.com/stdlib-js/stdlib/pull/14093) _(by Nakul Krishnakumar)_
 -   [`7598bab`](https://github.com/stdlib-js/stdlib/commit/7598babb0d21bcc0596d29e2ff2810a1c469dc48) - **feat:** add `number/int64/base/to-words` [(#14092)](https://github.com/stdlib-js/stdlib/pull/14092) _(by Nakul Krishnakumar, Athan Reines)_
 -   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - **feat:** add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831) _(by Nakul Krishnakumar, Athan Reines)_
 -   [`58556f4`](https://github.com/stdlib-js/stdlib/commit/58556f408eedf1737bc4795fb2734ef4dd2a6b32) - **chore:** clean-up [(#13978)](https://github.com/stdlib-js/stdlib/pull/13978) _(by Philipp Burckhardt)_
