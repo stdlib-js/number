@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-06)
+## Unreleased (2026-08-09)
 
 <section class="features">
 
 ### Features
 
+-   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831)
 -   [`f4555c0`](https://github.com/stdlib-js/stdlib/commit/f4555c0c955a3c13609b452adba3708aa6f104e9) - add `uint64/base/set-low-word` [(#13808)](https://github.com/stdlib-js/stdlib/pull/13808)
 -   [`635c595`](https://github.com/stdlib-js/stdlib/commit/635c5954c4f00d397fe0d6ddbe254956bdd9f744) - add `number/int64/base/get-high-word` [(#13815)](https://github.com/stdlib-js/stdlib/pull/13815)
 -   [`8146616`](https://github.com/stdlib-js/stdlib/commit/814661610ed42dcddfe7bc7803d5ab3caa8f5123) - add `number/int64/base/get-low-word` [(#13814)](https://github.com/stdlib-js/stdlib/pull/13814)
@@ -60,6 +61,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - **feat:** add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831) _(by Nakul Krishnakumar, Athan Reines)_
 -   [`58556f4`](https://github.com/stdlib-js/stdlib/commit/58556f408eedf1737bc4795fb2734ef4dd2a6b32) - **chore:** clean-up [(#13978)](https://github.com/stdlib-js/stdlib/pull/13978) _(by Philipp Burckhardt)_
 -   [`51e6c83`](https://github.com/stdlib-js/stdlib/commit/51e6c8396643e10c6ef40d4e121396c3d00289b3) - **docs:** update note [(#13965)](https://github.com/stdlib-js/stdlib/pull/13965) _(by stdlib-bot)_
 -   [`7ae11bc`](https://github.com/stdlib-js/stdlib/commit/7ae11bca9e05607a14425d165dfed57584b880b8) - **chore:** clean-up [(#13834)](https://github.com/stdlib-js/stdlib/pull/13834) _(by Philipp Burckhardt)_
