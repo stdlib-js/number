@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-09)
+## Unreleased (2026-08-10)
 
 <section class="features">
 
@@ -63,6 +63,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`41923f7`](https://github.com/stdlib-js/stdlib/commit/41923f7e9c3398dd79ad1a9e0f7202d4d2b6ce50) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`7044cb6`](https://github.com/stdlib-js/stdlib/commit/7044cb6060ff971420a3ae07813849de316c96ae) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`b3d9447`](https://github.com/stdlib-js/stdlib/commit/b3d9447923c16fc51f12c6ea45909bb29b4aab42) - **chore:** clean-up [(#14098)](https://github.com/stdlib-js/stdlib/pull/14098) _(by Philipp Burckhardt)_
 -   [`48e43f7`](https://github.com/stdlib-js/stdlib/commit/48e43f74836aee68385300a6ec9552a115e96e11) - **feat:** add `number/int64/base/assert/is-equal` [(#14093)](https://github.com/stdlib-js/stdlib/pull/14093) _(by Nakul Krishnakumar)_
 -   [`7598bab`](https://github.com/stdlib-js/stdlib/commit/7598babb0d21bcc0596d29e2ff2810a1c469dc48) - **feat:** add `number/int64/base/to-words` [(#14092)](https://github.com/stdlib-js/stdlib/pull/14092) _(by Nakul Krishnakumar, Athan Reines)_
