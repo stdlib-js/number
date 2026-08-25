@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-23)
+## Unreleased (2026-08-25)
 
 <section class="features">
 
@@ -63,6 +63,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f468237`](https://github.com/stdlib-js/stdlib/commit/f468237d9d73fb6f65b31db9a8ff51a371ef6a1e) - **docs:** update related packages sections [(#14578)](https://github.com/stdlib-js/stdlib/pull/14578) _(by stdlib-bot)_
 -   [`84d5ddf`](https://github.com/stdlib-js/stdlib/commit/84d5ddf9370fb2ef1a1338fecefc83908fcb9faf) - **docs:** update related packages sections [(#14546)](https://github.com/stdlib-js/stdlib/pull/14546) _(by stdlib-bot)_
 -   [`d4855f5`](https://github.com/stdlib-js/stdlib/commit/d4855f53879f5eff85801596b21a52fe3f8281ad) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`41923f7`](https://github.com/stdlib-js/stdlib/commit/41923f7e9c3398dd79ad1a9e0f7202d4d2b6ce50) - **docs:** update Markdown equation elements _(by stdlib-bot)_
