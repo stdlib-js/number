@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-25)
+## Unreleased (2026-09-06)
 
 <section class="features">
 
 ### Features
 
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001)
 -   [`48e43f7`](https://github.com/stdlib-js/stdlib/commit/48e43f74836aee68385300a6ec9552a115e96e11) - add `number/int64/base/assert/is-equal` [(#14093)](https://github.com/stdlib-js/stdlib/pull/14093)
 -   [`7598bab`](https://github.com/stdlib-js/stdlib/commit/7598babb0d21bcc0596d29e2ff2810a1c469dc48) - add `number/int64/base/to-words` [(#14092)](https://github.com/stdlib-js/stdlib/pull/14092)
 -   [`5a6af33`](https://github.com/stdlib-js/stdlib/commit/5a6af334f761bfbb7ec73adb44bb0c509c80cdc6) - add `number/int64/base/identity` [(#13831)](https://github.com/stdlib-js/stdlib/pull/13831)
@@ -63,6 +64,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - **feat:** add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001) _(by Muhammad Haris, Athan Reines)_
 -   [`f468237`](https://github.com/stdlib-js/stdlib/commit/f468237d9d73fb6f65b31db9a8ff51a371ef6a1e) - **docs:** update related packages sections [(#14578)](https://github.com/stdlib-js/stdlib/pull/14578) _(by stdlib-bot)_
 -   [`84d5ddf`](https://github.com/stdlib-js/stdlib/commit/84d5ddf9370fb2ef1a1338fecefc83908fcb9faf) - **docs:** update related packages sections [(#14546)](https://github.com/stdlib-js/stdlib/pull/14546) _(by stdlib-bot)_
 -   [`d4855f5`](https://github.com/stdlib-js/stdlib/commit/d4855f53879f5eff85801596b21a52fe3f8281ad) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -138,10 +140,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
+-   Muhammad Haris
 -   Nakul Krishnakumar
 -   Philipp Burckhardt
 -   Sathwik Vemula
