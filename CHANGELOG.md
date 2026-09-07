@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
 -   [`b5e2b90`](https://github.com/stdlib-js/stdlib/commit/b5e2b904797ed4e217a24dfcff6cb2c8b5a3e578) - add `C` implementation to `number/float64/base/ulp-difference` [(#15044)](https://github.com/stdlib-js/stdlib/pull/15044)
 -   [`4f59e0a`](https://github.com/stdlib-js/stdlib/commit/4f59e0a20c837852700c977ca7e63eb27f6e08c8) - add `number/float16/base/assert/is-almost-same-value` [(#14904)](https://github.com/stdlib-js/stdlib/pull/14904)
 -   [`1458b04`](https://github.com/stdlib-js/stdlib/commit/1458b04a0e4b14a27e3161fe4b61cab355f9a1c1) - add `number/float16/base/assert/is-same-value` [(#14903)](https://github.com/stdlib-js/stdlib/pull/14903)
@@ -67,6 +68,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
 -   [`b74c268`](https://github.com/stdlib-js/stdlib/commit/b74c2687461fb1642089500b7cc8541d1100bfb4) - **docs:** fix return annotation [(#15074)](https://github.com/stdlib-js/stdlib/pull/15074) _(by Philipp Burckhardt)_
 -   [`b5e2b90`](https://github.com/stdlib-js/stdlib/commit/b5e2b904797ed4e217a24dfcff6cb2c8b5a3e578) - **feat:** add `C` implementation to `number/float64/base/ulp-difference` [(#15044)](https://github.com/stdlib-js/stdlib/pull/15044) _(by Muhammad Haris)_
 -   [`561e327`](https://github.com/stdlib-js/stdlib/commit/561e32741665cad47f817f0f46d06fe95a643b4f) - **docs:** fix example [(#15038)](https://github.com/stdlib-js/stdlib/pull/15038) _(by Philipp Burckhardt)_
