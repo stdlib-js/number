@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-07)
+## Unreleased (2026-09-08)
 
 <section class="features">
 
 ### Features
 
+-   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076)
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
 -   [`b5e2b90`](https://github.com/stdlib-js/stdlib/commit/b5e2b904797ed4e217a24dfcff6cb2c8b5a3e578) - add `C` implementation to `number/float64/base/ulp-difference` [(#15044)](https://github.com/stdlib-js/stdlib/pull/15044)
 -   [`4f59e0a`](https://github.com/stdlib-js/stdlib/commit/4f59e0a20c837852700c977ca7e63eb27f6e08c8) - add `number/float16/base/assert/is-almost-same-value` [(#14904)](https://github.com/stdlib-js/stdlib/pull/14904)
@@ -68,6 +69,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - **feat:** add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076) _(by Muhammad Haris, Athan Reines)_
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
 -   [`b74c268`](https://github.com/stdlib-js/stdlib/commit/b74c2687461fb1642089500b7cc8541d1100bfb4) - **docs:** fix return annotation [(#15074)](https://github.com/stdlib-js/stdlib/pull/15074) _(by Philipp Burckhardt)_
 -   [`b5e2b90`](https://github.com/stdlib-js/stdlib/commit/b5e2b904797ed4e217a24dfcff6cb2c8b5a3e578) - **feat:** add `C` implementation to `number/float64/base/ulp-difference` [(#15044)](https://github.com/stdlib-js/stdlib/pull/15044) _(by Muhammad Haris)_
