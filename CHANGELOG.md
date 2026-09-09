@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-08)
+## Unreleased (2026-09-09)
 
 <section class="features">
 
@@ -69,6 +69,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`2740b02`](https://github.com/stdlib-js/stdlib/commit/2740b02e4e820553f2ea50765ac71db10415cb06) - **refactor:** remove unnecessary `Boolean` wrapper [(#15105)](https://github.com/stdlib-js/stdlib/pull/15105) _(by Philipp Burckhardt)_
 -   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - **feat:** add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076) _(by Muhammad Haris, Athan Reines)_
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - **feat:** add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036) _(by Muhammad Haris, Athan Reines)_
 -   [`b74c268`](https://github.com/stdlib-js/stdlib/commit/b74c2687461fb1642089500b7cc8541d1100bfb4) - **docs:** fix return annotation [(#15074)](https://github.com/stdlib-js/stdlib/pull/15074) _(by Philipp Burckhardt)_
