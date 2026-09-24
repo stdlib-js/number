@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-23)
+## Unreleased (2026-09-24)
 
 <section class="features">
 
@@ -69,6 +69,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`af03615`](https://github.com/stdlib-js/stdlib/commit/af036154ff8e7a062ac3cc3d941715fc7e59222c) - **docs:** update documentation and tests in `uint64/base/number2words` [(#15474)](https://github.com/stdlib-js/stdlib/pull/15474) _(by Abdul Kaium, Athan Reines)_
 -   [`d8a1167`](https://github.com/stdlib-js/stdlib/commit/d8a116756a94bac9aeb0b4b5643fbca221de41f3) - **chore:** rename C source files according to convention [(#15435)](https://github.com/stdlib-js/stdlib/pull/15435) _(by Philipp Burckhardt)_
 -   [`2740b02`](https://github.com/stdlib-js/stdlib/commit/2740b02e4e820553f2ea50765ac71db10415cb06) - **refactor:** remove unnecessary `Boolean` wrapper [(#15105)](https://github.com/stdlib-js/stdlib/pull/15105) _(by Philipp Burckhardt)_
 -   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - **feat:** add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076) _(by Muhammad Haris, Athan Reines)_
