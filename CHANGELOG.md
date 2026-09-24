@@ -46,6 +46,7 @@
 
 ### Bug Fixes
 
+-   [`ed84323`](https://github.com/stdlib-js/stdlib/commit/ed843233c858761842415c563e97928c8045bd67) - support full 64-bit integer range for number inputs in `int64/ctor` [(#15477)](https://github.com/stdlib-js/stdlib/pull/15477)
 -   [`93dfa49`](https://github.com/stdlib-js/stdlib/commit/93dfa499833451d2f532baa092678a109603abc0) - support full 64-bit integer range for number inputs in `uint64/ctor` [(#15476)](https://github.com/stdlib-js/stdlib/pull/15476)
 -   [`6a1979f`](https://github.com/stdlib-js/stdlib/commit/6a1979f5cc9810adfe208e3077a4b2f81f255fb4) - ensure `stdlib_float16_bits_t` is defined for all `stdlib_float16_t` type definitions [(#13162)](https://github.com/stdlib-js/stdlib/pull/13162)
 
@@ -71,6 +72,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`ed84323`](https://github.com/stdlib-js/stdlib/commit/ed843233c858761842415c563e97928c8045bd67) - **fix:** support full 64-bit integer range for number inputs in `int64/ctor` [(#15477)](https://github.com/stdlib-js/stdlib/pull/15477) _(by Abdul Kaium, Athan Reines)_
 -   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - **feat:** add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475) _(by Abdul Kaium, Athan Reines)_
 -   [`e131d88`](https://github.com/stdlib-js/stdlib/commit/e131d88ed8ae2885dcd5ea0549bffeb05d8e4f87) - **docs:** update markup _(by Athan Reines)_
 -   [`93dfa49`](https://github.com/stdlib-js/stdlib/commit/93dfa499833451d2f532baa092678a109603abc0) - **fix:** support full 64-bit integer range for number inputs in `uint64/ctor` [(#15476)](https://github.com/stdlib-js/stdlib/pull/15476) _(by Abdul Kaium, Athan Reines)_
