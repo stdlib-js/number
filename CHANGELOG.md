@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475)
 -   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076)
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
 -   [`b5e2b90`](https://github.com/stdlib-js/stdlib/commit/b5e2b904797ed4e217a24dfcff6cb2c8b5a3e578) - add `C` implementation to `number/float64/base/ulp-difference` [(#15044)](https://github.com/stdlib-js/stdlib/pull/15044)
@@ -70,6 +71,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - **feat:** add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475) _(by Abdul Kaium, Athan Reines)_
 -   [`e131d88`](https://github.com/stdlib-js/stdlib/commit/e131d88ed8ae2885dcd5ea0549bffeb05d8e4f87) - **docs:** update markup _(by Athan Reines)_
 -   [`93dfa49`](https://github.com/stdlib-js/stdlib/commit/93dfa499833451d2f532baa092678a109603abc0) - **fix:** support full 64-bit integer range for number inputs in `uint64/ctor` [(#15476)](https://github.com/stdlib-js/stdlib/pull/15476) _(by Abdul Kaium, Athan Reines)_
 -   [`af03615`](https://github.com/stdlib-js/stdlib/commit/af036154ff8e7a062ac3cc3d941715fc7e59222c) - **docs:** update documentation and tests in `uint64/base/number2words` [(#15474)](https://github.com/stdlib-js/stdlib/pull/15474) _(by Abdul Kaium, Athan Reines)_
