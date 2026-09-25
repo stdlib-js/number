@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-24)
+## Unreleased (2026-09-25)
 
 <section class="features">
 
@@ -72,6 +72,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e737e90`](https://github.com/stdlib-js/stdlib/commit/e737e9002982713c3533a9a5fe3e0c6a8e7e79ee) - **chore:** clean-up [(#15498)](https://github.com/stdlib-js/stdlib/pull/15498) _(by Philipp Burckhardt)_
 -   [`ed84323`](https://github.com/stdlib-js/stdlib/commit/ed843233c858761842415c563e97928c8045bd67) - **fix:** support full 64-bit integer range for number inputs in `int64/ctor` [(#15477)](https://github.com/stdlib-js/stdlib/pull/15477) _(by Abdul Kaium, Athan Reines)_
 -   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - **feat:** add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475) _(by Abdul Kaium, Athan Reines)_
 -   [`e131d88`](https://github.com/stdlib-js/stdlib/commit/e131d88ed8ae2885dcd5ea0549bffeb05d8e4f87) - **docs:** update markup _(by Athan Reines)_
