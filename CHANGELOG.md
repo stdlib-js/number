@@ -73,6 +73,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7728021`](https://github.com/stdlib-js/stdlib/commit/77280218ae986d22d7227326173658e7172db899) - **chore:** clean-up [(#15685)](https://github.com/stdlib-js/stdlib/pull/15685) _(by Philipp Burckhardt)_
 -   [`4b0f1ac`](https://github.com/stdlib-js/stdlib/commit/4b0f1ac8f2d212d69b6012b7dc314b14da45cc36) - **feat:** add `number/int32/base/signbit` [(#14982)](https://github.com/stdlib-js/stdlib/pull/14982) _(by Divit Jain, Athan Reines)_
 -   [`e737e90`](https://github.com/stdlib-js/stdlib/commit/e737e9002982713c3533a9a5fe3e0c6a8e7e79ee) - **chore:** clean-up [(#15498)](https://github.com/stdlib-js/stdlib/pull/15498) _(by Philipp Burckhardt)_
 -   [`ed84323`](https://github.com/stdlib-js/stdlib/commit/ed843233c858761842415c563e97928c8045bd67) - **fix:** support full 64-bit integer range for number inputs in `int64/ctor` [(#15477)](https://github.com/stdlib-js/stdlib/pull/15477) _(by Abdul Kaium, Athan Reines)_
