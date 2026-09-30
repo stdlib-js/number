@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-09-30)
 
 <section class="features">
 
 ### Features
 
+-   [`4b0f1ac`](https://github.com/stdlib-js/stdlib/commit/4b0f1ac8f2d212d69b6012b7dc314b14da45cc36) - add `number/int32/base/signbit` [(#14982)](https://github.com/stdlib-js/stdlib/pull/14982)
 -   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475)
 -   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076)
 -   [`f2e4c4f`](https://github.com/stdlib-js/stdlib/commit/f2e4c4fb00a75ca16b696ec268f0a776117748df) - add C implementation to `number/float32/base/assert/is-almost-same-value` [(#15036)](https://github.com/stdlib-js/stdlib/pull/15036)
@@ -72,6 +73,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4b0f1ac`](https://github.com/stdlib-js/stdlib/commit/4b0f1ac8f2d212d69b6012b7dc314b14da45cc36) - **feat:** add `number/int32/base/signbit` [(#14982)](https://github.com/stdlib-js/stdlib/pull/14982) _(by Divit Jain, Athan Reines)_
 -   [`e737e90`](https://github.com/stdlib-js/stdlib/commit/e737e9002982713c3533a9a5fe3e0c6a8e7e79ee) - **chore:** clean-up [(#15498)](https://github.com/stdlib-js/stdlib/pull/15498) _(by Philipp Burckhardt)_
 -   [`ed84323`](https://github.com/stdlib-js/stdlib/commit/ed843233c858761842415c563e97928c8045bd67) - **fix:** support full 64-bit integer range for number inputs in `int64/ctor` [(#15477)](https://github.com/stdlib-js/stdlib/pull/15477) _(by Abdul Kaium, Athan Reines)_
 -   [`c96ecd5`](https://github.com/stdlib-js/stdlib/commit/c96ecd5279cb1fc71be652ff478d7b1ff459395b) - **feat:** add `number/int64/base/number2words` [(#15475)](https://github.com/stdlib-js/stdlib/pull/15475) _(by Abdul Kaium, Athan Reines)_
@@ -163,10 +165,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
+-   Divit Jain
 -   Gururaj Gurram
 -   Muhammad Haris
 -   Nakul Krishnakumar
