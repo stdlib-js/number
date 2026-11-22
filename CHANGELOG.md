@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-20)
+## Unreleased (2026-11-22)
 
 <section class="features">
 
@@ -59,9 +59,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#13147](https://github.com/stdlib-js/stdlib/issues/13147), [#13275](https://github.com/stdlib-js/stdlib/issues/13275)
+[#13147](https://github.com/stdlib-js/stdlib/issues/13147), [#13275](https://github.com/stdlib-js/stdlib/issues/13275), [#16182](https://github.com/stdlib-js/stdlib/issues/16182)
 
 </section>
 
@@ -73,6 +73,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`2da1434`](https://github.com/stdlib-js/stdlib/commit/2da143418ec24d8154f5dd58974647b78528aea6) - **style:** resolve lint errors [(#16183)](https://github.com/stdlib-js/stdlib/pull/16183) _(by Kratos, Athan Reines)_
 -   [`c62ed72`](https://github.com/stdlib-js/stdlib/commit/c62ed729d0d2b0d68991fe599931b10896b7be63) - **docs:** clean-up [(#16728)](https://github.com/stdlib-js/stdlib/pull/16728) _(by Philipp Burckhardt)_
 -   [`8f624de`](https://github.com/stdlib-js/stdlib/commit/8f624de7eaf721da6bdb42adc299c4876a856c0f) - **style:** add missing whitespace [(#16522)](https://github.com/stdlib-js/stdlib/pull/16522) _(by Philipp Burckhardt)_
 -   [`7349dff`](https://github.com/stdlib-js/stdlib/commit/7349dffeddd90289879f06e70acc1be8544af75b) - **style:** add missing whitespace [(#16507)](https://github.com/stdlib-js/stdlib/pull/16507) _(by Philipp Burckhardt)_
@@ -172,12 +173,13 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
 -   Divit Jain
 -   Gururaj Gurram
+-   Kratos
 -   Muhammad Haris
 -   Nakul Krishnakumar
 -   Philipp Burckhardt
