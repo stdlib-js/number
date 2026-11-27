@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-22)
+## Unreleased (2026-11-27)
 
 <section class="features">
 
@@ -73,6 +73,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`112fc33`](https://github.com/stdlib-js/stdlib/commit/112fc33db3438b8a858d0c08d35fbfb38c938d7a) - **refactor:** use `constants/float64/nan` in `number/float64/base/ulp-difference` [(#16786)](https://github.com/stdlib-js/stdlib/pull/16786) _(by Aditya Kumar)_
 -   [`2da1434`](https://github.com/stdlib-js/stdlib/commit/2da143418ec24d8154f5dd58974647b78528aea6) - **style:** resolve lint errors [(#16183)](https://github.com/stdlib-js/stdlib/pull/16183) _(by Kratos, Athan Reines)_
 -   [`c62ed72`](https://github.com/stdlib-js/stdlib/commit/c62ed729d0d2b0d68991fe599931b10896b7be63) - **docs:** clean-up [(#16728)](https://github.com/stdlib-js/stdlib/pull/16728) _(by Philipp Burckhardt)_
 -   [`8f624de`](https://github.com/stdlib-js/stdlib/commit/8f624de7eaf721da6bdb42adc299c4876a856c0f) - **style:** add missing whitespace [(#16522)](https://github.com/stdlib-js/stdlib/pull/16522) _(by Philipp Burckhardt)_
@@ -173,9 +174,10 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 11 people contributed to this release. Thank you to the following contributors:
+A total of 12 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
+-   Aditya Kumar
 -   Athan Reines
 -   Divit Jain
 -   Gururaj Gurram
